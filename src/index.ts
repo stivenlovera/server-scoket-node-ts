@@ -1,26 +1,22 @@
 import express, { json } from "express";
-import { Server as WebSocketServer } from 'socket.io'
 import http from 'http'
+import { Server as WebSocketServer } from 'socket.io'
+import dispositivoSocket from "./socket-controller/dispositivo";
 
 const app = express();
 const httpServer = http.createServer(app);
-const io = new WebSocketServer(httpServer);
-
-app.get('/accion', (req, res) => {
-    io.emit('response', 'haz esto!');
-    res.send('acccion enviada')
-})
-
+export const io = new WebSocketServer(httpServer, {
+    cors: {
+        origin: "*",
+    },
+});
 io.on('connection', (socket) => {
-    console.log('nueva conexion id', socket.id);
-    socket.emit('response', 'haz esto!');
-    socket.on('store:data', (data) => {
-        console.log(data)
-    });
-})
+    console.log('audiencia', socket.id)
+    io.emit('ping', { cliente: socket.id })
+    /* CONTROLLER SOCKET*/
+    dispositivoSocket(socket);
+});
 
 httpServer.listen(3000);
-
-
 
 console.log('Server en port', 3000)
