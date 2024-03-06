@@ -1,6 +1,7 @@
 import { Socket } from "socket.io/dist/socket"
 import { io } from ".."
 import { DefaultEventsMap } from "socket.io/dist/typed-events"
+import { IUsuario } from "../interface/hikvision/dispositivo-facial/usuario"
 
 export default function dispositivoSocket(socket: Socket<DefaultEventsMap, DefaultEventsMap, DefaultEventsMap, any>) {
 
