@@ -9,6 +9,7 @@ const http_1 = __importDefault(require("http"));
 const socket_io_1 = require("socket.io");
 const dispositivo_1 = __importDefault(require("./socket-controller/dispositivo"));
 const usuario_1 = __importDefault(require("./socket-controller/usuario"));
+require("./utils/model-maps");
 const app = (0, express_1.default)();
 const httpServer = http_1.default.createServer(app);
 exports.io = new socket_io_1.Server(httpServer, {

@@ -3,6 +3,7 @@ import http from 'http'
 import { Server as WebSocketServer } from 'socket.io'
 import dispositivoSocket from "./socket-controller/dispositivo";
 import usuarioSocket from "./socket-controller/usuario";
+import "./utils/model-maps";
 
 const app = express();
 const httpServer = http.createServer(app);
@@ -14,7 +15,7 @@ export const io = new WebSocketServer(httpServer, {
 io.on('connection', (socket) => {
     console.log('audiencia', socket.id)
     io.emit('ping', { cliente: socket.id })
-    
+
     /* CONTROLLER SOCKET*/
     dispositivoSocket(socket);
     usuarioSocket(socket);

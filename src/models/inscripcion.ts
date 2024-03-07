@@ -1,8 +1,6 @@
 import { Table, Column, DataType, Model } from 'sequelize-typescript';
-import '../config/database';
-
 @Table({
-    timestamps: true,
+    timestamps: false,
     tableName: "inscripcion",
     modelName: "Inscripcion"
 })
