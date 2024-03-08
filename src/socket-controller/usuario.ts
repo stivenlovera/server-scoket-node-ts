@@ -2,31 +2,41 @@ import { Socket } from "socket.io/dist/socket"
 import { io } from ".."
 import { DefaultEventsMap } from "socket.io/dist/typed-events"
 import { IUsuario, IUsuarioWeb } from "../interface/hikvision/dispositivo-facial/usuario"
-import { Inscripcion } from "../models/inscripcion"
 import sequelize from "../config/database"
 import { QueryTypes } from "sequelize"
-import { Cliente } from "../interface/database/clientes"
-import { Cliente as ClienteModel } from "../models/cliente"
+import { IIncripcionQuery } from "../interface/database/inscripcion"
+import { obtenerIncripcionesQuery } from "../querys/inscripcion"
+import { obtenerTodoLectoresQuery } from "../querys/lectores"
+import { ILector } from "../interface/database/lector"
+import moment from "moment"
 //import '../config/database'
 
 export default function usuarioSocket(socket: Socket<DefaultEventsMap, DefaultEventsMap, DefaultEventsMap, any>) {
 
     socket.on('nuevo:usuario:web', async (usuario: IUsuarioWeb) => {
         console.log('emisor', 'nuevo:usuario:web', usuario)
-        const inscripciones = await Inscripcion.findAll();
-        const cliente = await sequelize.query<Cliente>(`SELECT * FROM cliente`, { type: QueryTypes.SELECT });
-        const insert = await ClienteModel.create({
-            idCliente:15,
-            CondicionCliente: 1,
-            dirCliente: 'sdf',
-            docCliente: 1545,
-            mailCliente: 'dsf',
-            nomCliente: 'dsf',
-            tel1Cliente: 0,
-            tel2Cliente: 0,
-        });
-        console.log(cliente[0], insert)
-        io.emit('nuevo:usuario:web', { inscripciones, cliente })
+        //const inscripciones = await Inscripcion.findAll();
+        const inscripciones = await sequelize.query<IIncripcionQuery>(obtenerIncripcionesQuery(), { type: QueryTypes.SELECT });
+        const lectores = await sequelize.query<ILector>(obtenerTodoLectoresQuery(), { type: QueryTypes.SELECT });
+
+        let usuarios: IUsuario[] = [];
+
+        inscripciones.map((inscripcion) => {
+            usuarios.push({
+                UserInfo: {
+                    employeeNo: inscripcion.idCliente.toString(),
+                    name: inscripcion.nomCliente,
+                    userType: 'normal',
+                    Valid: {
+                        beginTime: moment(inscripcion.fechaInicio, "YYYY-MM-DDTHH:mm").utc().format(),
+                        endTime: moment(inscripcion.fechaFin, "YYYY-MM-DDTHH:mm").utc().format(),
+                        enable: true
+                    }
+                }
+            })
+        })
+        console.log('incripcion', inscripciones, 'lectores', lectores)
+        io.emit('nuevo:usuario:service', { usuarios, lectores })
     })
 
     socket.on('nuevo:usuario:service', (e) => {
