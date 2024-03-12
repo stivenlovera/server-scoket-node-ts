@@ -9,6 +9,7 @@ import { obtenerIncripcionesQuery } from "../querys/inscripcion"
 import { obtenerTodoLectoresQuery } from "../querys/lectores"
 import { ILector } from "../interface/database/lector"
 import moment from "moment"
+import { IFaceDataRecord, IImagen } from "../interface/hikvision/dispositivo-facial/imagen"
 //import '../config/database'
 
 export default function usuarioSocket(socket: Socket<DefaultEventsMap, DefaultEventsMap, DefaultEventsMap, any>) {
@@ -18,9 +19,8 @@ export default function usuarioSocket(socket: Socket<DefaultEventsMap, DefaultEv
         //const inscripciones = await Inscripcion.findAll();
         const inscripciones = await sequelize.query<IIncripcionQuery>(obtenerIncripcionesQuery(), { type: QueryTypes.SELECT });
         const lectores = await sequelize.query<ILector>(obtenerTodoLectoresQuery(), { type: QueryTypes.SELECT });
-
         let usuarios: IUsuario[] = [];
-
+        let fotos: IImagen[] = [];
         inscripciones.map((inscripcion) => {
             usuarios.push({
                 UserInfo: {
@@ -33,10 +33,21 @@ export default function usuarioSocket(socket: Socket<DefaultEventsMap, DefaultEv
                         enable: true
                     }
                 }
-            })
-        })
-        console.log('incripcion', inscripciones, 'lectores', lectores)
-        io.emit('nuevo:usuario:service', { usuarios, lectores })
+            });
+            const imagen: IFaceDataRecord = {
+                faceLibType: 'blackFD',
+                FDID: '1',
+                FPID: inscripcion.idCliente.toString()
+            }
+            if (inscripcion.fotoCliente != null) {
+                fotos.push({
+                    FaceDataRecord: JSON.stringify(imagen),
+                    img: `imagenes/clientes/${inscripcion.fotoCliente!}`
+                });
+            }
+        });
+        console.log('usuarios', usuarios, 'lectores', lectores, 'fotos', fotos)
+        io.emit('nuevo:usuario:service', { usuarios, lectores, fotos })
     })
 
     socket.on('nuevo:usuario:service', (e) => {

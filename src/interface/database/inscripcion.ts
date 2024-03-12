@@ -3,5 +3,6 @@ export interface IIncripcionQuery {
     idDetalleInscripcion: number
     nomCliente: string
     fechaInicio: Date
-    fechaFin: Date
+    fechaFin: Date,
+    fotoCliente: string | null
 }
