@@ -8,3 +8,7 @@ export interface ILector {
     passLector: string
     condicionLector: number
 }
+
+export interface ILectorData<T> extends ILector {
+    data: T
+}
