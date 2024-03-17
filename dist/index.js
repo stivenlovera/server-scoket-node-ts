@@ -7,19 +7,7 @@ exports.wss = void 0;
 require("./utils/model-maps");
 require("dotenv/config");
 const ws_1 = __importDefault(require("ws"));
-/* const app = express();
-const httpServer = http.createServer(app);
-export const io = new WebSocketServer(httpServer, {
-    cors: {
-        origin: "*",
-    },
-});
-io.on('connection', (socket) => {
-    console.log('audiencia', socket.id)
-    io.emit('ping', { cliente: socket.id })
-    dispositivoSocket(socket);
-    usuarioSocket(socket);
-}); */
+const usuarioController_1 = require("./controllers/usuarioController");
 exports.wss = new ws_1.default.Server({ port: 8000 });
 console.log("Iniciando server en el puerto 8000");
 // WebSocket event handling
@@ -31,38 +19,43 @@ exports.wss.on('connection', (ws) => {
         /* json.event='usuario';
         json.channel='web';
         json.type='store:create' */
-        const usuario = () => {
+        let parameters = {
+            request: json,
+            response(value) {
+                return json;
+            }
         };
+        function events(message) {
+            switch (message.event) {
+                case 'usuario':
+                    const usuarioController = new usuarioController_1.UsuarioController(parameters);
+                    const response = parameters.response;
+                    console.log(response);
+                    break;
+                default:
+                    break;
+            }
+        }
         //const usuarioController = new UsuarioController(json);
         //usuarioController.create()
         console.log('Received message:', /*  message.toString(), */ json);
         // Broadcast the message to all connected clients
-        switch (json.type) {
+        /* switch (json.type) {
             case 'store:init':
-                console.log('enviar a todos');
-                exports.wss.clients.forEach((client) => {
-                    if (client.readyState === ws_1.default.OPEN) {
+                console.log('enviar a todos')
+                wss.clients.forEach((client) => {
+                    if (client.readyState === WebSocket.OPEN) {
                         client.send(message.toString());
                     }
                 });
                 break;
             case 'store:finalize':
-                console.log('gracias');
-                /* wss.clients.forEach((client) => {
-                    const response: IMessageSocket<string> = {
-                        channel: "store",
-                        data: "recibido",
-                        emit: "usuario"
-                    }
-
-                    if (client.readyState === WebSocket.OPEN) {
-                        client.send(JSON.stringify(response));
-                    }
-                }); */
+                console.log('gracias')
+                
                 break;
             default:
                 break;
-        }
+        } */
     });
     // Event listener for client disconnection
     ws.on('close', () => {

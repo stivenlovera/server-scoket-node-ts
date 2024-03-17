@@ -10,7 +10,7 @@ import { UsuarioController } from "./controllers/usuarioController";
 
 export interface IMessageSocket<T> {
     event: string
-    type:string
+    type: string
     channel: string
     data: T
 }
@@ -28,6 +28,10 @@ io.on('connection', (socket) => {
     dispositivoSocket(socket);
     usuarioSocket(socket);
 }); */
+export interface Message<T> {
+    request: IMessageSocket<T>;
+    response: <T>(value: IMessageSocket<T>) => IMessageSocket<T>;
+}
 
 
 export const wss = new WebSocket.Server({ port: 8000 });
@@ -38,24 +42,38 @@ wss.on('connection', (ws) => {
 
     // Event listener for incoming messages
     ws.on('message', (message: string) => {
-        var json = JSON.parse(message) as IMessageSocket<string>;
+        var json = JSON.parse(message);
 
-        
+
         /* json.event='usuario';
         json.channel='web';
         json.type='store:create' */
-        
-        const usuario=( )=>{
+        let parameters: Message<any> = {
+            request: json,
+            response(value) {
+                return json;
+            }
+        };
+        function events<T>(message: IMessageSocket<T>) {
+            switch (message.event) {
+                case 'usuario':
+                    const usuarioController = new UsuarioController(parameters);
+                    const response = parameters.response;
+                    console.log(response)
+                    break;
 
+                default:
+                    break;
+            }
         }
 
         //const usuarioController = new UsuarioController(json);
         //usuarioController.create()
 
-       
+
         console.log('Received message:',/*  message.toString(), */ json);
         // Broadcast the message to all connected clients
-        switch (json.type) {
+        /* switch (json.type) {
             case 'store:init':
                 console.log('enviar a todos')
                 wss.clients.forEach((client) => {
@@ -66,21 +84,11 @@ wss.on('connection', (ws) => {
                 break;
             case 'store:finalize':
                 console.log('gracias')
-                /* wss.clients.forEach((client) => {
-                    const response: IMessageSocket<string> = {
-                        channel: "store",
-                        data: "recibido",
-                        emit: "usuario"
-                    }
-
-                    if (client.readyState === WebSocket.OPEN) {
-                        client.send(JSON.stringify(response));
-                    }
-                }); */
+                
                 break;
             default:
                 break;
-        }
+        } */
     });
     // Event listener for client disconnection
     ws.on('close', () => {
