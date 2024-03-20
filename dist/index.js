@@ -17,8 +17,8 @@ require("./utils/model-maps");
 require("dotenv/config");
 const ws_1 = __importDefault(require("ws"));
 const usuarioController_1 = require("./controllers/usuarioController");
-exports.wss = new ws_1.default.Server({ port: 8000 });
-console.log("Iniciando server en el puerto 8000");
+exports.wss = new ws_1.default.Server({ port: 3000 });
+console.log("Iniciando server en el puerto 3000");
 // WebSocket event handling
 exports.wss.on('connection', (ws, req) => __awaiter(void 0, void 0, void 0, function* () {
     console.log('Nuevo cliente detectado tipo', req.headers.token);

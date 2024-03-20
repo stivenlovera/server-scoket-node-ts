@@ -33,8 +33,8 @@ export interface Message<T> {
 }
 
 
-export const wss = new WebSocket.Server({ port: 8000 });
-console.log("Iniciando server en el puerto 8000")
+export const wss = new WebSocket.Server({ port: 3000 });
+console.log("Iniciando server en el puerto 3000")
 // WebSocket event handling
 wss.on('connection', async (ws, req) => {
     console.log('Nuevo cliente detectado tipo', req.headers.token);
