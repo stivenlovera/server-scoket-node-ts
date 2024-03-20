@@ -6,7 +6,7 @@ import usuarioSocket from "./socket-controller/usuario";
 import "./utils/model-maps";
 import 'dotenv/config'
 import WebSocket from 'ws'
-import { UsuarioController } from "./controllers/usuarioController";
+import { usuarioController } from "./controllers/usuarioController";
 
 export interface IMessageSocket<T> {
     event: string
@@ -30,71 +30,31 @@ io.on('connection', (socket) => {
 }); */
 export interface Message<T> {
     request: IMessageSocket<T>;
-    response: <T>(value: IMessageSocket<T>) => IMessageSocket<T>;
 }
 
 
 export const wss = new WebSocket.Server({ port: 8000 });
 console.log("Iniciando server en el puerto 8000")
 // WebSocket event handling
-wss.on('connection', (ws) => {
-    console.log('Nuevo cliente detectado');
-
-    // Event listener for incoming messages
-    ws.on('message', (message: string) => {
-        var json = JSON.parse(message);
-
-
-        /* json.event='usuario';
-        json.channel='web';
-        json.type='store:create' */
-        let parameters: Message<any> = {
-            request: json,
-            response(value) {
-                return json;
-            }
-        };
-        function events<T>(message: IMessageSocket<T>) {
-            switch (message.event) {
-                case 'usuario':
-                    const usuarioController = new UsuarioController(parameters);
-                    const response = parameters.response;
-                    console.log(response)
-                    break;
-
-                default:
-                    break;
-            }
-        }
-
-        //const usuarioController = new UsuarioController(json);
-        //usuarioController.create()
-
-
-        console.log('Received message:',/*  message.toString(), */ json);
-        // Broadcast the message to all connected clients
-        /* switch (json.type) {
-            case 'store:init':
-                console.log('enviar a todos')
-                wss.clients.forEach((client) => {
-                    if (client.readyState === WebSocket.OPEN) {
-                        client.send(message.toString());
-                    }
-                });
-                break;
-            case 'store:finalize':
-                console.log('gracias')
-                
-                break;
-            default:
-                break;
-        } */
-    });
-    // Event listener for client disconnection
+wss.on('connection', async (ws, req) => {
+    console.log('Nuevo cliente detectado tipo', req.headers.token);
+    try {
+        await usuarioController(ws, 'usuario');
+    } catch (error) {
+        console.log('se genero un error')
+    }
     ws.on('close', () => {
         console.log('A client disconnected.');
     });
 });
+
+export function EmitAll<T>(message: IMessageSocket<T>) {
+    wss.clients.forEach((client) => {
+        if (client.readyState === WebSocket.OPEN) {
+            client.send(JSON.stringify(message));
+        }
+    });
+}
 
 //httpServer.listen(3000);
 

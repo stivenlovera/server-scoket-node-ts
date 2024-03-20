@@ -1,5 +1,5 @@
 import { Socket } from "socket.io/dist/socket"
-import { io } from ".."
+/* import { io } from ".." */
 import { DefaultEventsMap } from "socket.io/dist/typed-events"
 import { IUsuarioFoto } from "../interface/hikvision/dispositivo-facial/usuario"
 import sequelize from "../config/database"
@@ -13,7 +13,7 @@ import { Inscripcion } from "../models/inscripcion"
 
 
 export default function usuarioSocket(socket: Socket<DefaultEventsMap, DefaultEventsMap, DefaultEventsMap, any>) {
-
+/* 
     socket.on('store:usuario:web', async (inscripcion: Inscripcion) => {
         console.log('emisor', 'store:usuario:web', inscripcion)
         //const inscripciones = await Inscripcion.findAll();
@@ -45,7 +45,7 @@ export default function usuarioSocket(socket: Socket<DefaultEventsMap, DefaultEv
                 })
             })
 
-        /*  inscripciones.map((inscripcion) => {
+          inscripciones.map((inscripcion) => {
              usuarios.push({
                  UserInfo: {
                      employeeNo: inscripcion.idCliente.toString(),
@@ -67,7 +67,7 @@ export default function usuarioSocket(socket: Socket<DefaultEventsMap, DefaultEv
              if (inscripcion.fotoCliente != null) {
                  fotos.push(imagen);
              }
-         }); */
+         }); 
         io.emit('store:usuario:service', resultado)
     })
 
@@ -75,5 +75,5 @@ export default function usuarioSocket(socket: Socket<DefaultEventsMap, DefaultEv
         //console.log(e.DeviceInfo.children[5])
         console.log(e)
         io.emit('nuevo:usuario:service', { model: e.DeviceInfo.children[5].model.content })
-    })
+    }) */
 }

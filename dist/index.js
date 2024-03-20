@@ -1,9 +1,18 @@
 "use strict";
+var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
+    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
+    return new (P || (P = Promise))(function (resolve, reject) {
+        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
+        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
+        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
+        step((generator = generator.apply(thisArg, _arguments || [])).next());
+    });
+};
 var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.wss = void 0;
+exports.EmitAll = exports.wss = void 0;
 require("./utils/model-maps");
 require("dotenv/config");
 const ws_1 = __importDefault(require("ws"));
@@ -11,55 +20,24 @@ const usuarioController_1 = require("./controllers/usuarioController");
 exports.wss = new ws_1.default.Server({ port: 8000 });
 console.log("Iniciando server en el puerto 8000");
 // WebSocket event handling
-exports.wss.on('connection', (ws) => {
-    console.log('Nuevo cliente detectado');
-    // Event listener for incoming messages
-    ws.on('message', (message) => {
-        var json = JSON.parse(message);
-        /* json.event='usuario';
-        json.channel='web';
-        json.type='store:create' */
-        let parameters = {
-            request: json,
-            response(value) {
-                return json;
-            }
-        };
-        function events(message) {
-            switch (message.event) {
-                case 'usuario':
-                    const usuarioController = new usuarioController_1.UsuarioController(parameters);
-                    const response = parameters.response;
-                    console.log(response);
-                    break;
-                default:
-                    break;
-            }
-        }
-        //const usuarioController = new UsuarioController(json);
-        //usuarioController.create()
-        console.log('Received message:', /*  message.toString(), */ json);
-        // Broadcast the message to all connected clients
-        /* switch (json.type) {
-            case 'store:init':
-                console.log('enviar a todos')
-                wss.clients.forEach((client) => {
-                    if (client.readyState === WebSocket.OPEN) {
-                        client.send(message.toString());
-                    }
-                });
-                break;
-            case 'store:finalize':
-                console.log('gracias')
-                
-                break;
-            default:
-                break;
-        } */
-    });
-    // Event listener for client disconnection
+exports.wss.on('connection', (ws, req) => __awaiter(void 0, void 0, void 0, function* () {
+    console.log('Nuevo cliente detectado tipo', req.headers.token);
+    try {
+        yield (0, usuarioController_1.usuarioController)(ws, 'usuario');
+    }
+    catch (error) {
+        console.log('se genero un error');
+    }
     ws.on('close', () => {
         console.log('A client disconnected.');
     });
-});
+}));
+function EmitAll(message) {
+    exports.wss.clients.forEach((client) => {
+        if (client.readyState === ws_1.default.OPEN) {
+            client.send(JSON.stringify(message));
+        }
+    });
+}
+exports.EmitAll = EmitAll;
 //httpServer.listen(3000);
