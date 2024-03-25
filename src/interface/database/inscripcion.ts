@@ -1,5 +1,6 @@
 export interface IIncripcionQuery {
     idCliente: number
+    idInscripcion: number
     idDetalleInscripcion: number
     nomCliente: string
     fechaInicio: Date

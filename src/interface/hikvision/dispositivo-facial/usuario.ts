@@ -1,10 +1,6 @@
-import { IFaceDataRecord } from "./foto"
-
-export interface IUsuarioFoto {
-  UserInfo: IUserInfo,
-  FaceDataRecord: IFaceDataRecord
+export interface IUsuarioDevice {
+  UserInfo: IUserInfo
 }
-
 export interface IUserInfo {
   employeeNo: string
   name: string
@@ -27,6 +23,18 @@ export interface IValid {
 }
 
 export interface IRightPlan {
-  doorNo: number
-  planTemplateNo: string
+  doorNo?: number
+  planTemplateNo?: string
+}
+
+export interface IUsuarioDeviceDestroy {
+  UserInfoDelCond: UserInfoDelCond
+}
+
+export interface UserInfoDelCond {
+  EmployeeNoList: EmployeeNoList[]
+}
+
+export interface EmployeeNoList {
+  employeeNo: string
 }

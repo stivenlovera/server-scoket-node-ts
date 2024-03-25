@@ -1,6 +1,6 @@
 export interface ILector {
     idLector: number
-    create_time: Date
+    create_time?: Date
     nomLector: string
     ipLector: string
     portLector: number
@@ -9,6 +9,8 @@ export interface ILector {
     condicionLector: number
 }
 
-export interface ILectorData<T> extends ILector {
+export interface IRequest<T> extends ILector {
+    method:string
+    endpoint:string
     data: T
 }

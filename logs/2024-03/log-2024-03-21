@@ -1,0 +1,2719 @@
+2024-03-21T08:07:56.427Z [info]: Iniciando server en el puerto 3000
+2024-03-21T08:08:09.678Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:08:09.708Z [info]: Nuevo cliente detectado tipo: postman
+2024-03-21T08:08:22.164Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"method": "POST",
+			"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+			"data": {
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"method": "POST",
+			"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+			"data": {
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-21T08:08:43.326Z [error]: usuarioController/store {
+	"StatusDescription": "Bad Request",
+	"StatusCode": 400,
+	"Response": "{\n\t\"statusCode\":\t6,\n\t\"statusString\":\t\"Invalid Content\",\n\t\"subStatusCode\":\t\"employeeNoAlreadyExist\",\n\t\"errorCode\":\t1610637344,\n\t\"errorMsg\":\t\"employeeNoAlreadyExist\"\n}",
+	"Request": {
+		"data": {
+			"UserInfo": {
+				"employeeNo": "15",
+				"name": "susana oria",
+				"userType": "normal",
+				"Valid": {
+					"beginTime": "2024-02-16T00:00:00Z",
+					"endTime": "2024-03-16T00:00:00Z",
+					"enable": true
+				}
+			}
+		},
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.247",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1
+	}
+}
+2024-03-21T08:08:43.327Z [error]: usuarioController/store {
+	"StatusDescription": "Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder. (192.168.88.30:80)",
+	"StatusCode": 500,
+	"Response": {},
+	"Request": {
+		"data": {
+			"UserInfo": {
+				"employeeNo": "15",
+				"name": "susana oria",
+				"userType": "normal",
+				"Valid": {
+					"beginTime": "2024-02-16T00:00:00Z",
+					"endTime": "2024-03-16T00:00:00Z",
+					"enable": true
+				}
+			}
+		},
+		"idLector": 1,
+		"create_time": null,
+		"nomLector": "Facial Ingreso",
+		"ipLector": "192.168.88.30",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1
+	}
+}
+2024-03-21T08:09:22.693Z [info]: Cliente desconectado worker
+2024-03-21T08:09:22.695Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:10:22.695Z [info]: Cliente desconectado worker
+2024-03-21T08:10:22.697Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:11:11.291Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"method": "POST",
+			"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+			"data": {
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"method": "POST",
+			"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+			"data": {
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-21T08:11:32.305Z [info]: usuarioController/store {
+	"StatusDescription": "OK",
+	"StatusCode": 200,
+	"Response": "{\n\t\"statusCode\":\t1,\n\t\"statusString\":\t\"OK\",\n\t\"subStatusCode\":\t\"ok\"\n}",
+	"Request": {
+		"data": {
+			"UserInfo": {
+				"employeeNo": "15",
+				"name": "susana oria",
+				"userType": "normal",
+				"Valid": {
+					"beginTime": "2024-02-16T00:00:00Z",
+					"endTime": "2024-03-16T00:00:00Z",
+					"enable": true
+				}
+			}
+		},
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.247",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1
+	}
+}
+2024-03-21T08:11:32.307Z [error]: usuarioController/store {
+	"StatusDescription": "Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder. (192.168.88.30:80)",
+	"StatusCode": 500,
+	"Response": {},
+	"Request": {
+		"data": {
+			"UserInfo": {
+				"employeeNo": "15",
+				"name": "susana oria",
+				"userType": "normal",
+				"Valid": {
+					"beginTime": "2024-02-16T00:00:00Z",
+					"endTime": "2024-03-16T00:00:00Z",
+					"enable": true
+				}
+			}
+		},
+		"idLector": 1,
+		"create_time": null,
+		"nomLector": "Facial Ingreso",
+		"ipLector": "192.168.88.30",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1
+	}
+}
+2024-03-21T08:12:11.699Z [info]: Cliente desconectado worker
+2024-03-21T08:12:11.700Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:12:37.742Z [info]: Iniciando server en el puerto 3000
+2024-03-21T08:12:38.246Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:13:38.248Z [info]: Cliente desconectado worker
+2024-03-21T08:13:38.249Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:14:39.249Z [info]: Cliente desconectado worker
+2024-03-21T08:14:39.250Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:15:40.251Z [info]: Cliente desconectado worker
+2024-03-21T08:15:40.252Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:16:41.253Z [info]: Cliente desconectado worker
+2024-03-21T08:16:41.254Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:17:41.255Z [info]: Cliente desconectado worker
+2024-03-21T08:17:41.256Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:18:41.259Z [info]: Cliente desconectado worker
+2024-03-21T08:18:41.260Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:19:41.261Z [info]: Cliente desconectado worker
+2024-03-21T08:19:41.263Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:20:41.266Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:20:41.276Z [info]: Cliente desconectado worker
+2024-03-21T08:21:10.950Z [info]: Iniciando server en el puerto 3000
+2024-03-21T08:21:11.422Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:22:11.424Z [info]: Cliente desconectado worker
+2024-03-21T08:22:11.426Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:23:11.432Z [info]: Cliente desconectado worker
+2024-03-21T08:23:11.437Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:24:11.438Z [info]: Cliente desconectado worker
+2024-03-21T08:24:11.440Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:25:12.440Z [info]: Cliente desconectado worker
+2024-03-21T08:25:12.441Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:26:12.442Z [info]: Cliente desconectado worker
+2024-03-21T08:26:12.444Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:27:12.447Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:27:12.447Z [info]: Cliente desconectado worker
+2024-03-21T08:28:13.446Z [info]: Cliente desconectado worker
+2024-03-21T08:28:13.448Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:29:13.449Z [info]: Cliente desconectado worker
+2024-03-21T08:29:13.450Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:30:13.451Z [info]: Cliente desconectado worker
+2024-03-21T08:30:13.453Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:31:13.455Z [info]: Cliente desconectado worker
+2024-03-21T08:31:13.457Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:32:14.457Z [info]: Cliente desconectado worker
+2024-03-21T08:32:14.458Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:33:14.463Z [info]: Cliente desconectado worker
+2024-03-21T08:33:14.465Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:34:14.471Z [info]: Cliente desconectado worker
+2024-03-21T08:34:14.473Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:35:14.474Z [info]: Cliente desconectado worker
+2024-03-21T08:35:14.475Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:36:14.478Z [info]: Cliente desconectado worker
+2024-03-21T08:36:14.479Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:37:14.481Z [info]: Cliente desconectado worker
+2024-03-21T08:37:14.482Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:38:14.483Z [info]: Cliente desconectado worker
+2024-03-21T08:38:14.485Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:39:14.486Z [info]: Cliente desconectado worker
+2024-03-21T08:39:14.487Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:40:15.487Z [info]: Cliente desconectado worker
+2024-03-21T08:40:15.488Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:41:16.489Z [info]: Cliente desconectado worker
+2024-03-21T08:41:16.491Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:42:16.492Z [info]: Cliente desconectado worker
+2024-03-21T08:42:16.494Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:43:17.495Z [info]: Cliente desconectado worker
+2024-03-21T08:43:17.496Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:44:17.498Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:44:17.499Z [info]: Cliente desconectado worker
+2024-03-21T08:45:17.499Z [info]: Cliente desconectado worker
+2024-03-21T08:45:17.502Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:46:18.501Z [info]: Cliente desconectado worker
+2024-03-21T08:46:18.504Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:47:18.505Z [info]: Cliente desconectado worker
+2024-03-21T08:47:18.506Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:48:18.506Z [info]: Cliente desconectado worker
+2024-03-21T08:48:18.507Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:49:19.507Z [info]: Cliente desconectado worker
+2024-03-21T08:49:19.510Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:50:19.512Z [info]: Cliente desconectado worker
+2024-03-21T08:50:19.515Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:51:20.515Z [info]: Cliente desconectado worker
+2024-03-21T08:51:20.517Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:52:20.518Z [info]: Cliente desconectado worker
+2024-03-21T08:52:20.520Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:53:20.523Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:53:20.523Z [info]: Cliente desconectado worker
+2024-03-21T08:54:21.523Z [info]: Cliente desconectado worker
+2024-03-21T08:54:21.525Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:55:22.525Z [info]: Cliente desconectado worker
+2024-03-21T08:55:22.527Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:56:23.528Z [info]: Cliente desconectado worker
+2024-03-21T08:56:23.530Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:57:23.530Z [info]: Cliente desconectado worker
+2024-03-21T08:57:23.531Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:58:24.533Z [info]: Cliente desconectado worker
+2024-03-21T08:58:24.535Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T08:59:25.537Z [info]: Cliente desconectado worker
+2024-03-21T08:59:25.538Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:00:25.540Z [info]: Cliente desconectado worker
+2024-03-21T09:00:25.541Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:01:25.543Z [info]: Cliente desconectado worker
+2024-03-21T09:01:25.545Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:02:25.546Z [info]: Cliente desconectado worker
+2024-03-21T09:02:25.548Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:03:26.548Z [info]: Cliente desconectado worker
+2024-03-21T09:03:26.549Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:04:26.550Z [info]: Cliente desconectado worker
+2024-03-21T09:04:26.552Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:05:27.553Z [info]: Cliente desconectado worker
+2024-03-21T09:05:27.555Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:06:27.556Z [info]: Cliente desconectado worker
+2024-03-21T09:06:27.559Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:07:27.560Z [info]: Cliente desconectado worker
+2024-03-21T09:07:27.562Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:08:28.563Z [info]: Cliente desconectado worker
+2024-03-21T09:08:28.564Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:09:29.563Z [info]: Cliente desconectado worker
+2024-03-21T09:09:29.564Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:10:30.566Z [info]: Cliente desconectado worker
+2024-03-21T09:10:30.568Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:11:30.569Z [info]: Cliente desconectado worker
+2024-03-21T09:11:30.570Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:12:30.571Z [info]: Cliente desconectado worker
+2024-03-21T09:12:30.573Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:13:30.575Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:13:30.576Z [info]: Cliente desconectado worker
+2024-03-21T09:14:31.575Z [info]: Cliente desconectado worker
+2024-03-21T09:14:31.577Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:15:31.578Z [info]: Cliente desconectado worker
+2024-03-21T09:15:31.579Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:16:32.580Z [info]: Cliente desconectado worker
+2024-03-21T09:16:32.582Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:17:32.584Z [info]: Cliente desconectado worker
+2024-03-21T09:17:32.586Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:18:32.587Z [info]: Cliente desconectado worker
+2024-03-21T09:18:32.588Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:19:32.589Z [info]: Cliente desconectado worker
+2024-03-21T09:19:32.591Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:20:33.591Z [info]: Cliente desconectado worker
+2024-03-21T09:20:33.593Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:21:33.595Z [info]: Cliente desconectado worker
+2024-03-21T09:21:33.597Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:22:33.597Z [info]: Cliente desconectado worker
+2024-03-21T09:22:33.598Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:23:33.602Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:23:33.602Z [info]: Cliente desconectado worker
+2024-03-21T09:24:34.602Z [info]: Cliente desconectado worker
+2024-03-21T09:24:34.604Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:25:34.605Z [info]: Cliente desconectado worker
+2024-03-21T09:25:34.608Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:26:34.610Z [info]: Cliente desconectado worker
+2024-03-21T09:26:34.612Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:27:34.614Z [info]: Cliente desconectado worker
+2024-03-21T09:27:34.616Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:28:35.617Z [info]: Cliente desconectado worker
+2024-03-21T09:28:35.619Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:29:35.620Z [info]: Cliente desconectado worker
+2024-03-21T09:29:35.622Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:30:36.623Z [info]: Cliente desconectado worker
+2024-03-21T09:30:36.624Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:31:37.625Z [info]: Cliente desconectado worker
+2024-03-21T09:31:37.626Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:32:38.626Z [info]: Cliente desconectado worker
+2024-03-21T09:32:38.627Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:33:38.628Z [info]: Cliente desconectado worker
+2024-03-21T09:33:38.629Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:34:38.630Z [info]: Cliente desconectado worker
+2024-03-21T09:34:38.631Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:35:39.631Z [info]: Cliente desconectado worker
+2024-03-21T09:35:39.632Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:36:39.633Z [info]: Cliente desconectado worker
+2024-03-21T09:36:39.635Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:37:39.636Z [info]: Cliente desconectado worker
+2024-03-21T09:37:39.638Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:38:39.638Z [info]: Cliente desconectado worker
+2024-03-21T09:38:39.640Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:39:39.642Z [info]: Cliente desconectado worker
+2024-03-21T09:39:39.643Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:40:39.643Z [info]: Cliente desconectado worker
+2024-03-21T09:40:39.645Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:41:39.645Z [info]: Cliente desconectado worker
+2024-03-21T09:41:39.647Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:42:39.648Z [info]: Cliente desconectado worker
+2024-03-21T09:42:39.649Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:43:40.650Z [info]: Cliente desconectado worker
+2024-03-21T09:43:40.651Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:44:40.652Z [info]: Cliente desconectado worker
+2024-03-21T09:44:40.654Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:45:41.654Z [info]: Cliente desconectado worker
+2024-03-21T09:45:41.657Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:46:41.658Z [info]: Cliente desconectado worker
+2024-03-21T09:46:41.661Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:47:41.661Z [info]: Cliente desconectado worker
+2024-03-21T09:47:41.663Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:48:42.663Z [info]: Cliente desconectado worker
+2024-03-21T09:48:42.666Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:49:42.667Z [info]: Cliente desconectado worker
+2024-03-21T09:49:42.668Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:50:43.681Z [info]: Cliente desconectado worker
+2024-03-21T09:50:43.684Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:51:44.684Z [info]: Cliente desconectado worker
+2024-03-21T09:51:44.685Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:52:44.686Z [info]: Cliente desconectado worker
+2024-03-21T09:52:44.688Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:53:45.688Z [info]: Cliente desconectado worker
+2024-03-21T09:53:45.691Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:54:45.691Z [info]: Cliente desconectado worker
+2024-03-21T09:54:45.694Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:55:46.694Z [info]: Cliente desconectado worker
+2024-03-21T09:55:46.695Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:56:46.695Z [info]: Cliente desconectado worker
+2024-03-21T09:56:46.698Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:57:47.699Z [info]: Cliente desconectado worker
+2024-03-21T09:57:47.700Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:58:47.702Z [info]: Cliente desconectado worker
+2024-03-21T09:58:47.703Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T09:59:47.705Z [info]: Cliente desconectado worker
+2024-03-21T09:59:47.706Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:00:47.708Z [info]: Cliente desconectado worker
+2024-03-21T10:00:47.710Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:01:48.709Z [info]: Cliente desconectado worker
+2024-03-21T10:01:48.711Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:02:49.712Z [info]: Cliente desconectado worker
+2024-03-21T10:02:49.714Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:03:49.715Z [info]: Cliente desconectado worker
+2024-03-21T10:03:49.718Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:04:49.719Z [info]: Cliente desconectado worker
+2024-03-21T10:04:49.720Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:05:49.727Z [info]: Cliente desconectado worker
+2024-03-21T10:05:49.728Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:06:49.728Z [info]: Cliente desconectado worker
+2024-03-21T10:06:49.730Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:07:50.731Z [info]: Cliente desconectado worker
+2024-03-21T10:07:50.732Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:08:51.732Z [info]: Cliente desconectado worker
+2024-03-21T10:08:51.733Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:09:52.734Z [info]: Cliente desconectado worker
+2024-03-21T10:09:52.736Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:10:53.738Z [info]: Cliente desconectado worker
+2024-03-21T10:10:53.740Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:11:54.741Z [info]: Cliente desconectado worker
+2024-03-21T10:11:54.743Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:12:54.744Z [info]: Cliente desconectado worker
+2024-03-21T10:12:54.745Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:13:55.745Z [info]: Cliente desconectado worker
+2024-03-21T10:13:55.746Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:14:55.747Z [info]: Cliente desconectado worker
+2024-03-21T10:14:55.749Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:15:55.752Z [info]: Cliente desconectado worker
+2024-03-21T10:15:55.753Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:16:55.757Z [info]: Cliente desconectado worker
+2024-03-21T10:16:55.758Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:17:56.757Z [info]: Cliente desconectado worker
+2024-03-21T10:17:56.759Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:18:56.760Z [info]: Cliente desconectado worker
+2024-03-21T10:18:56.761Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:19:56.761Z [info]: Cliente desconectado worker
+2024-03-21T10:19:56.763Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:20:57.764Z [info]: Cliente desconectado worker
+2024-03-21T10:20:57.765Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:21:58.766Z [info]: Cliente desconectado worker
+2024-03-21T10:21:58.767Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:22:59.768Z [info]: Cliente desconectado worker
+2024-03-21T10:22:59.769Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:23:59.770Z [info]: Cliente desconectado worker
+2024-03-21T10:23:59.772Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:24:59.773Z [info]: Cliente desconectado worker
+2024-03-21T10:24:59.774Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:26:00.775Z [info]: Cliente desconectado worker
+2024-03-21T10:26:00.777Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:27:00.778Z [info]: Cliente desconectado worker
+2024-03-21T10:27:00.780Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:28:00.780Z [info]: Cliente desconectado worker
+2024-03-21T10:28:00.783Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:29:00.784Z [info]: Cliente desconectado worker
+2024-03-21T10:29:00.786Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:30:00.789Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:30:00.789Z [info]: Cliente desconectado worker
+2024-03-21T10:31:01.788Z [info]: Cliente desconectado worker
+2024-03-21T10:31:01.790Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:32:01.791Z [info]: Cliente desconectado worker
+2024-03-21T10:32:01.792Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:33:01.793Z [info]: Cliente desconectado worker
+2024-03-21T10:33:01.797Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:34:01.798Z [info]: Cliente desconectado worker
+2024-03-21T10:34:01.799Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:35:01.801Z [info]: Cliente desconectado worker
+2024-03-21T10:35:01.802Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:36:01.802Z [info]: Cliente desconectado worker
+2024-03-21T10:36:01.803Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:37:02.804Z [info]: Cliente desconectado worker
+2024-03-21T10:37:02.807Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:38:02.809Z [info]: Cliente desconectado worker
+2024-03-21T10:38:02.810Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:39:03.809Z [info]: Cliente desconectado worker
+2024-03-21T10:39:03.810Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:40:03.811Z [info]: Cliente desconectado worker
+2024-03-21T10:40:03.814Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:41:04.815Z [info]: Cliente desconectado worker
+2024-03-21T10:41:04.816Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:42:05.816Z [info]: Cliente desconectado worker
+2024-03-21T10:42:05.817Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:43:06.840Z [info]: Cliente desconectado worker
+2024-03-21T10:43:06.843Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:44:06.844Z [info]: Cliente desconectado worker
+2024-03-21T10:44:06.846Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:45:06.847Z [info]: Cliente desconectado worker
+2024-03-21T10:45:06.849Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:46:06.850Z [info]: Cliente desconectado worker
+2024-03-21T10:46:06.851Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:47:06.852Z [info]: Cliente desconectado worker
+2024-03-21T10:47:06.854Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:48:07.854Z [info]: Cliente desconectado worker
+2024-03-21T10:48:07.855Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:49:08.855Z [info]: Cliente desconectado worker
+2024-03-21T10:49:08.856Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:50:09.857Z [info]: Cliente desconectado worker
+2024-03-21T10:50:09.858Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:51:09.871Z [info]: Cliente desconectado worker
+2024-03-21T10:51:09.872Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:52:10.872Z [info]: Cliente desconectado worker
+2024-03-21T10:52:10.873Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:53:10.874Z [info]: Cliente desconectado worker
+2024-03-21T10:53:10.875Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:54:10.876Z [info]: Cliente desconectado worker
+2024-03-21T10:54:10.878Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:55:10.879Z [info]: Cliente desconectado worker
+2024-03-21T10:55:10.881Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:56:11.897Z [info]: Cliente desconectado worker
+2024-03-21T10:56:11.900Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:57:11.901Z [info]: Cliente desconectado worker
+2024-03-21T10:57:11.903Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:58:11.904Z [info]: Cliente desconectado worker
+2024-03-21T10:58:11.906Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T10:59:12.907Z [info]: Cliente desconectado worker
+2024-03-21T10:59:12.908Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:00:12.909Z [info]: Cliente desconectado worker
+2024-03-21T11:00:12.910Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:01:13.911Z [info]: Cliente desconectado worker
+2024-03-21T11:01:13.912Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:02:13.915Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:02:13.915Z [info]: Cliente desconectado worker
+2024-03-21T11:03:13.916Z [info]: Cliente desconectado worker
+2024-03-21T11:03:13.917Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:04:13.920Z [info]: Cliente desconectado worker
+2024-03-21T11:04:13.922Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:05:13.923Z [info]: Cliente desconectado worker
+2024-03-21T11:05:13.924Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:06:13.926Z [info]: Cliente desconectado worker
+2024-03-21T11:06:13.927Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:07:14.927Z [info]: Cliente desconectado worker
+2024-03-21T11:07:14.929Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:08:14.930Z [info]: Cliente desconectado worker
+2024-03-21T11:08:14.932Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:09:14.933Z [info]: Cliente desconectado worker
+2024-03-21T11:09:14.935Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:10:14.937Z [info]: Cliente desconectado worker
+2024-03-21T11:10:14.939Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:11:14.940Z [info]: Cliente desconectado worker
+2024-03-21T11:11:14.941Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:12:14.942Z [info]: Cliente desconectado worker
+2024-03-21T11:12:14.944Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:13:14.946Z [info]: Cliente desconectado worker
+2024-03-21T11:13:14.947Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:14:14.948Z [info]: Cliente desconectado worker
+2024-03-21T11:14:14.949Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:15:15.950Z [info]: Cliente desconectado worker
+2024-03-21T11:15:15.952Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:16:15.953Z [info]: Cliente desconectado worker
+2024-03-21T11:16:15.960Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:17:16.960Z [info]: Cliente desconectado worker
+2024-03-21T11:17:16.961Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:18:16.962Z [info]: Cliente desconectado worker
+2024-03-21T11:18:16.964Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:19:16.965Z [info]: Cliente desconectado worker
+2024-03-21T11:19:16.966Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:20:17.966Z [info]: Cliente desconectado worker
+2024-03-21T11:20:17.968Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:21:17.970Z [info]: Cliente desconectado worker
+2024-03-21T11:21:17.972Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:22:18.974Z [info]: Cliente desconectado worker
+2024-03-21T11:22:18.976Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:23:18.978Z [info]: Cliente desconectado worker
+2024-03-21T11:23:18.979Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:24:19.996Z [info]: Cliente desconectado worker
+2024-03-21T11:24:19.997Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:25:20.012Z [info]: Cliente desconectado worker
+2024-03-21T11:25:20.012Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:26:21.013Z [info]: Cliente desconectado worker
+2024-03-21T11:26:21.015Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:27:22.015Z [info]: Cliente desconectado worker
+2024-03-21T11:27:22.016Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:28:22.017Z [info]: Cliente desconectado worker
+2024-03-21T11:28:22.018Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:29:22.019Z [info]: Cliente desconectado worker
+2024-03-21T11:29:22.020Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:30:22.021Z [info]: Cliente desconectado worker
+2024-03-21T11:30:22.022Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:31:23.023Z [info]: Cliente desconectado worker
+2024-03-21T11:31:23.026Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:32:23.027Z [info]: Cliente desconectado worker
+2024-03-21T11:32:23.030Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:33:24.030Z [info]: Cliente desconectado worker
+2024-03-21T11:33:24.031Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:34:25.031Z [info]: Cliente desconectado worker
+2024-03-21T11:34:25.032Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:35:25.034Z [info]: Cliente desconectado worker
+2024-03-21T11:35:25.036Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:36:25.037Z [info]: Cliente desconectado worker
+2024-03-21T11:36:25.039Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:37:25.039Z [info]: Cliente desconectado worker
+2024-03-21T11:37:25.040Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:38:25.041Z [info]: Cliente desconectado worker
+2024-03-21T11:38:25.043Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:39:26.043Z [info]: Cliente desconectado worker
+2024-03-21T11:39:26.045Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:40:26.046Z [info]: Cliente desconectado worker
+2024-03-21T11:40:26.047Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:41:26.048Z [info]: Cliente desconectado worker
+2024-03-21T11:41:26.049Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:42:26.050Z [info]: Cliente desconectado worker
+2024-03-21T11:42:26.053Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:43:26.053Z [info]: Cliente desconectado worker
+2024-03-21T11:43:26.054Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:44:26.055Z [info]: Cliente desconectado worker
+2024-03-21T11:44:26.056Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:45:26.059Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:45:26.059Z [info]: Cliente desconectado worker
+2024-03-21T11:46:26.060Z [info]: Cliente desconectado worker
+2024-03-21T11:46:26.061Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:47:26.063Z [info]: Cliente desconectado worker
+2024-03-21T11:47:26.064Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:48:26.071Z [info]: Cliente desconectado worker
+2024-03-21T11:48:26.072Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:49:26.073Z [info]: Cliente desconectado worker
+2024-03-21T11:49:26.075Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:50:27.076Z [info]: Cliente desconectado worker
+2024-03-21T11:50:27.078Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:51:28.078Z [info]: Cliente desconectado worker
+2024-03-21T11:51:28.079Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:52:29.080Z [info]: Cliente desconectado worker
+2024-03-21T11:52:29.083Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:53:29.086Z [info]: Cliente desconectado worker
+2024-03-21T11:53:29.087Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:54:29.089Z [info]: Cliente desconectado worker
+2024-03-21T11:54:29.091Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:55:30.091Z [info]: Cliente desconectado worker
+2024-03-21T11:55:30.092Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:56:31.092Z [info]: Cliente desconectado worker
+2024-03-21T11:56:31.094Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:57:31.095Z [info]: Cliente desconectado worker
+2024-03-21T11:57:31.097Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:58:31.098Z [info]: Cliente desconectado worker
+2024-03-21T11:58:31.099Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T11:59:32.100Z [info]: Cliente desconectado worker
+2024-03-21T11:59:32.101Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:00:33.100Z [info]: Cliente desconectado worker
+2024-03-21T12:00:33.101Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:01:34.102Z [info]: Cliente desconectado worker
+2024-03-21T12:01:34.103Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:02:34.104Z [info]: Cliente desconectado worker
+2024-03-21T12:02:34.106Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:03:34.106Z [info]: Cliente desconectado worker
+2024-03-21T12:03:34.108Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:04:34.109Z [info]: Cliente desconectado worker
+2024-03-21T12:04:34.112Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:05:34.113Z [info]: Cliente desconectado worker
+2024-03-21T12:05:34.114Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:06:35.113Z [info]: Cliente desconectado worker
+2024-03-21T12:06:35.115Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:07:35.116Z [info]: Cliente desconectado worker
+2024-03-21T12:07:35.118Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:08:35.119Z [info]: Cliente desconectado worker
+2024-03-21T12:08:35.121Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:09:36.122Z [info]: Cliente desconectado worker
+2024-03-21T12:09:36.124Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:10:37.124Z [info]: Cliente desconectado worker
+2024-03-21T12:10:37.136Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:11:37.137Z [info]: Cliente desconectado worker
+2024-03-21T12:11:37.139Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:12:37.140Z [info]: Cliente desconectado worker
+2024-03-21T12:12:37.142Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:13:38.142Z [info]: Cliente desconectado worker
+2024-03-21T12:13:38.144Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:14:39.144Z [info]: Cliente desconectado worker
+2024-03-21T12:14:39.145Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:15:40.145Z [info]: Cliente desconectado worker
+2024-03-21T12:15:40.148Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:16:41.148Z [info]: Cliente desconectado worker
+2024-03-21T12:16:41.150Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:17:42.152Z [info]: Cliente desconectado worker
+2024-03-21T12:17:42.154Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:18:43.154Z [info]: Cliente desconectado worker
+2024-03-21T12:18:43.155Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:19:44.155Z [info]: Cliente desconectado worker
+2024-03-21T12:19:44.156Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:20:45.156Z [info]: Cliente desconectado worker
+2024-03-21T12:20:45.157Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:21:45.158Z [info]: Cliente desconectado worker
+2024-03-21T12:21:45.160Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:22:45.161Z [info]: Cliente desconectado worker
+2024-03-21T12:22:45.163Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:23:45.164Z [info]: Cliente desconectado worker
+2024-03-21T12:23:45.165Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:24:46.167Z [info]: Cliente desconectado worker
+2024-03-21T12:24:46.168Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:25:47.167Z [info]: Cliente desconectado worker
+2024-03-21T12:25:47.168Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:26:48.170Z [info]: Cliente desconectado worker
+2024-03-21T12:26:48.172Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:27:49.172Z [info]: Cliente desconectado worker
+2024-03-21T12:27:49.173Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:28:49.174Z [info]: Cliente desconectado worker
+2024-03-21T12:28:49.175Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:29:49.175Z [info]: Cliente desconectado worker
+2024-03-21T12:29:49.176Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:30:49.178Z [info]: Cliente desconectado worker
+2024-03-21T12:30:49.179Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:31:49.180Z [info]: Cliente desconectado worker
+2024-03-21T12:31:49.181Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:32:50.180Z [info]: Cliente desconectado worker
+2024-03-21T12:32:50.181Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:33:50.182Z [info]: Cliente desconectado worker
+2024-03-21T12:33:50.183Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:34:51.184Z [info]: Cliente desconectado worker
+2024-03-21T12:34:51.184Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:35:51.196Z [info]: Cliente desconectado worker
+2024-03-21T12:35:51.197Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:36:52.197Z [info]: Cliente desconectado worker
+2024-03-21T12:36:52.199Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:37:52.201Z [info]: Cliente desconectado worker
+2024-03-21T12:37:52.203Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:38:52.205Z [info]: Cliente desconectado worker
+2024-03-21T12:38:52.207Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:39:53.208Z [info]: Cliente desconectado worker
+2024-03-21T12:39:53.209Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:40:54.210Z [info]: Cliente desconectado worker
+2024-03-21T12:40:54.211Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:41:54.212Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:41:54.212Z [info]: Cliente desconectado worker
+2024-03-21T12:42:55.215Z [info]: Cliente desconectado worker
+2024-03-21T12:42:55.217Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:43:55.218Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:43:55.218Z [info]: Cliente desconectado worker
+2024-03-21T12:44:56.218Z [info]: Cliente desconectado worker
+2024-03-21T12:44:56.219Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:45:56.220Z [info]: Cliente desconectado worker
+2024-03-21T12:45:56.222Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:46:56.223Z [info]: Cliente desconectado worker
+2024-03-21T12:46:56.225Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:47:57.225Z [info]: Cliente desconectado worker
+2024-03-21T12:47:57.227Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:48:57.242Z [info]: Cliente desconectado worker
+2024-03-21T12:48:57.244Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:49:57.244Z [info]: Cliente desconectado worker
+2024-03-21T12:49:57.246Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:50:57.248Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:50:57.248Z [info]: Cliente desconectado worker
+2024-03-21T12:51:57.250Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:51:57.251Z [info]: Cliente desconectado worker
+2024-03-21T12:52:57.251Z [info]: Cliente desconectado worker
+2024-03-21T12:52:57.252Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:53:58.251Z [info]: Cliente desconectado worker
+2024-03-21T12:53:58.253Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:54:58.254Z [info]: Cliente desconectado worker
+2024-03-21T12:54:58.256Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:55:58.257Z [info]: Cliente desconectado worker
+2024-03-21T12:55:58.258Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:56:58.260Z [info]: Cliente desconectado worker
+2024-03-21T12:56:58.262Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:57:58.264Z [info]: Cliente desconectado worker
+2024-03-21T12:57:58.266Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:58:58.268Z [info]: Cliente desconectado worker
+2024-03-21T12:58:58.270Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T12:59:58.276Z [info]: Cliente desconectado worker
+2024-03-21T12:59:58.285Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:00:58.286Z [info]: Cliente desconectado worker
+2024-03-21T13:00:58.288Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:01:58.289Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:01:58.290Z [info]: Cliente desconectado worker
+2024-03-21T13:02:58.290Z [info]: Cliente desconectado worker
+2024-03-21T13:02:58.293Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:03:58.295Z [info]: Cliente desconectado worker
+2024-03-21T13:03:58.295Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:04:58.295Z [info]: Cliente desconectado worker
+2024-03-21T13:04:58.297Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:05:58.299Z [info]: Cliente desconectado worker
+2024-03-21T13:05:58.304Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:06:59.305Z [info]: Cliente desconectado worker
+2024-03-21T13:06:59.307Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:07:59.308Z [info]: Cliente desconectado worker
+2024-03-21T13:07:59.310Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:08:59.311Z [info]: Cliente desconectado worker
+2024-03-21T13:08:59.312Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:09:59.313Z [info]: Cliente desconectado worker
+2024-03-21T13:09:59.314Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:11:00.314Z [info]: Cliente desconectado worker
+2024-03-21T13:11:00.315Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:12:01.315Z [info]: Cliente desconectado worker
+2024-03-21T13:12:01.317Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:13:01.320Z [info]: Cliente desconectado worker
+2024-03-21T13:13:01.321Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:14:02.322Z [info]: Cliente desconectado worker
+2024-03-21T13:14:02.324Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:15:02.325Z [info]: Cliente desconectado worker
+2024-03-21T13:15:02.326Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:16:02.328Z [info]: Cliente desconectado worker
+2024-03-21T13:16:02.329Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:17:03.329Z [info]: Cliente desconectado worker
+2024-03-21T13:17:03.330Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:18:03.332Z [info]: Cliente desconectado worker
+2024-03-21T13:18:03.334Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:19:03.334Z [info]: Cliente desconectado worker
+2024-03-21T13:19:03.335Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:20:03.336Z [info]: Cliente desconectado worker
+2024-03-21T13:20:03.338Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:21:04.339Z [info]: Cliente desconectado worker
+2024-03-21T13:21:04.341Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:22:05.341Z [info]: Cliente desconectado worker
+2024-03-21T13:22:05.342Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:23:06.341Z [info]: Cliente desconectado worker
+2024-03-21T13:23:06.344Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:24:07.344Z [info]: Cliente desconectado worker
+2024-03-21T13:24:07.345Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:25:07.347Z [info]: Cliente desconectado worker
+2024-03-21T13:25:07.349Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:26:07.350Z [info]: Cliente desconectado worker
+2024-03-21T13:26:07.351Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:27:08.352Z [info]: Cliente desconectado worker
+2024-03-21T13:27:08.354Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:28:08.356Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:28:08.356Z [info]: Cliente desconectado worker
+2024-03-21T13:29:08.357Z [info]: Cliente desconectado worker
+2024-03-21T13:29:08.358Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:30:09.358Z [info]: Cliente desconectado worker
+2024-03-21T13:30:09.359Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:31:09.361Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:31:09.371Z [info]: Cliente desconectado worker
+2024-03-21T13:32:09.362Z [info]: Cliente desconectado worker
+2024-03-21T13:32:09.363Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:33:09.364Z [info]: Cliente desconectado worker
+2024-03-21T13:33:09.366Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:34:10.367Z [info]: Cliente desconectado worker
+2024-03-21T13:34:10.369Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:35:11.371Z [info]: Cliente desconectado worker
+2024-03-21T13:35:11.372Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:36:11.373Z [info]: Cliente desconectado worker
+2024-03-21T13:36:11.374Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:37:11.375Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:37:11.385Z [info]: Cliente desconectado worker
+2024-03-21T13:38:11.376Z [info]: Cliente desconectado worker
+2024-03-21T13:38:11.378Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:39:11.378Z [info]: Cliente desconectado worker
+2024-03-21T13:39:11.379Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:40:11.380Z [info]: Cliente desconectado worker
+2024-03-21T13:40:11.380Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:41:11.381Z [info]: Cliente desconectado worker
+2024-03-21T13:41:11.383Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:42:12.383Z [info]: Cliente desconectado worker
+2024-03-21T13:42:12.385Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:43:13.386Z [info]: Cliente desconectado worker
+2024-03-21T13:43:13.389Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:44:14.389Z [info]: Cliente desconectado worker
+2024-03-21T13:44:14.390Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:45:15.391Z [info]: Cliente desconectado worker
+2024-03-21T13:45:15.392Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:46:15.393Z [info]: Cliente desconectado worker
+2024-03-21T13:46:15.394Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:47:15.395Z [info]: Cliente desconectado worker
+2024-03-21T13:47:15.396Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:48:15.398Z [info]: Cliente desconectado worker
+2024-03-21T13:48:15.398Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:49:15.400Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:49:15.400Z [info]: Cliente desconectado worker
+2024-03-21T13:50:16.400Z [info]: Cliente desconectado worker
+2024-03-21T13:50:16.405Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:51:16.406Z [info]: Cliente desconectado worker
+2024-03-21T13:51:16.408Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:52:17.408Z [info]: Cliente desconectado worker
+2024-03-21T13:52:17.415Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:53:17.417Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:53:17.417Z [info]: Cliente desconectado worker
+2024-03-21T13:54:17.418Z [info]: Cliente desconectado worker
+2024-03-21T13:54:17.419Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:55:17.420Z [info]: Cliente desconectado worker
+2024-03-21T13:55:17.421Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:56:17.422Z [info]: Cliente desconectado worker
+2024-03-21T13:56:17.423Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:57:17.423Z [info]: Cliente desconectado worker
+2024-03-21T13:57:17.424Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:58:17.424Z [info]: Cliente desconectado worker
+2024-03-21T13:58:17.425Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T13:59:18.426Z [info]: Cliente desconectado worker
+2024-03-21T13:59:18.428Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:00:18.429Z [info]: Cliente desconectado worker
+2024-03-21T14:00:18.430Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:01:19.430Z [info]: Cliente desconectado worker
+2024-03-21T14:01:19.432Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:02:20.432Z [info]: Cliente desconectado worker
+2024-03-21T14:02:20.433Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:03:20.434Z [info]: Cliente desconectado worker
+2024-03-21T14:03:20.436Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:04:20.437Z [info]: Cliente desconectado worker
+2024-03-21T14:04:20.439Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:05:21.441Z [info]: Cliente desconectado worker
+2024-03-21T14:05:21.443Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:06:22.443Z [info]: Cliente desconectado worker
+2024-03-21T14:06:22.444Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:07:22.445Z [info]: Cliente desconectado worker
+2024-03-21T14:07:22.446Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:08:22.447Z [info]: Cliente desconectado worker
+2024-03-21T14:08:22.449Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:09:23.449Z [info]: Cliente desconectado worker
+2024-03-21T14:09:23.450Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:10:23.451Z [info]: Cliente desconectado worker
+2024-03-21T14:10:23.451Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:11:24.452Z [info]: Cliente desconectado worker
+2024-03-21T14:11:24.453Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:12:24.455Z [info]: Cliente desconectado worker
+2024-03-21T14:12:24.457Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:13:25.457Z [info]: Cliente desconectado worker
+2024-03-21T14:13:25.459Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:14:25.460Z [info]: Cliente desconectado worker
+2024-03-21T14:14:25.462Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:15:25.464Z [info]: Cliente desconectado worker
+2024-03-21T14:15:25.465Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:16:25.466Z [info]: Cliente desconectado worker
+2024-03-21T14:16:25.468Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:17:26.468Z [info]: Cliente desconectado worker
+2024-03-21T14:17:26.469Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:18:26.478Z [info]: Cliente desconectado worker
+2024-03-21T14:18:26.481Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:19:26.482Z [info]: Cliente desconectado worker
+2024-03-21T14:19:26.484Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:20:27.496Z [info]: Cliente desconectado worker
+2024-03-21T14:20:27.498Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:21:28.499Z [info]: Cliente desconectado worker
+2024-03-21T14:21:28.501Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:22:29.501Z [info]: Cliente desconectado worker
+2024-03-21T14:22:29.503Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:23:29.514Z [info]: Cliente desconectado worker
+2024-03-21T14:23:29.521Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:24:30.520Z [info]: Cliente desconectado worker
+2024-03-21T14:24:30.522Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:25:30.523Z [info]: Cliente desconectado worker
+2024-03-21T14:25:30.523Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:26:30.525Z [info]: Cliente desconectado worker
+2024-03-21T14:26:30.526Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:27:30.528Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:27:30.528Z [info]: Cliente desconectado worker
+2024-03-21T14:28:31.527Z [info]: Cliente desconectado worker
+2024-03-21T14:28:31.528Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:29:32.529Z [info]: Cliente desconectado worker
+2024-03-21T14:29:32.530Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:30:32.531Z [info]: Cliente desconectado worker
+2024-03-21T14:30:32.533Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:31:33.534Z [info]: Cliente desconectado worker
+2024-03-21T14:31:33.535Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:32:33.536Z [info]: Cliente desconectado worker
+2024-03-21T14:32:33.537Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:33:33.538Z [info]: Cliente desconectado worker
+2024-03-21T14:33:33.540Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:34:33.541Z [info]: Cliente desconectado worker
+2024-03-21T14:34:33.543Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:35:33.545Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:35:33.546Z [info]: Cliente desconectado worker
+2024-03-21T14:36:33.547Z [info]: Cliente desconectado worker
+2024-03-21T14:36:33.549Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:37:34.558Z [info]: Cliente desconectado worker
+2024-03-21T14:37:34.568Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:38:34.568Z [info]: Cliente desconectado worker
+2024-03-21T14:38:34.570Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:39:34.574Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:39:34.583Z [info]: Cliente desconectado worker
+2024-03-21T14:40:34.575Z [info]: Cliente desconectado worker
+2024-03-21T14:40:34.577Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:41:35.578Z [info]: Cliente desconectado worker
+2024-03-21T14:41:35.579Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:42:35.580Z [info]: Cliente desconectado worker
+2024-03-21T14:42:35.581Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:43:36.586Z [info]: Cliente desconectado worker
+2024-03-21T14:43:36.587Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:44:37.588Z [info]: Cliente desconectado worker
+2024-03-21T14:44:37.588Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:45:38.590Z [info]: Cliente desconectado worker
+2024-03-21T14:45:38.591Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:46:39.592Z [info]: Cliente desconectado worker
+2024-03-21T14:46:39.593Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:47:39.594Z [info]: Cliente desconectado worker
+2024-03-21T14:47:39.595Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:48:39.596Z [info]: Cliente desconectado worker
+2024-03-21T14:48:39.598Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:49:40.598Z [info]: Cliente desconectado worker
+2024-03-21T14:49:40.601Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:50:41.601Z [info]: Cliente desconectado worker
+2024-03-21T14:50:41.602Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:51:41.604Z [info]: Cliente desconectado worker
+2024-03-21T14:51:41.605Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:52:42.604Z [info]: Cliente desconectado worker
+2024-03-21T14:52:42.605Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:53:42.616Z [info]: Cliente desconectado worker
+2024-03-21T14:53:42.617Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:54:42.618Z [info]: Cliente desconectado worker
+2024-03-21T14:54:42.619Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:55:42.620Z [info]: Cliente desconectado worker
+2024-03-21T14:55:42.621Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:56:43.637Z [info]: Cliente desconectado worker
+2024-03-21T14:56:43.637Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:57:44.638Z [info]: Cliente desconectado worker
+2024-03-21T14:57:44.639Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:58:45.639Z [info]: Cliente desconectado worker
+2024-03-21T14:58:45.640Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T14:59:45.641Z [info]: Cliente desconectado worker
+2024-03-21T14:59:45.642Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:00:46.642Z [info]: Cliente desconectado worker
+2024-03-21T15:00:46.645Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:01:46.648Z [info]: Cliente desconectado worker
+2024-03-21T15:01:46.649Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:02:46.649Z [info]: Cliente desconectado worker
+2024-03-21T15:02:46.650Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:03:46.651Z [info]: Cliente desconectado worker
+2024-03-21T15:03:46.652Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:04:46.654Z [info]: Cliente desconectado worker
+2024-03-21T15:04:46.655Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:05:46.656Z [info]: Cliente desconectado worker
+2024-03-21T15:05:46.658Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:06:47.658Z [info]: Cliente desconectado worker
+2024-03-21T15:06:47.660Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:07:48.661Z [info]: Cliente desconectado worker
+2024-03-21T15:07:48.662Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:08:48.663Z [info]: Cliente desconectado worker
+2024-03-21T15:08:48.665Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:09:48.667Z [info]: Cliente desconectado worker
+2024-03-21T15:09:48.667Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:10:48.669Z [info]: Cliente desconectado worker
+2024-03-21T15:10:48.671Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:11:48.672Z [info]: Cliente desconectado worker
+2024-03-21T15:11:48.673Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:12:49.672Z [info]: Cliente desconectado worker
+2024-03-21T15:12:49.674Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:13:49.675Z [info]: Cliente desconectado worker
+2024-03-21T15:13:49.677Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:14:49.679Z [info]: Cliente desconectado worker
+2024-03-21T15:14:49.681Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:15:49.683Z [info]: Cliente desconectado worker
+2024-03-21T15:15:49.684Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:16:49.692Z [info]: Cliente desconectado worker
+2024-03-21T15:16:49.694Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:17:49.697Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:17:49.705Z [info]: Cliente desconectado worker
+2024-03-21T15:18:49.698Z [info]: Cliente desconectado worker
+2024-03-21T15:18:49.700Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:19:49.701Z [info]: Cliente desconectado worker
+2024-03-21T15:19:49.702Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:20:49.703Z [info]: Cliente desconectado worker
+2024-03-21T15:20:49.704Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:21:49.707Z [info]: Cliente desconectado worker
+2024-03-21T15:21:49.707Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:22:50.706Z [info]: Cliente desconectado worker
+2024-03-21T15:22:50.707Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:23:50.708Z [info]: Cliente desconectado worker
+2024-03-21T15:23:50.710Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:24:50.712Z [info]: Cliente desconectado worker
+2024-03-21T15:24:50.713Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:25:51.713Z [info]: Cliente desconectado worker
+2024-03-21T15:25:51.714Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:26:52.714Z [info]: Cliente desconectado worker
+2024-03-21T15:26:52.715Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:27:52.716Z [info]: Cliente desconectado worker
+2024-03-21T15:27:52.718Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:28:53.719Z [info]: Cliente desconectado worker
+2024-03-21T15:28:53.721Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:29:53.721Z [info]: Cliente desconectado worker
+2024-03-21T15:29:53.723Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:30:54.724Z [info]: Cliente desconectado worker
+2024-03-21T15:30:54.744Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:31:55.746Z [info]: Cliente desconectado worker
+2024-03-21T15:31:55.748Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:32:55.749Z [info]: Cliente desconectado worker
+2024-03-21T15:32:55.751Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:33:56.752Z [info]: Cliente desconectado worker
+2024-03-21T15:33:56.753Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:34:57.754Z [info]: Cliente desconectado worker
+2024-03-21T15:34:57.755Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:35:58.754Z [info]: Cliente desconectado worker
+2024-03-21T15:35:58.755Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:36:58.758Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:36:58.759Z [info]: Cliente desconectado worker
+2024-03-21T15:37:58.759Z [info]: Cliente desconectado worker
+2024-03-21T15:37:58.761Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:38:58.763Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:38:58.764Z [info]: Cliente desconectado worker
+2024-03-21T15:39:58.763Z [info]: Cliente desconectado worker
+2024-03-21T15:39:58.765Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:40:58.766Z [info]: Cliente desconectado worker
+2024-03-21T15:40:58.768Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:41:59.768Z [info]: Cliente desconectado worker
+2024-03-21T15:41:59.770Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:42:59.770Z [info]: Cliente desconectado worker
+2024-03-21T15:42:59.772Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:44:00.773Z [info]: Cliente desconectado worker
+2024-03-21T15:44:00.774Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:45:01.774Z [info]: Cliente desconectado worker
+2024-03-21T15:45:01.775Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:46:02.775Z [info]: Cliente desconectado worker
+2024-03-21T15:46:02.779Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:47:03.779Z [info]: Cliente desconectado worker
+2024-03-21T15:47:03.780Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:48:03.781Z [info]: Cliente desconectado worker
+2024-03-21T15:48:03.782Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:49:04.782Z [info]: Cliente desconectado worker
+2024-03-21T15:49:04.783Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:50:05.784Z [info]: Cliente desconectado worker
+2024-03-21T15:50:05.785Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:51:06.786Z [info]: Cliente desconectado worker
+2024-03-21T15:51:06.787Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:52:06.788Z [info]: Cliente desconectado worker
+2024-03-21T15:52:06.790Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:53:06.791Z [info]: Cliente desconectado worker
+2024-03-21T15:53:06.792Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:54:06.794Z [info]: Cliente desconectado worker
+2024-03-21T15:54:06.796Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:55:07.797Z [info]: Cliente desconectado worker
+2024-03-21T15:55:07.798Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:56:07.800Z [info]: Cliente desconectado worker
+2024-03-21T15:56:07.801Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:57:07.801Z [info]: Cliente desconectado worker
+2024-03-21T15:57:07.802Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:58:07.803Z [info]: Cliente desconectado worker
+2024-03-21T15:58:07.804Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T15:59:07.804Z [info]: Cliente desconectado worker
+2024-03-21T15:59:07.806Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:00:08.806Z [info]: Cliente desconectado worker
+2024-03-21T16:00:08.807Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:01:08.808Z [info]: Cliente desconectado worker
+2024-03-21T16:01:08.809Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:02:08.813Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:02:08.821Z [info]: Cliente desconectado worker
+2024-03-21T16:03:08.813Z [info]: Cliente desconectado worker
+2024-03-21T16:03:08.815Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:04:08.817Z [info]: Cliente desconectado worker
+2024-03-21T16:04:08.818Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:05:09.818Z [info]: Cliente desconectado worker
+2024-03-21T16:05:09.819Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:06:09.819Z [info]: Cliente desconectado worker
+2024-03-21T16:06:09.820Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:07:10.821Z [info]: Cliente desconectado worker
+2024-03-21T16:07:10.822Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:08:10.824Z [info]: Cliente desconectado worker
+2024-03-21T16:08:10.824Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:09:10.825Z [info]: Cliente desconectado worker
+2024-03-21T16:09:10.826Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:10:10.827Z [info]: Cliente desconectado worker
+2024-03-21T16:10:10.827Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:11:10.829Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:11:10.829Z [info]: Cliente desconectado worker
+2024-03-21T16:12:10.830Z [info]: Cliente desconectado worker
+2024-03-21T16:12:10.831Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:13:11.832Z [info]: Cliente desconectado worker
+2024-03-21T16:13:11.833Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:14:12.833Z [info]: Cliente desconectado worker
+2024-03-21T16:14:12.834Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:15:12.837Z [info]: Cliente desconectado worker
+2024-03-21T16:15:12.839Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:16:12.840Z [info]: Cliente desconectado worker
+2024-03-21T16:16:12.841Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:17:13.842Z [info]: Cliente desconectado worker
+2024-03-21T16:17:13.843Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:18:14.843Z [info]: Cliente desconectado worker
+2024-03-21T16:18:14.845Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:19:14.845Z [info]: Cliente desconectado worker
+2024-03-21T16:19:14.846Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:20:14.848Z [info]: Cliente desconectado worker
+2024-03-21T16:20:14.849Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:21:14.850Z [info]: Cliente desconectado worker
+2024-03-21T16:21:14.850Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:22:15.851Z [info]: Cliente desconectado worker
+2024-03-21T16:22:15.865Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:23:16.865Z [info]: Cliente desconectado worker
+2024-03-21T16:23:16.866Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:24:16.869Z [info]: Cliente desconectado worker
+2024-03-21T16:24:16.870Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:25:17.871Z [info]: Cliente desconectado worker
+2024-03-21T16:25:17.872Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:26:18.871Z [info]: Cliente desconectado worker
+2024-03-21T16:26:18.873Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:27:18.875Z [info]: Cliente desconectado worker
+2024-03-21T16:27:18.876Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:28:19.877Z [info]: Cliente desconectado worker
+2024-03-21T16:28:19.880Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:29:19.881Z [info]: Cliente desconectado worker
+2024-03-21T16:29:19.882Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:30:19.883Z [info]: Cliente desconectado worker
+2024-03-21T16:30:19.884Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:31:20.884Z [info]: Cliente desconectado worker
+2024-03-21T16:31:20.885Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:32:20.887Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:32:20.897Z [info]: Cliente desconectado worker
+2024-03-21T16:33:21.888Z [info]: Cliente desconectado worker
+2024-03-21T16:33:21.889Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:34:21.891Z [info]: Cliente desconectado worker
+2024-03-21T16:34:21.893Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:35:21.900Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:35:21.900Z [info]: Cliente desconectado worker
+2024-03-21T16:36:22.901Z [info]: Cliente desconectado worker
+2024-03-21T16:36:22.902Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:37:23.902Z [info]: Cliente desconectado worker
+2024-03-21T16:37:23.903Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:38:24.904Z [info]: Cliente desconectado worker
+2024-03-21T16:38:24.905Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:39:25.905Z [info]: Cliente desconectado worker
+2024-03-21T16:39:25.906Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:40:25.907Z [info]: Cliente desconectado worker
+2024-03-21T16:40:25.909Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:41:26.910Z [info]: Cliente desconectado worker
+2024-03-21T16:41:26.911Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:42:26.911Z [info]: Cliente desconectado worker
+2024-03-21T16:42:26.912Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:43:26.917Z [info]: Cliente desconectado worker
+2024-03-21T16:43:26.919Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:44:26.922Z [info]: Cliente desconectado worker
+2024-03-21T16:44:26.925Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:45:26.927Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:45:26.927Z [info]: Cliente desconectado worker
+2024-03-21T16:46:27.927Z [info]: Cliente desconectado worker
+2024-03-21T16:46:27.928Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:47:27.929Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:47:27.939Z [info]: Cliente desconectado worker
+2024-03-21T16:48:28.930Z [info]: Cliente desconectado worker
+2024-03-21T16:48:28.932Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:49:29.933Z [info]: Cliente desconectado worker
+2024-03-21T16:49:29.934Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:50:29.935Z [info]: Cliente desconectado worker
+2024-03-21T16:50:29.937Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:51:29.938Z [info]: Cliente desconectado worker
+2024-03-21T16:51:29.940Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:52:30.946Z [info]: Cliente desconectado worker
+2024-03-21T16:52:30.949Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:53:30.951Z [info]: Cliente desconectado worker
+2024-03-21T16:53:30.953Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:54:30.955Z [info]: Cliente desconectado worker
+2024-03-21T16:54:30.956Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:55:30.957Z [info]: Cliente desconectado worker
+2024-03-21T16:55:30.964Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:56:30.965Z [info]: Cliente desconectado worker
+2024-03-21T16:56:30.976Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:57:30.979Z [info]: Cliente desconectado worker
+2024-03-21T16:57:30.980Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:58:31.982Z [info]: Cliente desconectado worker
+2024-03-21T16:58:31.985Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T16:59:31.986Z [info]: Cliente desconectado worker
+2024-03-21T16:59:31.988Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:00:31.990Z [info]: Cliente desconectado worker
+2024-03-21T17:00:31.992Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:01:31.993Z [info]: Cliente desconectado worker
+2024-03-21T17:01:31.994Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:02:31.995Z [info]: Cliente desconectado worker
+2024-03-21T17:02:31.997Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:03:32.001Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:03:32.014Z [info]: Cliente desconectado worker
+2024-03-21T17:04:33.002Z [info]: Cliente desconectado worker
+2024-03-21T17:04:33.003Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:05:34.003Z [info]: Cliente desconectado worker
+2024-03-21T17:05:34.004Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:06:34.005Z [info]: Cliente desconectado worker
+2024-03-21T17:06:34.007Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:07:34.047Z [info]: Cliente desconectado worker
+2024-03-21T17:07:34.049Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:08:35.050Z [info]: Cliente desconectado worker
+2024-03-21T17:08:35.051Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:09:35.053Z [info]: Cliente desconectado worker
+2024-03-21T17:09:35.054Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:10:35.054Z [info]: Cliente desconectado worker
+2024-03-21T17:10:35.056Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:11:35.069Z [info]: Cliente desconectado worker
+2024-03-21T17:11:35.072Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:12:35.073Z [info]: Cliente desconectado worker
+2024-03-21T17:12:35.075Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:13:35.076Z [info]: Cliente desconectado worker
+2024-03-21T17:13:35.083Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:14:36.085Z [info]: Cliente desconectado worker
+2024-03-21T17:14:36.088Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:15:37.089Z [info]: Cliente desconectado worker
+2024-03-21T17:15:37.091Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:16:37.092Z [info]: Cliente desconectado worker
+2024-03-21T17:16:37.094Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:17:37.098Z [info]: Cliente desconectado worker
+2024-03-21T17:17:37.101Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:18:37.105Z [info]: Cliente desconectado worker
+2024-03-21T17:18:37.112Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:19:38.116Z [info]: Cliente desconectado worker
+2024-03-21T17:19:38.118Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:20:38.123Z [info]: Cliente desconectado worker
+2024-03-21T17:20:38.125Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:21:38.126Z [info]: Cliente desconectado worker
+2024-03-21T17:21:38.129Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:22:38.136Z [info]: Cliente desconectado worker
+2024-03-21T17:22:38.138Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:23:38.141Z [info]: Cliente desconectado worker
+2024-03-21T17:23:38.143Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:24:38.145Z [info]: Cliente desconectado worker
+2024-03-21T17:24:38.147Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:25:38.148Z [info]: Cliente desconectado worker
+2024-03-21T17:25:38.151Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:26:39.167Z [info]: Cliente desconectado worker
+2024-03-21T17:26:39.170Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:27:39.172Z [info]: Cliente desconectado worker
+2024-03-21T17:27:39.175Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:28:39.176Z [info]: Cliente desconectado worker
+2024-03-21T17:28:39.179Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:29:39.181Z [info]: Cliente desconectado worker
+2024-03-21T17:29:39.183Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:30:39.189Z [info]: Cliente desconectado worker
+2024-03-21T17:30:39.191Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:31:39.192Z [info]: Cliente desconectado worker
+2024-03-21T17:31:39.194Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:32:39.196Z [info]: Cliente desconectado worker
+2024-03-21T17:32:39.197Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:33:39.214Z [info]: Cliente desconectado worker
+2024-03-21T17:33:39.215Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:34:39.216Z [info]: Cliente desconectado worker
+2024-03-21T17:34:39.218Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:35:40.218Z [info]: Cliente desconectado worker
+2024-03-21T17:35:40.219Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:36:40.220Z [info]: Cliente desconectado worker
+2024-03-21T17:36:40.222Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:37:40.225Z [info]: Cliente desconectado worker
+2024-03-21T17:37:40.227Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:38:40.229Z [info]: Cliente desconectado worker
+2024-03-21T17:38:40.232Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:39:41.232Z [info]: Cliente desconectado worker
+2024-03-21T17:39:41.233Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:40:42.233Z [info]: Cliente desconectado worker
+2024-03-21T17:40:42.235Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:41:43.239Z [info]: Cliente desconectado worker
+2024-03-21T17:41:43.241Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:42:43.246Z [info]: Cliente desconectado worker
+2024-03-21T17:42:43.251Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:43:43.254Z [info]: Cliente desconectado worker
+2024-03-21T17:43:43.257Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:44:43.259Z [info]: Cliente desconectado worker
+2024-03-21T17:44:43.264Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:45:44.265Z [info]: Cliente desconectado worker
+2024-03-21T17:45:44.270Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:46:45.272Z [info]: Cliente desconectado worker
+2024-03-21T17:46:45.273Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:47:46.274Z [info]: Cliente desconectado worker
+2024-03-21T17:47:46.279Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:48:46.284Z [info]: Cliente desconectado worker
+2024-03-21T17:48:46.286Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:49:46.289Z [info]: Cliente desconectado worker
+2024-03-21T17:49:46.291Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:50:46.292Z [info]: Cliente desconectado worker
+2024-03-21T17:50:46.294Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:51:47.295Z [info]: Cliente desconectado worker
+2024-03-21T17:51:47.296Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:52:48.298Z [info]: Cliente desconectado worker
+2024-03-21T17:52:48.300Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:53:48.303Z [info]: Cliente desconectado worker
+2024-03-21T17:53:48.304Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:54:48.304Z [info]: Cliente desconectado worker
+2024-03-21T17:54:48.306Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:55:49.306Z [info]: Cliente desconectado worker
+2024-03-21T17:55:49.307Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:56:50.308Z [info]: Cliente desconectado worker
+2024-03-21T17:56:50.311Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:57:50.314Z [info]: Cliente desconectado worker
+2024-03-21T17:57:50.316Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:58:50.318Z [info]: Cliente desconectado worker
+2024-03-21T17:58:50.319Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:59:50.327Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T17:59:50.331Z [info]: Cliente desconectado worker
+2024-03-21T18:00:50.327Z [info]: Cliente desconectado worker
+2024-03-21T18:00:50.328Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:01:50.331Z [info]: Cliente desconectado worker
+2024-03-21T18:01:50.337Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:02:50.339Z [info]: Cliente desconectado worker
+2024-03-21T18:02:50.341Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:03:50.342Z [info]: Cliente desconectado worker
+2024-03-21T18:03:50.344Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:04:50.345Z [info]: Cliente desconectado worker
+2024-03-21T18:04:50.346Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:05:51.346Z [info]: Cliente desconectado worker
+2024-03-21T18:05:51.348Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:06:51.349Z [info]: Cliente desconectado worker
+2024-03-21T18:06:51.350Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:07:51.351Z [info]: Cliente desconectado worker
+2024-03-21T18:07:51.353Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:08:51.355Z [info]: Cliente desconectado worker
+2024-03-21T18:08:51.356Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:09:51.357Z [info]: Cliente desconectado worker
+2024-03-21T18:09:51.359Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:10:52.359Z [info]: Cliente desconectado worker
+2024-03-21T18:10:52.362Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:11:53.361Z [info]: Cliente desconectado worker
+2024-03-21T18:11:53.363Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:12:53.364Z [info]: Cliente desconectado worker
+2024-03-21T18:12:53.368Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:13:53.369Z [info]: Cliente desconectado worker
+2024-03-21T18:13:53.371Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:14:54.371Z [info]: Cliente desconectado worker
+2024-03-21T18:14:54.373Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:14:56.422Z [info]: Nuevo cliente detectado tipo: postman
+2024-03-21T18:15:54.374Z [info]: Cliente desconectado worker
+2024-03-21T18:15:54.375Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:16:54.376Z [info]: Cliente desconectado worker
+2024-03-21T18:16:54.379Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:17:54.384Z [info]: Cliente desconectado worker
+2024-03-21T18:17:54.386Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:18:54.387Z [info]: Cliente desconectado worker
+2024-03-21T18:18:54.388Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:19:54.390Z [info]: Cliente desconectado worker
+2024-03-21T18:19:54.391Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:20:54.397Z [info]: Cliente desconectado worker
+2024-03-21T18:20:54.400Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:21:55.401Z [info]: Cliente desconectado worker
+2024-03-21T18:21:55.403Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:22:55.418Z [info]: Cliente desconectado worker
+2024-03-21T18:22:55.420Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:23:55.422Z [info]: Cliente desconectado worker
+2024-03-21T18:23:55.425Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:24:55.428Z [info]: Cliente desconectado worker
+2024-03-21T18:24:55.430Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:25:55.431Z [info]: Cliente desconectado worker
+2024-03-21T18:25:55.432Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:26:55.433Z [info]: Cliente desconectado worker
+2024-03-21T18:26:55.436Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:27:55.437Z [info]: Cliente desconectado worker
+2024-03-21T18:27:55.439Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:28:55.441Z [info]: Cliente desconectado worker
+2024-03-21T18:28:55.443Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:29:55.446Z [info]: Cliente desconectado worker
+2024-03-21T18:29:55.447Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:30:55.457Z [info]: Cliente desconectado worker
+2024-03-21T18:30:55.459Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:31:55.460Z [info]: Cliente desconectado worker
+2024-03-21T18:31:55.462Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:32:55.464Z [info]: Cliente desconectado worker
+2024-03-21T18:32:55.467Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:33:56.469Z [info]: Cliente desconectado worker
+2024-03-21T18:33:56.470Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:34:57.470Z [info]: Cliente desconectado worker
+2024-03-21T18:34:57.472Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:35:57.478Z [info]: Cliente desconectado worker
+2024-03-21T18:35:57.502Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:36:57.504Z [info]: Cliente desconectado worker
+2024-03-21T18:36:57.506Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:37:58.507Z [info]: Cliente desconectado worker
+2024-03-21T18:37:58.509Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:38:58.510Z [info]: Cliente desconectado worker
+2024-03-21T18:38:58.512Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:39:58.518Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:39:58.526Z [info]: Cliente desconectado worker
+2024-03-21T18:40:58.523Z [info]: Cliente desconectado worker
+2024-03-21T18:40:58.524Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:41:58.525Z [info]: Cliente desconectado worker
+2024-03-21T18:41:58.528Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:42:59.528Z [info]: Cliente desconectado worker
+2024-03-21T18:42:59.529Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:43:59.531Z [info]: Cliente desconectado worker
+2024-03-21T18:43:59.536Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:44:59.538Z [info]: Cliente desconectado worker
+2024-03-21T18:44:59.541Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:45:59.543Z [info]: Cliente desconectado worker
+2024-03-21T18:45:59.544Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:46:59.550Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:46:59.558Z [info]: Cliente desconectado worker
+2024-03-21T18:48:00.551Z [info]: Cliente desconectado worker
+2024-03-21T18:48:00.556Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:49:00.558Z [info]: Cliente desconectado worker
+2024-03-21T18:49:00.560Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:50:01.561Z [info]: Cliente desconectado worker
+2024-03-21T18:50:01.562Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:51:01.563Z [info]: Cliente desconectado worker
+2024-03-21T18:51:01.564Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:52:02.565Z [info]: Cliente desconectado worker
+2024-03-21T18:52:02.567Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:53:02.567Z [info]: Cliente desconectado worker
+2024-03-21T18:53:02.568Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:54:02.569Z [info]: Cliente desconectado worker
+2024-03-21T18:54:02.570Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:55:02.571Z [info]: Cliente desconectado worker
+2024-03-21T18:55:02.573Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:56:02.573Z [info]: Cliente desconectado worker
+2024-03-21T18:56:02.574Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:57:03.579Z [info]: Cliente desconectado worker
+2024-03-21T18:57:03.581Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:58:04.581Z [info]: Cliente desconectado worker
+2024-03-21T18:58:04.583Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T18:59:05.584Z [info]: Cliente desconectado worker
+2024-03-21T18:59:05.585Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:00:05.586Z [info]: Cliente desconectado worker
+2024-03-21T19:00:05.589Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:01:06.590Z [info]: Cliente desconectado worker
+2024-03-21T19:01:06.593Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:02:06.596Z [info]: Cliente desconectado worker
+2024-03-21T19:02:06.600Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:03:06.601Z [info]: Cliente desconectado worker
+2024-03-21T19:03:06.603Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:04:07.604Z [info]: Cliente desconectado worker
+2024-03-21T19:04:07.606Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:05:07.608Z [info]: Cliente desconectado worker
+2024-03-21T19:05:07.610Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:06:07.611Z [info]: Cliente desconectado worker
+2024-03-21T19:06:07.612Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:07:08.613Z [info]: Cliente desconectado worker
+2024-03-21T19:07:08.614Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:08:08.616Z [info]: Cliente desconectado worker
+2024-03-21T19:08:08.619Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:09:08.627Z [info]: Cliente desconectado worker
+2024-03-21T19:09:08.629Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:10:08.630Z [info]: Cliente desconectado worker
+2024-03-21T19:10:08.631Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:11:08.632Z [info]: Cliente desconectado worker
+2024-03-21T19:11:08.633Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:12:08.634Z [info]: Cliente desconectado worker
+2024-03-21T19:12:08.637Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:13:08.641Z [info]: Cliente desconectado worker
+2024-03-21T19:13:08.642Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:14:08.646Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:14:08.650Z [info]: Cliente desconectado worker
+2024-03-21T19:15:08.652Z [info]: Cliente desconectado worker
+2024-03-21T19:15:08.654Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:16:09.657Z [info]: Cliente desconectado worker
+2024-03-21T19:16:09.658Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:17:10.657Z [info]: Cliente desconectado worker
+2024-03-21T19:17:10.664Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:18:10.666Z [info]: Cliente desconectado worker
+2024-03-21T19:18:10.668Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:19:10.669Z [info]: Cliente desconectado worker
+2024-03-21T19:19:10.671Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:20:10.674Z [info]: Cliente desconectado worker
+2024-03-21T19:20:10.678Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:21:11.680Z [info]: Cliente desconectado worker
+2024-03-21T19:21:11.682Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:22:11.684Z [info]: Cliente desconectado worker
+2024-03-21T19:22:11.686Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:23:11.688Z [info]: Cliente desconectado worker
+2024-03-21T19:23:11.689Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:24:11.692Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:24:11.701Z [info]: Cliente desconectado worker
+2024-03-21T19:25:11.702Z [info]: Cliente desconectado worker
+2024-03-21T19:25:11.704Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:26:12.704Z [info]: Cliente desconectado worker
+2024-03-21T19:26:12.706Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:27:13.734Z [info]: Cliente desconectado worker
+2024-03-21T19:27:13.736Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:28:13.739Z [info]: Cliente desconectado worker
+2024-03-21T19:28:13.741Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:29:13.742Z [info]: Cliente desconectado worker
+2024-03-21T19:29:13.744Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:30:13.745Z [info]: Cliente desconectado worker
+2024-03-21T19:30:13.747Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:31:13.854Z [info]: Cliente desconectado worker
+2024-03-21T19:31:13.857Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:32:13.949Z [info]: Cliente desconectado worker
+2024-03-21T19:32:13.951Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:33:13.953Z [info]: Cliente desconectado worker
+2024-03-21T19:33:13.955Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:34:13.990Z [info]: Cliente desconectado worker
+2024-03-21T19:34:13.993Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:35:14.994Z [info]: Cliente desconectado worker
+2024-03-21T19:35:14.995Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:36:15.995Z [info]: Cliente desconectado worker
+2024-03-21T19:36:15.998Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:37:15.999Z [info]: Cliente desconectado worker
+2024-03-21T19:37:16.001Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:38:16.002Z [info]: Cliente desconectado worker
+2024-03-21T19:38:16.005Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:39:16.007Z [info]: Cliente desconectado worker
+2024-03-21T19:39:16.009Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:40:16.010Z [info]: Cliente desconectado worker
+2024-03-21T19:40:16.012Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:41:16.014Z [info]: Cliente desconectado worker
+2024-03-21T19:41:16.015Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:42:16.017Z [info]: Cliente desconectado worker
+2024-03-21T19:42:16.018Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:43:17.018Z [info]: Cliente desconectado worker
+2024-03-21T19:43:17.020Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:44:17.021Z [info]: Cliente desconectado worker
+2024-03-21T19:44:17.023Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:45:17.024Z [info]: Cliente desconectado worker
+2024-03-21T19:45:17.026Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:46:17.037Z [info]: Cliente desconectado worker
+2024-03-21T19:46:17.039Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:47:17.042Z [info]: Cliente desconectado worker
+2024-03-21T19:47:17.044Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:48:17.046Z [info]: Cliente desconectado worker
+2024-03-21T19:48:17.049Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:49:18.051Z [info]: Cliente desconectado worker
+2024-03-21T19:49:18.052Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:50:18.054Z [info]: Cliente desconectado worker
+2024-03-21T19:50:18.058Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:51:19.058Z [info]: Cliente desconectado worker
+2024-03-21T19:51:19.061Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:52:20.061Z [info]: Cliente desconectado worker
+2024-03-21T19:52:20.063Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:53:20.064Z [info]: Cliente desconectado worker
+2024-03-21T19:53:20.067Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:54:21.071Z [info]: Cliente desconectado worker
+2024-03-21T19:54:21.074Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:55:22.074Z [info]: Cliente desconectado worker
+2024-03-21T19:55:22.075Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:56:23.084Z [info]: Cliente desconectado worker
+2024-03-21T19:56:23.087Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:57:23.105Z [info]: Cliente desconectado worker
+2024-03-21T19:57:23.135Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:58:23.135Z [info]: Cliente desconectado worker
+2024-03-21T19:58:23.137Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T19:59:23.143Z [info]: Cliente desconectado worker
+2024-03-21T19:59:23.147Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:00:23.149Z [info]: Cliente desconectado worker
+2024-03-21T20:00:23.151Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:01:23.154Z [info]: Cliente desconectado worker
+2024-03-21T20:01:23.156Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:02:23.157Z [info]: Cliente desconectado worker
+2024-03-21T20:02:23.159Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:03:23.159Z [info]: Cliente desconectado worker
+2024-03-21T20:03:23.162Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:04:23.164Z [info]: Cliente desconectado worker
+2024-03-21T20:04:23.172Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:05:23.178Z [info]: Cliente desconectado worker
+2024-03-21T20:05:23.180Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:06:24.180Z [info]: Cliente desconectado worker
+2024-03-21T20:06:24.181Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:07:24.182Z [info]: Cliente desconectado worker
+2024-03-21T20:07:24.184Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:08:24.186Z [info]: Cliente desconectado worker
+2024-03-21T20:08:24.187Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:09:25.186Z [info]: Cliente desconectado worker
+2024-03-21T20:09:25.187Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:10:26.188Z [info]: Cliente desconectado worker
+2024-03-21T20:10:26.190Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:11:26.191Z [info]: Cliente desconectado worker
+2024-03-21T20:11:26.196Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:12:26.197Z [info]: Cliente desconectado worker
+2024-03-21T20:12:26.199Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:13:26.200Z [info]: Cliente desconectado worker
+2024-03-21T20:13:26.201Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:14:27.202Z [info]: Cliente desconectado worker
+2024-03-21T20:14:27.203Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:15:27.206Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:15:27.217Z [info]: Cliente desconectado worker
+2024-03-21T20:16:27.210Z [info]: Cliente desconectado worker
+2024-03-21T20:16:27.220Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:17:27.222Z [info]: Cliente desconectado worker
+2024-03-21T20:17:27.224Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:18:28.226Z [info]: Cliente desconectado worker
+2024-03-21T20:18:28.229Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:19:28.233Z [info]: Cliente desconectado worker
+2024-03-21T20:19:28.235Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:20:29.237Z [info]: Cliente desconectado worker
+2024-03-21T20:20:29.239Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:21:29.240Z [info]: Cliente desconectado worker
+2024-03-21T20:21:29.242Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:22:29.244Z [info]: Cliente desconectado worker
+2024-03-21T20:22:29.245Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:23:29.245Z [info]: Cliente desconectado worker
+2024-03-21T20:23:29.246Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:24:30.246Z [info]: Cliente desconectado worker
+2024-03-21T20:24:30.247Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:25:30.259Z [info]: Cliente desconectado worker
+2024-03-21T20:25:30.260Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:26:31.259Z [info]: Cliente desconectado worker
+2024-03-21T20:26:31.260Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:27:31.262Z [info]: Cliente desconectado worker
+2024-03-21T20:27:31.263Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:28:31.265Z [info]: Cliente desconectado worker
+2024-03-21T20:28:31.265Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:29:31.266Z [info]: Cliente desconectado worker
+2024-03-21T20:29:31.267Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:30:31.269Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:30:31.279Z [info]: Cliente desconectado worker
+2024-03-21T20:31:31.270Z [info]: Cliente desconectado worker
+2024-03-21T20:31:31.271Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:32:31.272Z [info]: Cliente desconectado worker
+2024-03-21T20:32:31.273Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:33:31.275Z [info]: Cliente desconectado worker
+2024-03-21T20:33:31.275Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:34:31.277Z [info]: Cliente desconectado worker
+2024-03-21T20:34:31.278Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:35:31.284Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:35:31.291Z [info]: Cliente desconectado worker
+2024-03-21T20:36:31.297Z [info]: Cliente desconectado worker
+2024-03-21T20:36:31.298Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:37:31.305Z [info]: Cliente desconectado worker
+2024-03-21T20:37:31.308Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:38:31.310Z [info]: Cliente desconectado worker
+2024-03-21T20:38:31.314Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:39:31.316Z [info]: Cliente desconectado worker
+2024-03-21T20:39:31.317Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:40:32.317Z [info]: Cliente desconectado worker
+2024-03-21T20:40:32.319Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:41:32.321Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:41:32.331Z [info]: Cliente desconectado worker
+2024-03-21T20:42:32.322Z [info]: Cliente desconectado worker
+2024-03-21T20:42:32.324Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:43:33.324Z [info]: Cliente desconectado worker
+2024-03-21T20:43:33.325Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:44:34.326Z [info]: Cliente desconectado worker
+2024-03-21T20:44:34.328Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:45:35.331Z [info]: Cliente desconectado worker
+2024-03-21T20:45:35.337Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:46:36.337Z [info]: Cliente desconectado worker
+2024-03-21T20:46:36.340Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:47:36.343Z [info]: Cliente desconectado worker
+2024-03-21T20:47:36.344Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:48:36.345Z [info]: Cliente desconectado worker
+2024-03-21T20:48:36.349Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:49:36.355Z [info]: Cliente desconectado worker
+2024-03-21T20:49:36.361Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:50:37.361Z [info]: Cliente desconectado worker
+2024-03-21T20:50:37.362Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:51:38.362Z [info]: Cliente desconectado worker
+2024-03-21T20:51:38.365Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:52:38.390Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:52:38.400Z [info]: Cliente desconectado worker
+2024-03-21T20:53:39.389Z [info]: Cliente desconectado worker
+2024-03-21T20:53:39.390Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:54:39.391Z [info]: Cliente desconectado worker
+2024-03-21T20:54:39.393Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:55:39.398Z [info]: Cliente desconectado worker
+2024-03-21T20:55:39.400Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:56:39.402Z [info]: Cliente desconectado worker
+2024-03-21T20:56:39.408Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:57:40.411Z [info]: Cliente desconectado worker
+2024-03-21T20:57:40.412Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:58:40.417Z [info]: Cliente desconectado worker
+2024-03-21T20:58:40.419Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T20:59:40.420Z [info]: Cliente desconectado worker
+2024-03-21T20:59:40.422Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:00:40.424Z [info]: Cliente desconectado worker
+2024-03-21T21:00:40.425Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:01:40.437Z [info]: Cliente desconectado worker
+2024-03-21T21:01:40.440Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:02:40.441Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:02:40.442Z [info]: Cliente desconectado worker
+2024-03-21T21:03:40.442Z [info]: Cliente desconectado worker
+2024-03-21T21:03:40.444Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:04:40.446Z [info]: Cliente desconectado worker
+2024-03-21T21:04:40.449Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:05:40.451Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:05:40.452Z [info]: Cliente desconectado worker
+2024-03-21T21:06:41.452Z [info]: Cliente desconectado worker
+2024-03-21T21:06:41.454Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:07:42.455Z [info]: Cliente desconectado worker
+2024-03-21T21:07:42.457Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:08:42.459Z [info]: Cliente desconectado worker
+2024-03-21T21:08:42.462Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:09:42.465Z [info]: Cliente desconectado worker
+2024-03-21T21:09:42.470Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:10:42.482Z [info]: Cliente desconectado worker
+2024-03-21T21:10:42.484Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:11:42.486Z [info]: Cliente desconectado worker
+2024-03-21T21:11:42.488Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:12:42.489Z [info]: Cliente desconectado worker
+2024-03-21T21:12:42.490Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:13:43.490Z [info]: Cliente desconectado worker
+2024-03-21T21:13:43.493Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:14:44.493Z [info]: Cliente desconectado worker
+2024-03-21T21:14:44.495Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:15:44.498Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:15:44.507Z [info]: Cliente desconectado worker
+2024-03-21T21:16:45.499Z [info]: Cliente desconectado worker
+2024-03-21T21:16:45.501Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:17:45.503Z [info]: Cliente desconectado worker
+2024-03-21T21:17:45.505Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:18:45.507Z [info]: Cliente desconectado worker
+2024-03-21T21:18:45.510Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:19:45.511Z [info]: Cliente desconectado worker
+2024-03-21T21:19:45.514Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:20:45.515Z [info]: Cliente desconectado worker
+2024-03-21T21:20:45.517Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:21:45.518Z [info]: Cliente desconectado worker
+2024-03-21T21:21:45.519Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:22:46.519Z [info]: Cliente desconectado worker
+2024-03-21T21:22:46.521Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:23:46.523Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:23:46.533Z [info]: Cliente desconectado worker
+2024-03-21T21:24:47.524Z [info]: Cliente desconectado worker
+2024-03-21T21:24:47.525Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:25:47.526Z [info]: Cliente desconectado worker
+2024-03-21T21:25:47.527Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:26:48.527Z [info]: Cliente desconectado worker
+2024-03-21T21:26:48.529Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:27:48.530Z [info]: Cliente desconectado worker
+2024-03-21T21:27:48.531Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:28:48.532Z [info]: Cliente desconectado worker
+2024-03-21T21:28:48.534Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:29:48.550Z [info]: Cliente desconectado worker
+2024-03-21T21:29:48.552Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:30:49.551Z [info]: Cliente desconectado worker
+2024-03-21T21:30:49.553Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:31:49.557Z [info]: Cliente desconectado worker
+2024-03-21T21:31:49.560Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:32:50.584Z [info]: Cliente desconectado worker
+2024-03-21T21:32:50.586Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:33:50.596Z [info]: Cliente desconectado worker
+2024-03-21T21:33:50.599Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:34:50.601Z [info]: Cliente desconectado worker
+2024-03-21T21:34:50.602Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:35:50.615Z [info]: Cliente desconectado worker
+2024-03-21T21:35:50.618Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:36:50.622Z [info]: Cliente desconectado worker
+2024-03-21T21:36:50.624Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:37:50.627Z [info]: Cliente desconectado worker
+2024-03-21T21:37:50.629Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:38:50.633Z [info]: Cliente desconectado worker
+2024-03-21T21:38:50.636Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:39:50.637Z [info]: Cliente desconectado worker
+2024-03-21T21:39:50.639Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:40:51.640Z [info]: Cliente desconectado worker
+2024-03-21T21:40:51.642Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:41:51.652Z [info]: Cliente desconectado worker
+2024-03-21T21:41:51.655Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:41:51.705Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"method": "POST",
+			"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+			"data": {
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"method": "POST",
+			"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+			"data": {
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-21T21:42:12.742Z [error]: usuarioController/store {
+	"StatusDescription": "Bad Request",
+	"StatusCode": 400,
+	"Response": "{\n\t\"statusCode\":\t6,\n\t\"statusString\":\t\"Invalid Content\",\n\t\"subStatusCode\":\t\"employeeNoAlreadyExist\",\n\t\"errorCode\":\t1610637344,\n\t\"errorMsg\":\t\"employeeNoAlreadyExist\"\n}",
+	"Request": {
+		"data": {
+			"UserInfo": {
+				"employeeNo": "15",
+				"name": "susana oria",
+				"userType": "normal",
+				"Valid": {
+					"beginTime": "2024-02-16T00:00:00Z",
+					"endTime": "2024-03-16T00:00:00Z",
+					"enable": true
+				}
+			}
+		},
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.247",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1
+	}
+}
+2024-03-21T21:42:12.743Z [error]: usuarioController/store {
+	"StatusDescription": "Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder. (192.168.88.30:80)",
+	"StatusCode": 500,
+	"Response": {},
+	"Request": {
+		"data": {
+			"UserInfo": {
+				"employeeNo": "15",
+				"name": "susana oria",
+				"userType": "normal",
+				"Valid": {
+					"beginTime": "2024-02-16T00:00:00Z",
+					"endTime": "2024-03-16T00:00:00Z",
+					"enable": true
+				}
+			}
+		},
+		"idLector": 1,
+		"create_time": null,
+		"nomLector": "Facial Ingreso",
+		"ipLector": "192.168.88.30",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1
+	}
+}
+2024-03-21T21:42:52.656Z [info]: Cliente desconectado worker
+2024-03-21T21:42:52.657Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:43:52.658Z [info]: Cliente desconectado worker
+2024-03-21T21:43:52.659Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:44:53.659Z [info]: Cliente desconectado worker
+2024-03-21T21:44:53.661Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:45:54.661Z [info]: Cliente desconectado worker
+2024-03-21T21:45:54.662Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:46:55.663Z [info]: Cliente desconectado worker
+2024-03-21T21:46:55.665Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:47:56.665Z [info]: Cliente desconectado worker
+2024-03-21T21:47:56.666Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:48:56.668Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:48:56.668Z [info]: Cliente desconectado worker
+2024-03-21T21:49:56.669Z [info]: Cliente desconectado worker
+2024-03-21T21:49:56.670Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:50:56.671Z [info]: Cliente desconectado worker
+2024-03-21T21:50:56.672Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:51:56.675Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:51:56.684Z [info]: Cliente desconectado worker
+2024-03-21T21:52:57.680Z [info]: Cliente desconectado worker
+2024-03-21T21:52:57.683Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:53:57.685Z [info]: Cliente desconectado worker
+2024-03-21T21:53:57.694Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:54:57.719Z [info]: Cliente desconectado worker
+2024-03-21T21:54:57.722Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:55:57.723Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:55:57.733Z [info]: Cliente desconectado worker
+2024-03-21T21:56:58.723Z [info]: Cliente desconectado worker
+2024-03-21T21:56:58.725Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:57:58.727Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:57:58.736Z [info]: Cliente desconectado worker
+2024-03-21T21:58:58.728Z [info]: Cliente desconectado worker
+2024-03-21T21:58:58.730Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:59:58.733Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T21:59:58.733Z [info]: Cliente desconectado worker
+2024-03-21T22:00:58.734Z [info]: Cliente desconectado worker
+2024-03-21T22:00:58.735Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:01:58.737Z [info]: Cliente desconectado worker
+2024-03-21T22:01:58.739Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:02:58.741Z [info]: Cliente desconectado worker
+2024-03-21T22:02:58.742Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:03:59.743Z [info]: Cliente desconectado worker
+2024-03-21T22:03:59.745Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:04:59.746Z [info]: Cliente desconectado worker
+2024-03-21T22:04:59.747Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:05:59.748Z [info]: Cliente desconectado worker
+2024-03-21T22:05:59.750Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:07:00.750Z [info]: Cliente desconectado worker
+2024-03-21T22:07:00.753Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:08:01.753Z [info]: Cliente desconectado worker
+2024-03-21T22:08:01.755Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:09:01.756Z [info]: Cliente desconectado worker
+2024-03-21T22:09:01.759Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:10:02.760Z [info]: Cliente desconectado worker
+2024-03-21T22:10:02.761Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:11:02.763Z [info]: Cliente desconectado worker
+2024-03-21T22:11:02.765Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:12:03.766Z [info]: Cliente desconectado worker
+2024-03-21T22:12:03.768Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:13:04.769Z [info]: Cliente desconectado worker
+2024-03-21T22:13:04.774Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:14:04.776Z [info]: Cliente desconectado worker
+2024-03-21T22:14:04.778Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:15:05.779Z [info]: Cliente desconectado worker
+2024-03-21T22:15:05.781Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:16:05.785Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:16:05.793Z [info]: Cliente desconectado worker
+2024-03-21T22:17:05.786Z [info]: Cliente desconectado worker
+2024-03-21T22:17:05.787Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:18:05.789Z [info]: Cliente desconectado worker
+2024-03-21T22:18:05.791Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:19:05.792Z [info]: Cliente desconectado worker
+2024-03-21T22:19:05.795Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:20:05.796Z [info]: Cliente desconectado worker
+2024-03-21T22:20:05.798Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:21:05.800Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:21:05.809Z [info]: Cliente desconectado worker
+2024-03-21T22:22:06.801Z [info]: Cliente desconectado worker
+2024-03-21T22:22:06.803Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:23:06.804Z [info]: Cliente desconectado worker
+2024-03-21T22:23:06.805Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:24:06.807Z [info]: Cliente desconectado worker
+2024-03-21T22:24:06.809Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:25:06.810Z [info]: Cliente desconectado worker
+2024-03-21T22:25:06.812Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:26:07.813Z [info]: Cliente desconectado worker
+2024-03-21T22:26:07.815Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:27:07.818Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:27:07.827Z [info]: Cliente desconectado worker
+2024-03-21T22:28:08.818Z [info]: Cliente desconectado worker
+2024-03-21T22:28:08.820Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:29:08.822Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:29:08.832Z [info]: Cliente desconectado worker
+2024-03-21T22:30:09.822Z [info]: Cliente desconectado worker
+2024-03-21T22:30:09.824Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:31:09.825Z [info]: Cliente desconectado worker
+2024-03-21T22:31:09.826Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:32:09.827Z [info]: Cliente desconectado worker
+2024-03-21T22:32:09.829Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:33:10.831Z [info]: Cliente desconectado worker
+2024-03-21T22:33:10.834Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:34:10.835Z [info]: Cliente desconectado worker
+2024-03-21T22:34:10.837Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:35:10.840Z [info]: Cliente desconectado worker
+2024-03-21T22:35:10.843Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:36:10.844Z [info]: Cliente desconectado worker
+2024-03-21T22:36:10.846Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:37:10.846Z [info]: Cliente desconectado worker
+2024-03-21T22:37:10.848Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:38:10.849Z [info]: Cliente desconectado worker
+2024-03-21T22:38:10.850Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:39:10.852Z [info]: Cliente desconectado worker
+2024-03-21T22:39:10.853Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:40:10.854Z [info]: Cliente desconectado worker
+2024-03-21T22:40:10.856Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:41:10.857Z [info]: Cliente desconectado worker
+2024-03-21T22:41:10.858Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:42:10.859Z [info]: Cliente desconectado worker
+2024-03-21T22:42:10.861Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:43:10.862Z [info]: Cliente desconectado worker
+2024-03-21T22:43:10.863Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:44:11.863Z [info]: Cliente desconectado worker
+2024-03-21T22:44:11.865Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:45:12.865Z [info]: Cliente desconectado worker
+2024-03-21T22:45:12.868Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:46:13.869Z [info]: Cliente desconectado worker
+2024-03-21T22:46:13.872Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:47:13.872Z [info]: Cliente desconectado worker
+2024-03-21T22:47:13.874Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:48:13.876Z [info]: Cliente desconectado worker
+2024-03-21T22:48:13.878Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:49:14.879Z [info]: Cliente desconectado worker
+2024-03-21T22:49:14.881Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:50:14.883Z [info]: Cliente desconectado worker
+2024-03-21T22:50:14.884Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:51:14.886Z [info]: Cliente desconectado worker
+2024-03-21T22:51:14.887Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:52:14.889Z [info]: Cliente desconectado worker
+2024-03-21T22:52:14.891Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:53:15.893Z [info]: Cliente desconectado worker
+2024-03-21T22:53:15.895Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:54:15.896Z [info]: Cliente desconectado worker
+2024-03-21T22:54:15.897Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:55:16.898Z [info]: Cliente desconectado worker
+2024-03-21T22:55:16.899Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:56:17.899Z [info]: Cliente desconectado worker
+2024-03-21T22:56:17.900Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:57:18.900Z [info]: Cliente desconectado worker
+2024-03-21T22:57:18.901Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:57:41.168Z [info]: Iniciando server en el puerto 3000
+2024-03-21T22:58:08.178Z [info]: Iniciando server en el puerto 3000
+2024-03-21T22:58:13.084Z [info]: Iniciando server en el puerto 3000
+2024-03-21T22:58:35.807Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T22:59:36.808Z [info]: Cliente desconectado worker
+2024-03-21T22:59:36.809Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:00:36.810Z [info]: Cliente desconectado worker
+2024-03-21T23:00:36.811Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:01:37.812Z [info]: Cliente desconectado worker
+2024-03-21T23:01:37.813Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:02:38.815Z [info]: Cliente desconectado worker
+2024-03-21T23:02:38.816Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:03:33.078Z [info]: Iniciando server en el puerto 3000
+2024-03-21T23:03:33.095Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:03:41.717Z [info]: Iniciando server en el puerto 3000
+2024-03-21T23:03:41.748Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:04:41.750Z [info]: Cliente desconectado worker
+2024-03-21T23:04:41.752Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:05:42.753Z [info]: Cliente desconectado worker
+2024-03-21T23:05:42.754Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:06:42.768Z [info]: Cliente desconectado worker
+2024-03-21T23:06:42.770Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:07:43.773Z [info]: Cliente desconectado worker
+2024-03-21T23:07:43.774Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:08:44.773Z [info]: Cliente desconectado worker
+2024-03-21T23:08:44.774Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:08:48.700Z [info]: Iniciando server en el puerto 3000
+2024-03-21T23:08:48.723Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:09:06.588Z [info]: Iniciando server en el puerto 3000
+2024-03-21T23:09:06.618Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:10:06.622Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:10:06.623Z [info]: Cliente desconectado worker
+2024-03-21T23:11:06.623Z [info]: Cliente desconectado worker
+2024-03-21T23:11:06.625Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:12:06.631Z [info]: Cliente desconectado worker
+2024-03-21T23:12:06.635Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:13:07.636Z [info]: Cliente desconectado worker
+2024-03-21T23:13:07.638Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:14:08.639Z [info]: Cliente desconectado worker
+2024-03-21T23:14:08.640Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:15:08.641Z [info]: Cliente desconectado worker
+2024-03-21T23:15:08.642Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:16:08.643Z [info]: Cliente desconectado worker
+2024-03-21T23:16:08.644Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:16:52.730Z [info]: Iniciando server en el puerto 3000
+2024-03-21T23:16:52.763Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:17:53.765Z [info]: Cliente desconectado worker
+2024-03-21T23:17:53.766Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:17:57.290Z [info]: Iniciando server en el puerto 3000
+2024-03-21T23:17:57.788Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:18:57.791Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:18:57.802Z [info]: Cliente desconectado worker
+2024-03-21T23:19:57.792Z [info]: Cliente desconectado worker
+2024-03-21T23:19:57.793Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:20:57.794Z [info]: Cliente desconectado worker
+2024-03-21T23:20:57.795Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:21:58.796Z [info]: Cliente desconectado worker
+2024-03-21T23:21:58.801Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:22:58.802Z [info]: Cliente desconectado worker
+2024-03-21T23:22:58.803Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:23:59.804Z [info]: Cliente desconectado worker
+2024-03-21T23:23:59.805Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:25:00.806Z [info]: Cliente desconectado worker
+2024-03-21T23:25:00.808Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:26:00.809Z [info]: Cliente desconectado worker
+2024-03-21T23:26:00.811Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:27:01.811Z [info]: Cliente desconectado worker
+2024-03-21T23:27:01.812Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:28:01.813Z [info]: Cliente desconectado worker
+2024-03-21T23:28:01.816Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:29:01.818Z [info]: Cliente desconectado worker
+2024-03-21T23:29:01.819Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:30:01.821Z [info]: Cliente desconectado worker
+2024-03-21T23:30:01.852Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:31:01.853Z [info]: Cliente desconectado worker
+2024-03-21T23:31:01.854Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:32:01.856Z [info]: Cliente desconectado worker
+2024-03-21T23:32:01.858Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:33:01.861Z [info]: Cliente desconectado worker
+2024-03-21T23:33:01.864Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:34:02.864Z [info]: Cliente desconectado worker
+2024-03-21T23:34:02.866Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:35:02.868Z [info]: Cliente desconectado worker
+2024-03-21T23:35:02.874Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:36:02.876Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:36:02.876Z [info]: Cliente desconectado worker
+2024-03-21T23:37:02.877Z [info]: Cliente desconectado worker
+2024-03-21T23:37:02.879Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:38:03.879Z [info]: Cliente desconectado worker
+2024-03-21T23:38:03.881Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:39:04.882Z [info]: Cliente desconectado worker
+2024-03-21T23:39:04.883Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:40:04.883Z [info]: Cliente desconectado worker
+2024-03-21T23:40:04.885Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:41:05.885Z [info]: Cliente desconectado worker
+2024-03-21T23:41:05.886Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:42:05.887Z [info]: Cliente desconectado worker
+2024-03-21T23:42:05.888Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:43:05.889Z [info]: Cliente desconectado worker
+2024-03-21T23:43:05.890Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:44:05.892Z [info]: Cliente desconectado worker
+2024-03-21T23:44:05.893Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:45:05.894Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:45:05.895Z [info]: Cliente desconectado worker
+2024-03-21T23:46:06.894Z [info]: Cliente desconectado worker
+2024-03-21T23:46:06.895Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:47:07.896Z [info]: Cliente desconectado worker
+2024-03-21T23:47:07.897Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:48:07.899Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:48:07.900Z [info]: Cliente desconectado worker
+2024-03-21T23:49:07.900Z [info]: Cliente desconectado worker
+2024-03-21T23:49:07.906Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:50:07.907Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:50:07.908Z [info]: Cliente desconectado worker
+2024-03-21T23:51:08.909Z [info]: Cliente desconectado worker
+2024-03-21T23:51:08.911Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:52:09.911Z [info]: Cliente desconectado worker
+2024-03-21T23:52:09.913Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:53:10.912Z [info]: Cliente desconectado worker
+2024-03-21T23:53:10.914Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:54:11.914Z [info]: Cliente desconectado worker
+2024-03-21T23:54:11.916Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:55:11.916Z [info]: Cliente desconectado worker
+2024-03-21T23:55:11.917Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:56:12.918Z [info]: Cliente desconectado worker
+2024-03-21T23:56:12.919Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:57:13.920Z [info]: Cliente desconectado worker
+2024-03-21T23:57:13.921Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:58:14.921Z [info]: Cliente desconectado worker
+2024-03-21T23:58:14.923Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T23:59:15.924Z [info]: Cliente desconectado worker
+2024-03-21T23:59:15.925Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:00:15.926Z [info]: Cliente desconectado worker
+2024-03-22T00:00:15.927Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:01:16.927Z [info]: Cliente desconectado worker
+2024-03-22T00:01:16.928Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:02:16.929Z [info]: Cliente desconectado worker
+2024-03-22T00:02:16.930Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:03:17.931Z [info]: Cliente desconectado worker
+2024-03-22T00:03:17.933Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:04:17.934Z [info]: Cliente desconectado worker
+2024-03-22T00:04:17.935Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:05:18.936Z [info]: Cliente desconectado worker
+2024-03-22T00:05:18.938Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:06:18.940Z [info]: Cliente desconectado worker
+2024-03-22T00:06:18.941Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:07:18.943Z [info]: Cliente desconectado worker
+2024-03-22T00:07:18.944Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:08:19.944Z [info]: Cliente desconectado worker
+2024-03-22T00:08:19.945Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:09:19.946Z [info]: Cliente desconectado worker
+2024-03-22T00:09:19.947Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:10:19.948Z [info]: Cliente desconectado worker
+2024-03-22T00:10:19.950Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:11:19.952Z [info]: Cliente desconectado worker
+2024-03-22T00:11:19.953Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:12:19.953Z [info]: Cliente desconectado worker
+2024-03-22T00:12:19.955Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:13:20.954Z [info]: Cliente desconectado worker
+2024-03-22T00:13:20.956Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:14:21.956Z [info]: Cliente desconectado worker
+2024-03-22T00:14:21.957Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:15:22.958Z [info]: Cliente desconectado worker
+2024-03-22T00:15:22.960Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:16:23.960Z [info]: Cliente desconectado worker
+2024-03-22T00:16:23.961Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:17:23.962Z [info]: Cliente desconectado worker
+2024-03-22T00:17:23.963Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:18:24.964Z [info]: Cliente desconectado worker
+2024-03-22T00:18:24.965Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:19:25.966Z [info]: Cliente desconectado worker
+2024-03-22T00:19:25.967Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:20:25.969Z [info]: Cliente desconectado worker
+2024-03-22T00:20:25.970Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:21:26.970Z [info]: Cliente desconectado worker
+2024-03-22T00:21:26.971Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:22:26.972Z [info]: Cliente desconectado worker
+2024-03-22T00:22:26.973Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:23:26.975Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:23:26.975Z [info]: Cliente desconectado worker
+2024-03-22T00:24:26.976Z [info]: Cliente desconectado worker
+2024-03-22T00:24:26.977Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:25:26.978Z [info]: Cliente desconectado worker
+2024-03-22T00:25:26.979Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:26:27.979Z [info]: Cliente desconectado worker
+2024-03-22T00:26:27.980Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:27:27.982Z [info]: Cliente desconectado worker
+2024-03-22T00:27:27.983Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:28:27.984Z [info]: Cliente desconectado worker
+2024-03-22T00:28:27.984Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:29:28.984Z [info]: Cliente desconectado worker
+2024-03-22T00:29:28.986Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:30:28.986Z [info]: Cliente desconectado worker
+2024-03-22T00:30:28.988Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:31:29.988Z [info]: Cliente desconectado worker
+2024-03-22T00:31:29.990Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:32:30.990Z [info]: Cliente desconectado worker
+2024-03-22T00:32:30.991Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:33:31.992Z [info]: Cliente desconectado worker
+2024-03-22T00:33:31.993Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:34:32.994Z [info]: Cliente desconectado worker
+2024-03-22T00:34:32.995Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:35:32.996Z [info]: Cliente desconectado worker
+2024-03-22T00:35:32.998Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:36:33.000Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:36:33.001Z [info]: Cliente desconectado worker
+2024-03-22T00:37:33.003Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:37:33.012Z [info]: Cliente desconectado worker
+2024-03-22T00:38:33.004Z [info]: Cliente desconectado worker
+2024-03-22T00:38:33.006Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:39:33.007Z [info]: Cliente desconectado worker
+2024-03-22T00:39:33.008Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:40:34.008Z [info]: Cliente desconectado worker
+2024-03-22T00:40:34.011Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:41:35.011Z [info]: Cliente desconectado worker
+2024-03-22T00:41:35.012Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:42:36.012Z [info]: Cliente desconectado worker
+2024-03-22T00:42:36.013Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:43:37.014Z [info]: Cliente desconectado worker
+2024-03-22T00:43:37.015Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:44:37.016Z [info]: Cliente desconectado worker
+2024-03-22T00:44:37.019Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:45:37.020Z [info]: Cliente desconectado worker
+2024-03-22T00:45:37.022Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:46:38.023Z [info]: Cliente desconectado worker
+2024-03-22T00:46:38.026Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:47:39.027Z [info]: Cliente desconectado worker
+2024-03-22T00:47:39.028Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:48:40.029Z [info]: Cliente desconectado worker
+2024-03-22T00:48:40.030Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:49:40.032Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:49:40.043Z [info]: Cliente desconectado worker
+2024-03-22T00:50:41.032Z [info]: Cliente desconectado worker
+2024-03-22T00:50:41.034Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:51:41.037Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:51:41.046Z [info]: Cliente desconectado worker
+2024-03-22T00:52:42.037Z [info]: Cliente desconectado worker
+2024-03-22T00:52:42.039Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:53:43.039Z [info]: Cliente desconectado worker
+2024-03-22T00:53:43.040Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:54:43.041Z [info]: Cliente desconectado worker
+2024-03-22T00:54:43.043Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:55:43.044Z [info]: Cliente desconectado worker
+2024-03-22T00:55:43.045Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:56:43.045Z [info]: Cliente desconectado worker
+2024-03-22T00:56:43.046Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:57:43.049Z [info]: Cliente desconectado worker
+2024-03-22T00:57:43.050Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:58:44.050Z [info]: Cliente desconectado worker
+2024-03-22T00:58:44.052Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T00:59:45.052Z [info]: Cliente desconectado worker
+2024-03-22T00:59:45.054Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:00:45.056Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:00:45.066Z [info]: Cliente desconectado worker
+2024-03-22T01:01:45.056Z [info]: Cliente desconectado worker
+2024-03-22T01:01:45.058Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:02:46.058Z [info]: Cliente desconectado worker
+2024-03-22T01:02:46.059Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:03:47.060Z [info]: Cliente desconectado worker
+2024-03-22T01:03:47.061Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:04:48.060Z [info]: Cliente desconectado worker
+2024-03-22T01:04:48.062Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:05:49.061Z [info]: Cliente desconectado worker
+2024-03-22T01:05:49.063Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:06:50.063Z [info]: Cliente desconectado worker
+2024-03-22T01:06:50.065Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:07:50.068Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:07:50.069Z [info]: Cliente desconectado worker
+2024-03-22T01:08:50.069Z [info]: Cliente desconectado worker
+2024-03-22T01:08:50.070Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:09:50.074Z [info]: Cliente desconectado worker
+2024-03-22T01:09:50.075Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:10:50.078Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:10:50.087Z [info]: Cliente desconectado worker
+2024-03-22T01:11:50.079Z [info]: Cliente desconectado worker
+2024-03-22T01:11:50.080Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:12:50.081Z [info]: Cliente desconectado worker
+2024-03-22T01:12:50.083Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:13:50.084Z [info]: Cliente desconectado worker
+2024-03-22T01:13:50.085Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:14:51.086Z [info]: Cliente desconectado worker
+2024-03-22T01:14:51.087Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:15:52.087Z [info]: Cliente desconectado worker
+2024-03-22T01:15:52.088Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:16:53.088Z [info]: Cliente desconectado worker
+2024-03-22T01:16:53.089Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:17:53.092Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:17:53.101Z [info]: Cliente desconectado worker
+2024-03-22T01:18:53.093Z [info]: Cliente desconectado worker
+2024-03-22T01:18:53.094Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:19:54.094Z [info]: Cliente desconectado worker
+2024-03-22T01:19:54.096Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:20:55.097Z [info]: Cliente desconectado worker
+2024-03-22T01:20:55.099Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:21:55.100Z [info]: Cliente desconectado worker
+2024-03-22T01:21:55.102Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:22:55.103Z [info]: Cliente desconectado worker
+2024-03-22T01:22:55.104Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:23:56.104Z [info]: Cliente desconectado worker
+2024-03-22T01:23:56.106Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:24:56.108Z [info]: Cliente desconectado worker
+2024-03-22T01:24:56.109Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:25:57.110Z [info]: Cliente desconectado worker
+2024-03-22T01:25:57.111Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:26:58.112Z [info]: Cliente desconectado worker
+2024-03-22T01:26:58.114Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:27:58.115Z [info]: Cliente desconectado worker
+2024-03-22T01:27:58.116Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:28:58.118Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:28:58.125Z [info]: Cliente desconectado worker
+2024-03-22T01:29:59.120Z [info]: Cliente desconectado worker
+2024-03-22T01:29:59.121Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:31:00.121Z [info]: Cliente desconectado worker
+2024-03-22T01:31:00.122Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:32:01.123Z [info]: Cliente desconectado worker
+2024-03-22T01:32:01.124Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:33:02.126Z [info]: Cliente desconectado worker
+2024-03-22T01:33:02.127Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:34:03.127Z [info]: Cliente desconectado worker
+2024-03-22T01:34:03.129Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:35:04.129Z [info]: Cliente desconectado worker
+2024-03-22T01:35:04.130Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:36:04.132Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:36:04.141Z [info]: Cliente desconectado worker
+2024-03-22T01:37:04.133Z [info]: Cliente desconectado worker
+2024-03-22T01:37:04.134Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:38:04.135Z [info]: Cliente desconectado worker
+2024-03-22T01:38:04.136Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:39:05.138Z [info]: Cliente desconectado worker
+2024-03-22T01:39:05.140Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:40:05.140Z [info]: Cliente desconectado worker
+2024-03-22T01:40:05.141Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:41:05.142Z [info]: Cliente desconectado worker
+2024-03-22T01:41:05.145Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:42:05.145Z [info]: Cliente desconectado worker
+2024-03-22T01:42:05.146Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:43:06.146Z [info]: Cliente desconectado worker
+2024-03-22T01:43:06.149Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:44:07.148Z [info]: Cliente desconectado worker
+2024-03-22T01:44:07.150Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:45:07.151Z [info]: Cliente desconectado worker
+2024-03-22T01:45:07.153Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:46:07.155Z [info]: Cliente desconectado worker
+2024-03-22T01:46:07.156Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:47:07.159Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:47:07.167Z [info]: Cliente desconectado worker
+2024-03-22T01:48:08.159Z [info]: Cliente desconectado worker
+2024-03-22T01:48:08.161Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:49:08.162Z [info]: Cliente desconectado worker
+2024-03-22T01:49:08.163Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:50:08.165Z [info]: Cliente desconectado worker
+2024-03-22T01:50:08.177Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:51:08.180Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:51:08.190Z [info]: Cliente desconectado worker
+2024-03-22T01:52:09.181Z [info]: Cliente desconectado worker
+2024-03-22T01:52:09.182Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:53:09.184Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:53:09.193Z [info]: Cliente desconectado worker
+2024-03-22T01:54:09.186Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:54:09.195Z [info]: Cliente desconectado worker
+2024-03-22T01:55:10.187Z [info]: Cliente desconectado worker
+2024-03-22T01:55:10.189Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:56:10.191Z [info]: Cliente desconectado worker
+2024-03-22T01:56:10.192Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:57:11.192Z [info]: Cliente desconectado worker
+2024-03-22T01:57:11.193Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:58:11.194Z [info]: Cliente desconectado worker
+2024-03-22T01:58:11.195Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T01:59:11.196Z [info]: Cliente desconectado worker
+2024-03-22T01:59:11.197Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:00:11.198Z [info]: Cliente desconectado worker
+2024-03-22T02:00:11.200Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:01:12.199Z [info]: Cliente desconectado worker
+2024-03-22T02:01:12.200Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:02:12.201Z [info]: Cliente desconectado worker
+2024-03-22T02:02:12.201Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:03:12.203Z [info]: Cliente desconectado worker
+2024-03-22T02:03:12.204Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:04:13.205Z [info]: Cliente desconectado worker
+2024-03-22T02:04:13.207Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:05:14.207Z [info]: Cliente desconectado worker
+2024-03-22T02:05:14.209Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:06:15.209Z [info]: Cliente desconectado worker
+2024-03-22T02:06:15.210Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:07:15.211Z [info]: Cliente desconectado worker
+2024-03-22T02:07:15.213Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:08:15.215Z [info]: Cliente desconectado worker
+2024-03-22T02:08:15.216Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:09:15.216Z [info]: Cliente desconectado worker
+2024-03-22T02:09:15.217Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:10:16.218Z [info]: Cliente desconectado worker
+2024-03-22T02:10:16.219Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:11:17.221Z [info]: Cliente desconectado worker
+2024-03-22T02:11:17.222Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:12:18.224Z [info]: Cliente desconectado worker
+2024-03-22T02:12:18.225Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:13:18.226Z [info]: Cliente desconectado worker
+2024-03-22T02:13:18.227Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:14:19.228Z [info]: Cliente desconectado worker
+2024-03-22T02:14:19.229Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:15:20.229Z [info]: Cliente desconectado worker
+2024-03-22T02:15:20.231Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:16:21.230Z [info]: Cliente desconectado worker
+2024-03-22T02:16:21.231Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:17:21.233Z [info]: Cliente desconectado worker
+2024-03-22T02:17:21.233Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:18:21.236Z [info]: Cliente desconectado worker
+2024-03-22T02:18:21.239Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:19:22.239Z [info]: Cliente desconectado worker
+2024-03-22T02:19:22.240Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:20:22.243Z [info]: Cliente desconectado worker
+2024-03-22T02:20:22.243Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:21:23.245Z [info]: Cliente desconectado worker
+2024-03-22T02:21:23.246Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:22:24.246Z [info]: Cliente desconectado worker
+2024-03-22T02:22:24.246Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:23:24.248Z [info]: Cliente desconectado worker
+2024-03-22T02:23:24.249Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:24:24.250Z [info]: Cliente desconectado worker
+2024-03-22T02:24:24.251Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:25:24.253Z [info]: Cliente desconectado worker
+2024-03-22T02:25:24.255Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:26:24.255Z [info]: Cliente desconectado worker
+2024-03-22T02:26:24.256Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:27:24.258Z [info]: Cliente desconectado worker
+2024-03-22T02:27:24.260Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:28:24.262Z [info]: Cliente desconectado worker
+2024-03-22T02:28:24.263Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:29:24.263Z [info]: Cliente desconectado worker
+2024-03-22T02:29:24.265Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:30:25.264Z [info]: Cliente desconectado worker
+2024-03-22T02:30:25.265Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:31:26.266Z [info]: Cliente desconectado worker
+2024-03-22T02:31:26.267Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:32:26.269Z [info]: Cliente desconectado worker
+2024-03-22T02:32:26.271Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:33:26.272Z [info]: Cliente desconectado worker
+2024-03-22T02:33:26.273Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:34:27.272Z [info]: Cliente desconectado worker
+2024-03-22T02:34:27.273Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:35:28.274Z [info]: Cliente desconectado worker
+2024-03-22T02:35:28.275Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:36:28.279Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:36:28.288Z [info]: Cliente desconectado worker
+2024-03-22T02:37:28.282Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:37:28.291Z [info]: Cliente desconectado worker
+2024-03-22T02:38:29.283Z [info]: Cliente desconectado worker
+2024-03-22T02:38:29.285Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:39:30.285Z [info]: Cliente desconectado worker
+2024-03-22T02:39:30.286Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:40:30.288Z [info]: Cliente desconectado worker
+2024-03-22T02:40:30.289Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:41:30.290Z [info]: Cliente desconectado worker
+2024-03-22T02:41:30.291Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:42:31.294Z [info]: Cliente desconectado worker
+2024-03-22T02:42:31.296Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:43:31.298Z [info]: Cliente desconectado worker
+2024-03-22T02:43:31.300Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:44:32.302Z [info]: Cliente desconectado worker
+2024-03-22T02:44:32.303Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:45:32.305Z [info]: Cliente desconectado worker
+2024-03-22T02:45:32.306Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:46:32.308Z [info]: Cliente desconectado worker
+2024-03-22T02:46:32.309Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:47:32.312Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:47:32.322Z [info]: Cliente desconectado worker
+2024-03-22T02:48:32.313Z [info]: Cliente desconectado worker
+2024-03-22T02:48:32.315Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:49:33.316Z [info]: Cliente desconectado worker
+2024-03-22T02:49:33.317Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:50:34.317Z [info]: Cliente desconectado worker
+2024-03-22T02:50:34.319Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:51:34.320Z [info]: Cliente desconectado worker
+2024-03-22T02:51:34.322Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:52:34.322Z [info]: Cliente desconectado worker
+2024-03-22T02:52:34.323Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:53:34.324Z [info]: Cliente desconectado worker
+2024-03-22T02:53:34.326Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:54:35.325Z [info]: Cliente desconectado worker
+2024-03-22T02:54:35.326Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:55:35.327Z [info]: Cliente desconectado worker
+2024-03-22T02:55:35.329Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:56:35.330Z [info]: Cliente desconectado worker
+2024-03-22T02:56:35.332Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:57:36.332Z [info]: Cliente desconectado worker
+2024-03-22T02:57:36.335Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:58:37.335Z [info]: Cliente desconectado worker
+2024-03-22T02:58:37.337Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T02:59:37.338Z [info]: Cliente desconectado worker
+2024-03-22T02:59:37.340Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:00:38.340Z [info]: Cliente desconectado worker
+2024-03-22T03:00:38.342Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:01:39.342Z [info]: Cliente desconectado worker
+2024-03-22T03:01:39.345Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:02:40.344Z [info]: Cliente desconectado worker
+2024-03-22T03:02:40.346Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:03:40.348Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:03:40.357Z [info]: Cliente desconectado worker
+2024-03-22T03:04:41.349Z [info]: Cliente desconectado worker
+2024-03-22T03:04:41.350Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:05:42.351Z [info]: Cliente desconectado worker
+2024-03-22T03:05:42.353Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:06:42.354Z [info]: Cliente desconectado worker
+2024-03-22T03:06:42.356Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:07:43.356Z [info]: Cliente desconectado worker
+2024-03-22T03:07:43.358Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:08:44.357Z [info]: Cliente desconectado worker
+2024-03-22T03:08:44.359Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:09:44.359Z [info]: Cliente desconectado worker
+2024-03-22T03:09:44.361Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:10:44.361Z [info]: Cliente desconectado worker
+2024-03-22T03:10:44.362Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:11:44.366Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:11:44.373Z [info]: Cliente desconectado worker
+2024-03-22T03:12:44.368Z [info]: Cliente desconectado worker
+2024-03-22T03:12:44.370Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:13:44.371Z [info]: Cliente desconectado worker
+2024-03-22T03:13:44.372Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:14:44.372Z [info]: Cliente desconectado worker
+2024-03-22T03:14:44.373Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:15:45.372Z [info]: Cliente desconectado worker
+2024-03-22T03:15:45.374Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:16:46.375Z [info]: Cliente desconectado worker
+2024-03-22T03:16:46.376Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:17:47.377Z [info]: Cliente desconectado worker
+2024-03-22T03:17:47.378Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:18:48.379Z [info]: Cliente desconectado worker
+2024-03-22T03:18:48.381Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:19:49.381Z [info]: Cliente desconectado worker
+2024-03-22T03:19:49.382Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:20:49.383Z [info]: Cliente desconectado worker
+2024-03-22T03:20:49.384Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:21:49.384Z [info]: Cliente desconectado worker
+2024-03-22T03:21:49.387Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:22:50.387Z [info]: Cliente desconectado worker
+2024-03-22T03:22:50.389Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:23:51.390Z [info]: Cliente desconectado worker
+2024-03-22T03:23:51.392Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:24:51.393Z [info]: Cliente desconectado worker
+2024-03-22T03:24:51.394Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:25:51.394Z [info]: Cliente desconectado worker
+2024-03-22T03:25:51.395Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:26:52.396Z [info]: Cliente desconectado worker
+2024-03-22T03:26:52.397Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:27:52.399Z [info]: Cliente desconectado worker
+2024-03-22T03:27:52.402Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:28:52.404Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:28:52.414Z [info]: Cliente desconectado worker
+2024-03-22T03:29:53.404Z [info]: Cliente desconectado worker
+2024-03-22T03:29:53.405Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:30:53.406Z [info]: Cliente desconectado worker
+2024-03-22T03:30:53.408Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:31:54.407Z [info]: Cliente desconectado worker
+2024-03-22T03:31:54.408Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:32:54.409Z [info]: Cliente desconectado worker
+2024-03-22T03:32:54.410Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:33:54.411Z [info]: Cliente desconectado worker
+2024-03-22T03:33:54.421Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:34:54.422Z [info]: Cliente desconectado worker
+2024-03-22T03:34:54.424Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:35:55.426Z [info]: Cliente desconectado worker
+2024-03-22T03:35:55.427Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:36:55.431Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:36:55.440Z [info]: Cliente desconectado worker
+2024-03-22T03:37:56.432Z [info]: Cliente desconectado worker
+2024-03-22T03:37:56.434Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:38:57.433Z [info]: Cliente desconectado worker
+2024-03-22T03:38:57.436Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:39:57.436Z [info]: Cliente desconectado worker
+2024-03-22T03:39:57.437Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:40:58.437Z [info]: Cliente desconectado worker
+2024-03-22T03:40:58.438Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:41:58.439Z [info]: Cliente desconectado worker
+2024-03-22T03:41:58.441Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:42:59.443Z [info]: Cliente desconectado worker
+2024-03-22T03:42:59.444Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:43:59.444Z [info]: Cliente desconectado worker
+2024-03-22T03:43:59.445Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:45:00.445Z [info]: Cliente desconectado worker
+2024-03-22T03:45:00.447Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:46:01.446Z [info]: Cliente desconectado worker
+2024-03-22T03:46:01.448Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:47:01.449Z [info]: Cliente desconectado worker
+2024-03-22T03:47:01.450Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:48:02.451Z [info]: Cliente desconectado worker
+2024-03-22T03:48:02.452Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:49:03.451Z [info]: Cliente desconectado worker
+2024-03-22T03:49:03.453Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:50:04.452Z [info]: Cliente desconectado worker
+2024-03-22T03:50:04.453Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:51:05.455Z [info]: Cliente desconectado worker
+2024-03-22T03:51:05.456Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:52:06.458Z [info]: Cliente desconectado worker
+2024-03-22T03:52:06.460Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:53:07.460Z [info]: Cliente desconectado worker
+2024-03-22T03:53:07.462Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:54:08.461Z [info]: Cliente desconectado worker
+2024-03-22T03:54:08.462Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:55:09.463Z [info]: Cliente desconectado worker
+2024-03-22T03:55:09.465Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:56:10.466Z [info]: Cliente desconectado worker
+2024-03-22T03:56:10.467Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:57:10.468Z [info]: Cliente desconectado worker
+2024-03-22T03:57:10.470Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:58:10.472Z [info]: Cliente desconectado worker
+2024-03-22T03:58:10.473Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-22T03:59:10.474Z [info]: Cliente desconectado worker
+2024-03-22T03:59:10.475Z [info]: Nuevo cliente detectado tipo: worker

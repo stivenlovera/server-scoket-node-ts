@@ -1,0 +1,4135 @@
+2024-03-20T04:22:15.319Z [info]: Iniciando server en el puerto 3000
+2024-03-20T04:45:12.463Z [info]: Nuevo cliente detectado tipo: postman
+2024-03-20T06:02:29.001Z [info]: Responder a todos => [object Object]
+
+2024-03-20T06:05:12.968Z [info]: Iniciando server en el puerto 3000
+2024-03-20T06:42:25.142Z [info]: Nuevo cliente detectado tipo: postman
+2024-03-20T06:42:48.872Z [info]: Responder a todos => [object Object]
+2024-03-20T06:43:11.539Z [info]: Responder a todos => [object Object]
+2024-03-20T06:44:09.911Z [info]: Iniciando server en el puerto 3000
+2024-03-20T06:44:11.488Z [info]: Nuevo cliente detectado tipo: postman
+2024-03-20T06:44:16.045Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.246",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+};
+} 
+2024-03-20T17:47:22.219Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.246",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+};
+} 
+2024-03-20T17:49:58.015Z [info]: Iniciando server en el puerto 3000
+2024-03-20T19:16:56.450Z [info]: Iniciando server en el puerto 3000
+2024-03-20T19:17:04.986Z [info]: Iniciando server en el puerto 3000
+2024-03-20T19:17:22.636Z [info]: Nuevo cliente detectado tipo: postman
+2024-03-20T19:17:30.261Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.246",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-20T19:21:49.331Z [info]: Iniciando server en el puerto 3000
+2024-03-20T19:22:02.574Z [info]: Nuevo cliente detectado tipo: postman
+2024-03-20T19:22:09.153Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.246",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-20T19:28:25.419Z [info]: Iniciando server en el puerto 3000
+2024-03-20T19:35:01.237Z [info]: Iniciando server en el puerto 3000
+2024-03-20T19:40:45.507Z [info]: Iniciando server en el puerto 3000
+2024-03-20T19:40:48.201Z [info]: Iniciando server en el puerto 3000
+2024-03-20T19:41:28.060Z [info]: Iniciando server en el puerto 3000
+2024-03-20T19:43:48.264Z [info]: Iniciando server en el puerto 3000
+2024-03-20T19:44:31.965Z [info]: Iniciando server en el puerto 3000
+2024-03-20T19:44:32.176Z [info]: ::1 - - [20/Mar/2024:19:44:32 +0000] "GET /socket.io/?EIO=4&transport=polling&t=OvTPCgP HTTP/1.1" 404 149 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+2024-03-20T19:44:37.365Z [info]: ::ffff:127.0.0.1 - - [20/Mar/2024:19:44:37 +0000] "GET /socket.io/?EIO=4&transport=polling&t=OvTPENi HTTP/1.1" 404 149 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+2024-03-20T19:44:43.359Z [info]: ::1 - - [20/Mar/2024:19:44:43 +0000] "GET /socket.io/?EIO=4&transport=polling&t=OvTPFrM HTTP/1.1" 404 149 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+2024-03-20T19:44:43.369Z [info]: ::1 - - [20/Mar/2024:19:44:43 +0000] "GET /socket.io/?EIO=4&transport=polling&t=OvTPFrW HTTP/1.1" 404 149 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+2024-03-20T19:44:43.378Z [info]: ::1 - - [20/Mar/2024:19:44:43 +0000] "GET /socket.io/?EIO=4&transport=polling&t=OvTPFrg HTTP/1.1" 404 149 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+2024-03-20T19:44:43.388Z [info]: ::1 - - [20/Mar/2024:19:44:43 +0000] "GET /socket.io/?EIO=4&transport=polling&t=OvTPFrp HTTP/1.1" 404 149 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+2024-03-20T19:44:47.863Z [info]: Nuevo cliente detectado tipo: postman
+2024-03-20T19:44:49.370Z [info]: ::1 - - [20/Mar/2024:19:44:49 +0000] "GET /socket.io/?EIO=4&transport=polling&t=OvTPHJH HTTP/1.1" 404 149 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+2024-03-20T19:44:55.370Z [info]: ::1 - - [20/Mar/2024:19:44:55 +0000] "GET /socket.io/?EIO=4&transport=polling&t=OvTPIn1 HTTP/1.1" 404 149 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+2024-03-20T19:44:55.382Z [info]: ::1 - - [20/Mar/2024:19:44:55 +0000] "GET /socket.io/?EIO=4&transport=polling&t=OvTPInC HTTP/1.1" 404 149 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+2024-03-20T19:45:01.368Z [info]: ::1 - - [20/Mar/2024:19:45:01 +0000] "GET /socket.io/?EIO=4&transport=polling&t=OvTPKEl HTTP/1.1" 404 149 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+2024-03-20T19:45:01.377Z [info]: ::1 - - [20/Mar/2024:19:45:01 +0000] "GET /socket.io/?EIO=4&transport=polling&t=OvTPKEv HTTP/1.1" 404 149 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+2024-03-20T19:45:07.362Z [info]: ::1 - - [20/Mar/2024:19:45:07 +0000] "GET /socket.io/?EIO=4&transport=polling&t=OvTPLiN HTTP/1.1" 404 149 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+2024-03-20T19:45:13.365Z [info]: ::1 - - [20/Mar/2024:19:45:13 +0000] "GET /socket.io/?EIO=4&transport=polling&t=OvTPNAC HTTP/1.1" 404 149 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+2024-03-20T19:45:19.369Z [info]: ::1 - - [20/Mar/2024:19:45:19 +0000] "GET /socket.io/?EIO=4&transport=polling&t=OvTPOe1 HTTP/1.1" 404 149 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+2024-03-20T19:45:25.371Z [info]: ::1 - - [20/Mar/2024:19:45:25 +0000] "GET /socket.io/?EIO=4&transport=polling&t=OvTPQ5n HTTP/1.1" 404 149 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+2024-03-20T19:45:25.380Z [info]: ::1 - - [20/Mar/2024:19:45:25 +0000] "GET /socket.io/?EIO=4&transport=polling&t=OvTPQ5x HTTP/1.1" 404 149 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+2024-03-20T19:45:25.389Z [info]: ::1 - - [20/Mar/2024:19:45:25 +0000] "GET /socket.io/?EIO=4&transport=polling&t=OvTPQ65 HTTP/1.1" 404 149 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+2024-03-20T19:45:41.412Z [info]: Iniciando server en el puerto 3000
+2024-03-20T19:45:41.467Z [info]: ::ffff:127.0.0.1 - - [20/Mar/2024:19:45:41 +0000] "GET /socket.io/?EIO=4&transport=polling&t=OvTPTWX HTTP/1.1" 404 149 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+2024-03-20T19:45:43.208Z [info]: Iniciando server en el puerto 3000
+2024-03-20T19:45:45.246Z [info]: Nuevo cliente detectado tipo: postman
+2024-03-20T19:45:47.378Z [info]: ::1 - - [20/Mar/2024:19:45:47 +0000] "GET /socket.io/?EIO=4&transport=polling&t=OvTPVTY HTTP/1.1" 404 149 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+2024-03-20T19:45:53.364Z [info]: ::1 - - [20/Mar/2024:19:45:53 +0000] "GET /socket.io/?EIO=4&transport=polling&t=OvTPWx8 HTTP/1.1" 404 149 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+2024-03-20T19:45:53.380Z [info]: ::1 - - [20/Mar/2024:19:45:53 +0000] "GET /socket.io/?EIO=4&transport=polling&t=OvTPWxS HTTP/1.1" 404 149 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+2024-03-20T19:45:53.388Z [info]: ::1 - - [20/Mar/2024:19:45:53 +0000] "GET /socket.io/?EIO=4&transport=polling&t=OvTPWxa HTTP/1.1" 404 149 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+2024-03-20T19:45:53.398Z [info]: ::1 - - [20/Mar/2024:19:45:53 +0000] "GET /socket.io/?EIO=4&transport=polling&t=OvTPWxj HTTP/1.1" 404 149 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+2024-03-20T19:46:54.424Z [info]: Iniciando server en el puerto 3000
+2024-03-20T19:46:54.448Z [info]: ::ffff:127.0.0.1 - - [20/Mar/2024:19:46:54 +0000] "GET /socket.io/?EIO=4&transport=polling&t=OvTPlah HTTP/1.1" 404 149 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+2024-03-20T19:46:54.458Z [info]: ::ffff:127.0.0.1 - - [20/Mar/2024:19:46:54 +0000] "GET /socket.io/?EIO=4&transport=polling&t=OvTPlrm HTTP/1.1" 404 149 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+2024-03-20T19:46:54.468Z [info]: ::ffff:127.0.0.1 - - [20/Mar/2024:19:46:54 +0000] "GET /socket.io/?EIO=4&transport=polling&t=OvTPlrx HTTP/1.1" 404 149 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+2024-03-20T19:47:00.360Z [info]: ::ffff:127.0.0.1 - - [20/Mar/2024:19:47:00 +0000] "GET /socket.io/?EIO=4&transport=polling&t=OvTPnH_ HTTP/1.1" 404 149 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+2024-03-20T19:47:06.466Z [info]: ::1 - - [20/Mar/2024:19:47:06 +0000] "GET /socket.io/?EIO=4&transport=polling&t=OvTPolx HTTP/1.1" 404 149 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+2024-03-20T19:47:06.476Z [info]: ::1 - - [20/Mar/2024:19:47:06 +0000] "GET /socket.io/?EIO=4&transport=polling&t=OvTPonZ HTTP/1.1" 404 149 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+2024-03-20T19:47:06.492Z [info]: ::1 - - [20/Mar/2024:19:47:06 +0000] "GET /socket.io/?EIO=4&transport=polling&t=OvTPonn HTTP/1.1" 404 149 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+2024-03-20T19:47:08.667Z [info]: Iniciando server en el puerto 3000
+2024-03-20T19:47:36.087Z [info]: Iniciando server en el puerto 3000
+2024-03-20T19:47:44.744Z [info]: Nuevo cliente detectado tipo: postman
+2024-03-20T19:48:07.143Z [info]: Cliente desconectado postman
+2024-03-20T19:48:09.987Z [info]: Nuevo cliente detectado tipo: postman
+2024-03-20T20:00:10.344Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:00:20.395Z [info]: Cliente desconectado postman
+2024-03-20T20:00:40.430Z [info]: Cliente desconectado worker
+2024-03-20T20:00:40.431Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:01:10.446Z [info]: Cliente desconectado worker
+2024-03-20T20:01:10.447Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:01:40.461Z [info]: Cliente desconectado worker
+2024-03-20T20:01:40.462Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:02:10.467Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:02:10.482Z [info]: Cliente desconectado worker
+2024-03-20T20:02:40.471Z [info]: Cliente desconectado worker
+2024-03-20T20:02:40.472Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:03:10.484Z [info]: Cliente desconectado worker
+2024-03-20T20:03:10.485Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:03:18.663Z [info]: Nuevo cliente detectado tipo: postman
+2024-03-20T20:03:32.200Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.246",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-20T20:03:57.718Z [info]: Cliente desconectado worker
+2024-03-20T20:04:36.104Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:04:54.242Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.246",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-20T20:05:18.639Z [info]: Cliente desconectado worker
+2024-03-20T20:05:34.888Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:06:04.915Z [info]: Cliente desconectado worker
+2024-03-20T20:06:04.917Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:06:34.932Z [info]: Cliente desconectado worker
+2024-03-20T20:06:34.934Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:07:04.936Z [info]: Cliente desconectado worker
+2024-03-20T20:07:04.937Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:07:34.951Z [info]: Cliente desconectado worker
+2024-03-20T20:07:34.953Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:08:04.962Z [info]: Cliente desconectado worker
+2024-03-20T20:08:04.963Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:08:35.970Z [info]: Cliente desconectado worker
+2024-03-20T20:08:35.971Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:09:05.981Z [info]: Cliente desconectado worker
+2024-03-20T20:09:05.982Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:09:35.983Z [info]: Cliente desconectado worker
+2024-03-20T20:09:35.984Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:10:05.988Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:10:05.989Z [info]: Cliente desconectado worker
+2024-03-20T20:10:35.996Z [info]: Cliente desconectado worker
+2024-03-20T20:10:35.997Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:11:06.009Z [info]: Cliente desconectado worker
+2024-03-20T20:11:06.010Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:11:36.024Z [info]: Cliente desconectado worker
+2024-03-20T20:11:36.025Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:12:06.035Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:12:06.035Z [info]: Cliente desconectado worker
+2024-03-20T20:12:36.044Z [info]: Cliente desconectado worker
+2024-03-20T20:12:36.046Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:13:06.053Z [info]: Cliente desconectado worker
+2024-03-20T20:13:06.054Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:13:36.062Z [info]: Cliente desconectado worker
+2024-03-20T20:13:36.064Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:14:06.075Z [info]: Cliente desconectado worker
+2024-03-20T20:14:06.076Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:14:36.082Z [info]: Cliente desconectado worker
+2024-03-20T20:14:36.083Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:15:06.090Z [info]: Cliente desconectado worker
+2024-03-20T20:15:06.092Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:15:36.102Z [info]: Cliente desconectado worker
+2024-03-20T20:15:36.105Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:16:06.115Z [info]: Cliente desconectado worker
+2024-03-20T20:16:06.116Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:16:36.120Z [info]: Cliente desconectado worker
+2024-03-20T20:16:36.121Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:16:59.519Z [info]: Cliente desconectado worker
+2024-03-20T20:21:46.393Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:22:16.427Z [info]: Cliente desconectado worker
+2024-03-20T20:22:16.428Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:22:33.379Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.246",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-20T20:23:03.445Z [info]: Cliente desconectado worker
+2024-03-20T20:23:03.446Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:23:33.464Z [info]: Cliente desconectado worker
+2024-03-20T20:23:33.466Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:24:03.470Z [info]: Cliente desconectado worker
+2024-03-20T20:24:03.471Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:24:33.478Z [info]: Cliente desconectado worker
+2024-03-20T20:24:33.479Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:25:01.209Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.246",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-20T20:25:31.493Z [info]: Cliente desconectado worker
+2024-03-20T20:25:31.495Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:26:02.499Z [info]: Cliente desconectado worker
+2024-03-20T20:26:02.500Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:26:16.829Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.246",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-20T20:26:47.511Z [info]: Cliente desconectado worker
+2024-03-20T20:26:47.512Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:27:17.528Z [info]: Cliente desconectado worker
+2024-03-20T20:27:17.529Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:27:47.541Z [info]: Cliente desconectado worker
+2024-03-20T20:27:47.542Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:28:17.550Z [info]: Cliente desconectado worker
+2024-03-20T20:28:17.551Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:28:47.563Z [info]: Cliente desconectado worker
+2024-03-20T20:28:47.564Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:29:17.566Z [info]: Cliente desconectado worker
+2024-03-20T20:29:17.568Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:29:47.585Z [info]: Cliente desconectado worker
+2024-03-20T20:29:47.586Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:30:17.602Z [info]: Cliente desconectado worker
+2024-03-20T20:30:17.604Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:30:47.607Z [info]: Cliente desconectado worker
+2024-03-20T20:30:47.608Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:31:17.614Z [info]: Cliente desconectado worker
+2024-03-20T20:31:17.615Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:31:47.625Z [info]: Cliente desconectado worker
+2024-03-20T20:31:47.626Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:32:17.629Z [info]: Cliente desconectado worker
+2024-03-20T20:32:17.630Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:32:47.639Z [info]: Cliente desconectado worker
+2024-03-20T20:32:47.640Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:33:17.652Z [info]: Cliente desconectado worker
+2024-03-20T20:33:17.654Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:33:47.660Z [info]: Cliente desconectado worker
+2024-03-20T20:33:47.661Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:34:17.674Z [info]: Cliente desconectado worker
+2024-03-20T20:34:17.676Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:34:47.679Z [info]: Cliente desconectado worker
+2024-03-20T20:34:47.680Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:35:17.684Z [info]: Cliente desconectado worker
+2024-03-20T20:35:17.685Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:35:47.701Z [info]: Cliente desconectado worker
+2024-03-20T20:35:47.702Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:36:17.718Z [info]: Cliente desconectado worker
+2024-03-20T20:36:17.719Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:36:47.735Z [info]: Cliente desconectado worker
+2024-03-20T20:36:47.736Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:37:17.748Z [info]: Cliente desconectado worker
+2024-03-20T20:37:17.748Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:37:47.750Z [info]: Cliente desconectado worker
+2024-03-20T20:37:47.751Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:38:17.767Z [info]: Cliente desconectado worker
+2024-03-20T20:38:17.769Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:38:47.782Z [info]: Cliente desconectado worker
+2024-03-20T20:38:47.783Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:39:17.785Z [info]: Cliente desconectado worker
+2024-03-20T20:39:17.786Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:39:47.789Z [info]: Cliente desconectado worker
+2024-03-20T20:39:47.790Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:40:17.799Z [info]: Cliente desconectado worker
+2024-03-20T20:40:17.800Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:40:47.813Z [info]: Cliente desconectado worker
+2024-03-20T20:40:47.814Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:41:17.823Z [info]: Cliente desconectado worker
+2024-03-20T20:41:17.824Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:41:47.837Z [info]: Cliente desconectado worker
+2024-03-20T20:41:47.839Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:42:17.853Z [info]: Cliente desconectado worker
+2024-03-20T20:42:17.854Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:42:47.857Z [info]: Cliente desconectado worker
+2024-03-20T20:42:47.858Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:43:17.872Z [info]: Cliente desconectado worker
+2024-03-20T20:43:17.873Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:43:47.889Z [info]: Cliente desconectado worker
+2024-03-20T20:43:47.890Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:44:17.900Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:44:17.914Z [info]: Cliente desconectado worker
+2024-03-20T20:44:47.910Z [info]: Cliente desconectado worker
+2024-03-20T20:44:47.911Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:45:17.913Z [info]: Cliente desconectado worker
+2024-03-20T20:45:17.913Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:45:47.918Z [info]: Cliente desconectado worker
+2024-03-20T20:45:47.920Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:46:18.932Z [info]: Cliente desconectado worker
+2024-03-20T20:46:18.933Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:46:48.938Z [info]: Cliente desconectado worker
+2024-03-20T20:46:48.939Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:47:18.951Z [info]: Cliente desconectado worker
+2024-03-20T20:47:18.952Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:47:48.958Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:47:48.973Z [info]: Cliente desconectado worker
+2024-03-20T20:48:18.965Z [info]: Cliente desconectado worker
+2024-03-20T20:48:18.966Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:48:48.974Z [info]: Cliente desconectado worker
+2024-03-20T20:48:48.974Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:49:18.982Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:49:18.997Z [info]: Cliente desconectado worker
+2024-03-20T20:49:48.998Z [info]: Cliente desconectado worker
+2024-03-20T20:49:49.000Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:50:19.014Z [info]: Cliente desconectado worker
+2024-03-20T20:50:19.016Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:50:49.026Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:50:49.040Z [info]: Cliente desconectado worker
+2024-03-20T20:51:19.033Z [info]: Cliente desconectado worker
+2024-03-20T20:51:19.034Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:51:49.048Z [info]: Cliente desconectado worker
+2024-03-20T20:51:49.049Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:52:19.062Z [info]: Cliente desconectado worker
+2024-03-20T20:52:19.063Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:52:49.071Z [info]: Cliente desconectado worker
+2024-03-20T20:52:49.072Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:53:19.083Z [info]: Cliente desconectado worker
+2024-03-20T20:53:19.084Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:53:49.092Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:53:49.093Z [info]: Cliente desconectado worker
+2024-03-20T20:54:19.105Z [info]: Cliente desconectado worker
+2024-03-20T20:54:19.106Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:54:49.119Z [info]: Cliente desconectado worker
+2024-03-20T20:54:49.120Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:55:19.130Z [info]: Cliente desconectado worker
+2024-03-20T20:55:19.131Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:55:49.137Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:55:49.151Z [info]: Cliente desconectado worker
+2024-03-20T20:56:19.153Z [info]: Cliente desconectado worker
+2024-03-20T20:56:19.156Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:56:49.168Z [info]: Cliente desconectado worker
+2024-03-20T20:56:49.170Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:57:20.184Z [info]: Cliente desconectado worker
+2024-03-20T20:57:20.185Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:57:50.197Z [info]: Cliente desconectado worker
+2024-03-20T20:57:50.198Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:58:03.418Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.246",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-20T20:58:34.209Z [info]: Cliente desconectado worker
+2024-03-20T20:58:34.211Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:59:04.214Z [info]: Cliente desconectado worker
+2024-03-20T20:59:04.215Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T20:59:35.230Z [info]: Cliente desconectado worker
+2024-03-20T20:59:35.231Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:00:05.237Z [info]: Cliente desconectado worker
+2024-03-20T21:00:05.238Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:00:35.240Z [info]: Cliente desconectado worker
+2024-03-20T21:00:35.242Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:01:05.254Z [info]: Cliente desconectado worker
+2024-03-20T21:01:05.255Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:01:35.262Z [info]: Cliente desconectado worker
+2024-03-20T21:01:35.264Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:02:05.266Z [info]: Cliente desconectado worker
+2024-03-20T21:02:05.267Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:02:35.275Z [info]: Cliente desconectado worker
+2024-03-20T21:02:35.279Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:03:05.289Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:03:05.290Z [info]: Cliente desconectado worker
+2024-03-20T21:03:35.312Z [info]: Cliente desconectado worker
+2024-03-20T21:03:35.313Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:04:05.323Z [info]: Cliente desconectado worker
+2024-03-20T21:04:05.324Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:04:35.334Z [info]: Cliente desconectado worker
+2024-03-20T21:04:35.336Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:05:03.694Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-20T21:05:34.339Z [info]: Cliente desconectado worker
+2024-03-20T21:05:34.340Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:06:04.345Z [info]: Cliente desconectado worker
+2024-03-20T21:06:04.346Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:06:34.355Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:06:34.355Z [info]: Cliente desconectado worker
+2024-03-20T21:07:04.364Z [info]: Cliente desconectado worker
+2024-03-20T21:07:04.366Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:07:34.370Z [info]: Cliente desconectado worker
+2024-03-20T21:07:34.370Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:08:04.375Z [info]: Cliente desconectado worker
+2024-03-20T21:08:04.376Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:08:34.380Z [info]: Cliente desconectado worker
+2024-03-20T21:08:34.381Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:09:04.392Z [info]: Cliente desconectado worker
+2024-03-20T21:09:04.393Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:09:34.406Z [info]: Cliente desconectado worker
+2024-03-20T21:09:34.407Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:10:04.419Z [info]: Cliente desconectado worker
+2024-03-20T21:10:04.420Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:10:35.431Z [info]: Cliente desconectado worker
+2024-03-20T21:10:35.432Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:11:05.446Z [info]: Cliente desconectado worker
+2024-03-20T21:11:05.447Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:11:35.457Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:11:35.472Z [info]: Cliente desconectado worker
+2024-03-20T21:12:05.464Z [info]: Cliente desconectado worker
+2024-03-20T21:12:05.466Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:12:35.472Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:12:35.472Z [info]: Cliente desconectado worker
+2024-03-20T21:13:05.487Z [info]: Cliente desconectado worker
+2024-03-20T21:13:05.489Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:13:17.922Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-20T21:13:36.884Z [info]: Cliente desconectado worker
+2024-03-20T21:13:43.055Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:13:55.768Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-20T21:14:26.081Z [info]: Cliente desconectado worker
+2024-03-20T21:14:26.084Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:14:56.100Z [info]: Cliente desconectado worker
+2024-03-20T21:14:56.102Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:15:26.105Z [info]: Cliente desconectado worker
+2024-03-20T21:15:26.107Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:15:56.110Z [info]: Cliente desconectado worker
+2024-03-20T21:15:56.112Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:16:26.124Z [info]: Cliente desconectado worker
+2024-03-20T21:16:26.125Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:16:56.133Z [info]: Cliente desconectado worker
+2024-03-20T21:16:56.134Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:17:26.146Z [info]: Cliente desconectado worker
+2024-03-20T21:17:26.147Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:17:56.154Z [info]: Cliente desconectado worker
+2024-03-20T21:17:56.157Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:18:26.173Z [info]: Cliente desconectado worker
+2024-03-20T21:18:26.174Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:18:56.179Z [info]: Cliente desconectado worker
+2024-03-20T21:18:56.181Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:19:26.195Z [info]: Cliente desconectado worker
+2024-03-20T21:19:26.198Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:19:56.206Z [info]: Cliente desconectado worker
+2024-03-20T21:19:56.208Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:20:26.213Z [info]: Cliente desconectado worker
+2024-03-20T21:20:26.215Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:20:56.229Z [info]: Cliente desconectado worker
+2024-03-20T21:20:56.231Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:21:26.245Z [info]: Cliente desconectado worker
+2024-03-20T21:21:26.247Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:21:57.256Z [info]: Cliente desconectado worker
+2024-03-20T21:21:57.260Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:22:27.265Z [info]: Cliente desconectado worker
+2024-03-20T21:22:27.266Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:22:57.284Z [info]: Cliente desconectado worker
+2024-03-20T21:22:57.286Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:23:27.293Z [info]: Cliente desconectado worker
+2024-03-20T21:23:27.296Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:23:57.310Z [info]: Cliente desconectado worker
+2024-03-20T21:23:57.312Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:24:27.318Z [info]: Cliente desconectado worker
+2024-03-20T21:24:27.320Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:24:57.330Z [info]: Cliente desconectado worker
+2024-03-20T21:24:57.331Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:25:27.344Z [info]: Cliente desconectado worker
+2024-03-20T21:25:27.346Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:25:57.361Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:25:57.361Z [info]: Cliente desconectado worker
+2024-03-20T21:26:27.373Z [info]: Cliente desconectado worker
+2024-03-20T21:26:27.375Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:26:57.384Z [info]: Cliente desconectado worker
+2024-03-20T21:26:57.385Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:27:27.393Z [info]: Cliente desconectado worker
+2024-03-20T21:27:27.395Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:27:57.402Z [info]: Cliente desconectado worker
+2024-03-20T21:27:57.404Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:28:27.407Z [info]: Cliente desconectado worker
+2024-03-20T21:28:27.408Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:28:57.426Z [info]: Cliente desconectado worker
+2024-03-20T21:28:57.427Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:29:27.432Z [info]: Cliente desconectado worker
+2024-03-20T21:29:27.433Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:29:57.445Z [info]: Cliente desconectado worker
+2024-03-20T21:29:57.447Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:30:27.462Z [info]: Cliente desconectado worker
+2024-03-20T21:30:27.464Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:30:57.472Z [info]: Cliente desconectado worker
+2024-03-20T21:30:57.474Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:31:27.491Z [info]: Cliente desconectado worker
+2024-03-20T21:31:27.493Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:31:57.509Z [info]: Cliente desconectado worker
+2024-03-20T21:31:57.511Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:32:27.521Z [info]: Cliente desconectado worker
+2024-03-20T21:32:27.522Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:32:57.535Z [info]: Cliente desconectado worker
+2024-03-20T21:32:57.536Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:33:27.548Z [info]: Cliente desconectado worker
+2024-03-20T21:33:27.549Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:33:57.553Z [info]: Cliente desconectado worker
+2024-03-20T21:33:57.555Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:34:27.565Z [info]: Cliente desconectado worker
+2024-03-20T21:34:27.566Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:34:58.597Z [info]: Cliente desconectado worker
+2024-03-20T21:34:58.599Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:35:28.612Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:35:28.613Z [info]: Cliente desconectado worker
+2024-03-20T21:35:58.620Z [info]: Cliente desconectado worker
+2024-03-20T21:35:58.621Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:36:28.626Z [info]: Cliente desconectado worker
+2024-03-20T21:36:28.628Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:36:58.642Z [info]: Cliente desconectado worker
+2024-03-20T21:36:58.645Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:37:28.657Z [info]: Cliente desconectado worker
+2024-03-20T21:37:28.659Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:37:58.672Z [info]: Cliente desconectado worker
+2024-03-20T21:37:58.674Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:38:28.690Z [info]: Cliente desconectado worker
+2024-03-20T21:38:28.691Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:38:58.699Z [info]: Cliente desconectado worker
+2024-03-20T21:38:58.700Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:39:28.707Z [info]: Cliente desconectado worker
+2024-03-20T21:39:28.709Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:39:58.724Z [info]: Cliente desconectado worker
+2024-03-20T21:39:58.726Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:40:28.733Z [info]: Cliente desconectado worker
+2024-03-20T21:40:28.735Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:40:59.748Z [info]: Cliente desconectado worker
+2024-03-20T21:40:59.749Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:41:29.757Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:41:29.771Z [info]: Cliente desconectado worker
+2024-03-20T21:41:59.773Z [info]: Cliente desconectado worker
+2024-03-20T21:41:59.774Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:42:29.789Z [info]: Cliente desconectado worker
+2024-03-20T21:42:29.790Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:42:59.806Z [info]: Cliente desconectado worker
+2024-03-20T21:42:59.807Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:43:29.819Z [info]: Cliente desconectado worker
+2024-03-20T21:43:29.821Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:43:59.829Z [info]: Cliente desconectado worker
+2024-03-20T21:43:59.831Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:44:29.843Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:44:29.844Z [info]: Cliente desconectado worker
+2024-03-20T21:44:59.855Z [info]: Cliente desconectado worker
+2024-03-20T21:44:59.857Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:45:29.861Z [info]: Cliente desconectado worker
+2024-03-20T21:45:29.862Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:45:59.866Z [info]: Cliente desconectado worker
+2024-03-20T21:45:59.868Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:46:29.883Z [info]: Cliente desconectado worker
+2024-03-20T21:46:29.885Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:47:00.893Z [info]: Cliente desconectado worker
+2024-03-20T21:47:00.895Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:47:30.914Z [info]: Cliente desconectado worker
+2024-03-20T21:47:30.916Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:48:00.927Z [info]: Cliente desconectado worker
+2024-03-20T21:48:00.928Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:48:30.937Z [info]: Cliente desconectado worker
+2024-03-20T21:48:30.939Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:49:00.952Z [info]: Cliente desconectado worker
+2024-03-20T21:49:00.953Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:49:30.967Z [info]: Cliente desconectado worker
+2024-03-20T21:49:30.968Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:50:00.972Z [info]: Cliente desconectado worker
+2024-03-20T21:50:00.973Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:50:30.980Z [info]: Cliente desconectado worker
+2024-03-20T21:50:30.983Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:51:00.999Z [info]: Cliente desconectado worker
+2024-03-20T21:51:01.001Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:51:31.014Z [info]: Cliente desconectado worker
+2024-03-20T21:51:31.016Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:52:01.023Z [info]: Cliente desconectado worker
+2024-03-20T21:52:01.025Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:52:32.033Z [info]: Cliente desconectado worker
+2024-03-20T21:52:32.036Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:53:02.047Z [info]: Cliente desconectado worker
+2024-03-20T21:53:02.049Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:53:32.056Z [info]: Cliente desconectado worker
+2024-03-20T21:53:32.057Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:54:02.065Z [info]: Cliente desconectado worker
+2024-03-20T21:54:02.067Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:54:32.085Z [info]: Cliente desconectado worker
+2024-03-20T21:54:32.089Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:55:02.102Z [info]: Cliente desconectado worker
+2024-03-20T21:55:02.103Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:55:32.108Z [info]: Cliente desconectado worker
+2024-03-20T21:55:32.110Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:56:03.124Z [info]: Cliente desconectado worker
+2024-03-20T21:56:03.126Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:56:33.130Z [info]: Cliente desconectado worker
+2024-03-20T21:56:33.132Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:57:03.143Z [info]: Cliente desconectado worker
+2024-03-20T21:57:03.144Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:57:33.154Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:57:33.169Z [info]: Cliente desconectado worker
+2024-03-20T21:58:03.161Z [info]: Cliente desconectado worker
+2024-03-20T21:58:03.163Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:58:33.179Z [info]: Cliente desconectado worker
+2024-03-20T21:58:33.180Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:59:03.194Z [info]: Cliente desconectado worker
+2024-03-20T21:59:03.196Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T21:59:34.211Z [info]: Cliente desconectado worker
+2024-03-20T21:59:34.214Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:00:04.228Z [info]: Cliente desconectado worker
+2024-03-20T22:00:04.231Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:00:34.240Z [info]: Cliente desconectado worker
+2024-03-20T22:00:34.242Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:01:04.258Z [info]: Cliente desconectado worker
+2024-03-20T22:01:04.260Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:01:35.268Z [info]: Cliente desconectado worker
+2024-03-20T22:01:35.269Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:02:05.283Z [info]: Cliente desconectado worker
+2024-03-20T22:02:05.285Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:02:35.303Z [info]: Cliente desconectado worker
+2024-03-20T22:02:35.305Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:03:05.314Z [info]: Cliente desconectado worker
+2024-03-20T22:03:05.317Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:03:35.327Z [info]: Cliente desconectado worker
+2024-03-20T22:03:35.330Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:04:05.343Z [info]: Cliente desconectado worker
+2024-03-20T22:04:05.346Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:04:35.362Z [info]: Cliente desconectado worker
+2024-03-20T22:04:35.363Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:05:05.378Z [info]: Cliente desconectado worker
+2024-03-20T22:05:05.379Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:05:35.394Z [info]: Cliente desconectado worker
+2024-03-20T22:05:35.397Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:06:05.405Z [info]: Cliente desconectado worker
+2024-03-20T22:06:05.406Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:06:35.412Z [info]: Cliente desconectado worker
+2024-03-20T22:06:35.413Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:06:40.818Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-20T22:07:11.416Z [info]: Cliente desconectado worker
+2024-03-20T22:07:11.418Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:07:41.426Z [info]: Cliente desconectado worker
+2024-03-20T22:07:41.427Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:08:11.430Z [info]: Cliente desconectado worker
+2024-03-20T22:08:11.432Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:08:41.436Z [info]: Cliente desconectado worker
+2024-03-20T22:08:41.438Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:09:11.453Z [info]: Cliente desconectado worker
+2024-03-20T22:09:11.454Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:09:41.468Z [info]: Cliente desconectado worker
+2024-03-20T22:09:41.470Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:10:11.485Z [info]: Cliente desconectado worker
+2024-03-20T22:10:11.487Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:10:41.504Z [info]: Cliente desconectado worker
+2024-03-20T22:10:41.505Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:11:11.520Z [info]: Cliente desconectado worker
+2024-03-20T22:11:11.521Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:11:41.526Z [info]: Cliente desconectado worker
+2024-03-20T22:11:41.529Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:12:11.534Z [info]: Cliente desconectado worker
+2024-03-20T22:12:11.537Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:12:41.552Z [info]: Cliente desconectado worker
+2024-03-20T22:12:41.554Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:13:11.561Z [info]: Cliente desconectado worker
+2024-03-20T22:13:11.563Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:13:41.573Z [info]: Cliente desconectado worker
+2024-03-20T22:13:41.574Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:14:12.581Z [info]: Cliente desconectado worker
+2024-03-20T22:14:12.583Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:14:42.594Z [info]: Cliente desconectado worker
+2024-03-20T22:14:42.595Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:15:12.606Z [info]: Cliente desconectado worker
+2024-03-20T22:15:12.607Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:15:43.616Z [info]: Cliente desconectado worker
+2024-03-20T22:15:43.618Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:16:13.634Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:16:13.647Z [info]: Cliente desconectado worker
+2024-03-20T22:16:43.642Z [info]: Cliente desconectado worker
+2024-03-20T22:16:43.643Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:17:14.660Z [info]: Cliente desconectado worker
+2024-03-20T22:17:14.662Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:17:44.666Z [info]: Cliente desconectado worker
+2024-03-20T22:17:44.667Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:18:14.684Z [info]: Cliente desconectado worker
+2024-03-20T22:18:14.685Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:18:44.692Z [info]: Cliente desconectado worker
+2024-03-20T22:18:44.694Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:19:14.702Z [info]: Cliente desconectado worker
+2024-03-20T22:19:14.703Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:19:45.714Z [info]: Cliente desconectado worker
+2024-03-20T22:19:45.716Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:20:15.729Z [info]: Cliente desconectado worker
+2024-03-20T22:20:15.732Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:20:45.736Z [info]: Cliente desconectado worker
+2024-03-20T22:20:45.737Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:21:15.751Z [info]: Cliente desconectado worker
+2024-03-20T22:21:15.752Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:21:45.765Z [info]: Cliente desconectado worker
+2024-03-20T22:21:45.766Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:22:15.776Z [info]: Cliente desconectado worker
+2024-03-20T22:22:15.778Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:22:46.788Z [info]: Cliente desconectado worker
+2024-03-20T22:22:46.790Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:23:16.804Z [info]: Cliente desconectado worker
+2024-03-20T22:23:16.806Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:23:46.817Z [info]: Cliente desconectado worker
+2024-03-20T22:23:46.818Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:24:16.830Z [info]: Cliente desconectado worker
+2024-03-20T22:24:16.832Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:24:46.845Z [info]: Cliente desconectado worker
+2024-03-20T22:24:46.847Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:25:16.861Z [info]: Cliente desconectado worker
+2024-03-20T22:25:16.864Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:25:46.867Z [info]: Cliente desconectado worker
+2024-03-20T22:25:46.869Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:26:16.886Z [info]: Cliente desconectado worker
+2024-03-20T22:26:16.888Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:26:47.901Z [info]: Cliente desconectado worker
+2024-03-20T22:26:47.902Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:27:17.908Z [info]: Cliente desconectado worker
+2024-03-20T22:27:17.909Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:27:47.919Z [info]: Cliente desconectado worker
+2024-03-20T22:27:47.920Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:28:18.931Z [info]: Cliente desconectado worker
+2024-03-20T22:28:18.934Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:28:48.947Z [info]: Cliente desconectado worker
+2024-03-20T22:28:48.948Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:29:18.963Z [info]: Cliente desconectado worker
+2024-03-20T22:29:18.965Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:29:48.975Z [info]: Cliente desconectado worker
+2024-03-20T22:29:48.976Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:30:18.993Z [info]: Cliente desconectado worker
+2024-03-20T22:30:18.994Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:30:50.002Z [info]: Cliente desconectado worker
+2024-03-20T22:30:50.004Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:31:20.016Z [info]: Cliente desconectado worker
+2024-03-20T22:31:20.017Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:31:50.029Z [info]: Cliente desconectado worker
+2024-03-20T22:31:50.031Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:32:20.037Z [info]: Cliente desconectado worker
+2024-03-20T22:32:20.039Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:32:50.045Z [info]: Cliente desconectado worker
+2024-03-20T22:32:50.046Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:33:20.056Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:33:20.057Z [info]: Cliente desconectado worker
+2024-03-20T22:33:50.058Z [info]: Cliente desconectado worker
+2024-03-20T22:33:50.060Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:34:13.140Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-20T22:34:44.067Z [info]: Cliente desconectado worker
+2024-03-20T22:34:44.072Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:35:14.079Z [info]: Cliente desconectado worker
+2024-03-20T22:35:14.079Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:35:44.091Z [info]: Cliente desconectado worker
+2024-03-20T22:35:44.107Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:36:07.935Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-20T22:36:38.113Z [info]: Cliente desconectado worker
+2024-03-20T22:36:38.114Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:37:08.127Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:37:08.140Z [info]: Cliente desconectado worker
+2024-03-20T22:37:38.140Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:37:38.155Z [info]: Cliente desconectado worker
+2024-03-20T22:38:08.145Z [info]: Cliente desconectado worker
+2024-03-20T22:38:08.146Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:38:38.148Z [info]: Cliente desconectado worker
+2024-03-20T22:38:38.149Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:39:08.155Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:39:08.155Z [info]: Cliente desconectado worker
+2024-03-20T22:39:38.159Z [info]: Cliente desconectado worker
+2024-03-20T22:39:38.160Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:40:08.169Z [info]: Cliente desconectado worker
+2024-03-20T22:40:08.170Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:40:38.185Z [info]: Cliente desconectado worker
+2024-03-20T22:40:38.186Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:41:08.192Z [info]: Cliente desconectado worker
+2024-03-20T22:41:08.193Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:41:38.201Z [info]: Cliente desconectado worker
+2024-03-20T22:41:38.201Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:42:08.209Z [info]: Cliente desconectado worker
+2024-03-20T22:42:08.210Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:42:39.220Z [info]: Cliente desconectado worker
+2024-03-20T22:42:39.222Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:43:09.224Z [info]: Cliente desconectado worker
+2024-03-20T22:43:09.225Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:43:40.233Z [info]: Cliente desconectado worker
+2024-03-20T22:43:40.234Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:44:10.242Z [info]: Cliente desconectado worker
+2024-03-20T22:44:10.243Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:44:40.245Z [info]: Cliente desconectado worker
+2024-03-20T22:44:40.246Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:45:10.251Z [info]: Cliente desconectado worker
+2024-03-20T22:45:10.252Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:45:40.261Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:45:40.274Z [info]: Cliente desconectado worker
+2024-03-20T22:46:10.266Z [info]: Cliente desconectado worker
+2024-03-20T22:46:10.268Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:46:40.282Z [info]: Cliente desconectado worker
+2024-03-20T22:46:40.283Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:47:10.292Z [info]: Cliente desconectado worker
+2024-03-20T22:47:10.294Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:47:40.307Z [info]: Cliente desconectado worker
+2024-03-20T22:47:40.308Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:48:10.319Z [info]: Cliente desconectado worker
+2024-03-20T22:48:10.320Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:48:40.333Z [info]: Cliente desconectado worker
+2024-03-20T22:48:40.335Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:49:10.339Z [info]: Cliente desconectado worker
+2024-03-20T22:49:10.340Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:49:40.353Z [info]: Cliente desconectado worker
+2024-03-20T22:49:40.355Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:50:10.370Z [info]: Cliente desconectado worker
+2024-03-20T22:50:10.371Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:50:40.373Z [info]: Cliente desconectado worker
+2024-03-20T22:50:40.375Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:51:10.386Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:51:10.387Z [info]: Cliente desconectado worker
+2024-03-20T22:51:40.403Z [info]: Cliente desconectado worker
+2024-03-20T22:51:40.404Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:52:10.416Z [info]: Cliente desconectado worker
+2024-03-20T22:52:10.417Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:52:40.423Z [info]: Cliente desconectado worker
+2024-03-20T22:52:40.424Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:53:10.432Z [info]: Cliente desconectado worker
+2024-03-20T22:53:10.433Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:53:40.445Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:53:40.458Z [info]: Cliente desconectado worker
+2024-03-20T22:54:10.447Z [info]: Cliente desconectado worker
+2024-03-20T22:54:10.449Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:54:40.464Z [info]: Cliente desconectado worker
+2024-03-20T22:54:40.466Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:55:10.477Z [info]: Cliente desconectado worker
+2024-03-20T22:55:10.478Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:55:40.481Z [info]: Cliente desconectado worker
+2024-03-20T22:55:40.482Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:56:10.494Z [info]: Cliente desconectado worker
+2024-03-20T22:56:10.495Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:56:40.502Z [info]: Cliente desconectado worker
+2024-03-20T22:56:40.503Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:57:10.517Z [info]: Cliente desconectado worker
+2024-03-20T22:57:10.518Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:57:40.521Z [info]: Cliente desconectado worker
+2024-03-20T22:57:40.522Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:58:10.526Z [info]: Cliente desconectado worker
+2024-03-20T22:58:10.527Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:58:41.534Z [info]: Cliente desconectado worker
+2024-03-20T22:58:41.535Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:59:11.545Z [info]: Cliente desconectado worker
+2024-03-20T22:59:11.547Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T22:59:41.557Z [info]: Cliente desconectado worker
+2024-03-20T22:59:41.558Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:00:11.561Z [info]: Cliente desconectado worker
+2024-03-20T23:00:11.563Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:00:41.580Z [info]: Cliente desconectado worker
+2024-03-20T23:00:41.582Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:01:11.592Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:01:11.606Z [info]: Cliente desconectado worker
+2024-03-20T23:01:41.604Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:01:41.618Z [info]: Cliente desconectado worker
+2024-03-20T23:02:11.607Z [info]: Cliente desconectado worker
+2024-03-20T23:02:11.609Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:02:41.615Z [info]: Cliente desconectado worker
+2024-03-20T23:02:41.616Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:03:11.631Z [info]: Cliente desconectado worker
+2024-03-20T23:03:11.632Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:03:41.639Z [info]: Cliente desconectado worker
+2024-03-20T23:03:41.640Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:04:11.652Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:04:11.666Z [info]: Cliente desconectado worker
+2024-03-20T23:04:35.468Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-20T23:05:05.657Z [info]: Cliente desconectado worker
+2024-03-20T23:05:05.658Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:05:35.666Z [info]: Cliente desconectado worker
+2024-03-20T23:05:35.668Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:06:05.680Z [info]: Cliente desconectado worker
+2024-03-20T23:06:05.683Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:06:35.697Z [info]: Cliente desconectado worker
+2024-03-20T23:06:35.701Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:07:05.718Z [info]: Cliente desconectado worker
+2024-03-20T23:07:05.719Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:07:35.735Z [info]: Cliente desconectado worker
+2024-03-20T23:07:35.738Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:08:05.749Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:08:05.764Z [info]: Cliente desconectado worker
+2024-03-20T23:08:35.758Z [info]: Cliente desconectado worker
+2024-03-20T23:08:35.759Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:09:05.762Z [info]: Cliente desconectado worker
+2024-03-20T23:09:05.763Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:09:33.019Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-20T23:10:03.776Z [info]: Cliente desconectado worker
+2024-03-20T23:10:03.777Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:10:33.782Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:10:33.796Z [info]: Cliente desconectado worker
+2024-03-20T23:11:03.797Z [info]: Cliente desconectado worker
+2024-03-20T23:11:03.798Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:11:33.806Z [info]: Cliente desconectado worker
+2024-03-20T23:11:33.809Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:12:03.826Z [info]: Cliente desconectado worker
+2024-03-20T23:12:03.828Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:12:33.840Z [info]: Cliente desconectado worker
+2024-03-20T23:12:33.840Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:13:03.854Z [info]: Cliente desconectado worker
+2024-03-20T23:13:03.857Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:13:33.865Z [info]: Cliente desconectado worker
+2024-03-20T23:13:33.866Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:13:52.107Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-20T23:14:22.878Z [info]: Cliente desconectado worker
+2024-03-20T23:14:22.880Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:14:51.715Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-20T23:15:21.895Z [info]: Cliente desconectado worker
+2024-03-20T23:15:21.896Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:15:51.902Z [info]: Cliente desconectado worker
+2024-03-20T23:15:51.904Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:16:21.278Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-20T23:16:51.910Z [info]: Cliente desconectado worker
+2024-03-20T23:16:51.914Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:17:21.918Z [info]: Cliente desconectado worker
+2024-03-20T23:17:21.919Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:17:51.933Z [info]: Cliente desconectado worker
+2024-03-20T23:17:51.933Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:18:21.951Z [info]: Cliente desconectado worker
+2024-03-20T23:18:21.953Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:18:51.966Z [info]: Cliente desconectado worker
+2024-03-20T23:18:51.967Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:19:21.978Z [info]: Cliente desconectado worker
+2024-03-20T23:19:21.979Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:19:51.981Z [info]: Cliente desconectado worker
+2024-03-20T23:19:51.982Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:20:21.986Z [info]: Cliente desconectado worker
+2024-03-20T23:20:21.988Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:20:51.991Z [info]: Cliente desconectado worker
+2024-03-20T23:20:51.998Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:21:22.018Z [info]: Cliente desconectado worker
+2024-03-20T23:21:22.019Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:21:52.021Z [info]: Cliente desconectado worker
+2024-03-20T23:21:52.022Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:22:22.035Z [info]: Cliente desconectado worker
+2024-03-20T23:22:22.036Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:22:52.051Z [info]: Cliente desconectado worker
+2024-03-20T23:22:52.053Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:23:22.102Z [info]: Cliente desconectado worker
+2024-03-20T23:23:22.115Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:23:52.163Z [info]: Cliente desconectado worker
+2024-03-20T23:23:52.166Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:24:22.171Z [info]: Cliente desconectado worker
+2024-03-20T23:24:22.172Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:24:52.174Z [info]: Cliente desconectado worker
+2024-03-20T23:24:52.175Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:25:22.184Z [info]: Cliente desconectado worker
+2024-03-20T23:25:22.185Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:25:52.199Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:25:52.213Z [info]: Cliente desconectado worker
+2024-03-20T23:26:19.539Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-20T23:26:50.200Z [info]: Cliente desconectado worker
+2024-03-20T23:26:50.201Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:27:20.208Z [info]: Cliente desconectado worker
+2024-03-20T23:27:20.210Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:27:50.214Z [info]: Cliente desconectado worker
+2024-03-20T23:27:50.215Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:28:20.230Z [info]: Cliente desconectado worker
+2024-03-20T23:28:20.231Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:28:39.510Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-20T23:29:05.760Z [info]: Cliente desconectado worker
+2024-03-20T23:29:39.848Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:29:42.561Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-20T23:30:12.869Z [info]: Cliente desconectado worker
+2024-03-20T23:30:12.871Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:30:18.859Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-20T23:30:48.886Z [info]: Cliente desconectado worker
+2024-03-20T23:30:48.887Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:31:18.903Z [info]: Cliente desconectado worker
+2024-03-20T23:31:18.904Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:31:48.908Z [info]: Cliente desconectado worker
+2024-03-20T23:31:48.912Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:32:15.685Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-20T23:32:40.801Z [info]: Cliente desconectado worker
+2024-03-20T23:34:01.465Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:34:16.271Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-20T23:34:41.033Z [info]: Cliente desconectado worker
+2024-03-20T23:35:30.086Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:35:33.075Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-20T23:36:03.108Z [info]: Cliente desconectado worker
+2024-03-20T23:36:03.110Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:36:33.122Z [info]: Cliente desconectado worker
+2024-03-20T23:36:33.123Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:37:03.138Z [info]: Cliente desconectado worker
+2024-03-20T23:37:03.139Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:37:33.152Z [info]: Cliente desconectado worker
+2024-03-20T23:37:33.154Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:37:51.697Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-20T23:38:22.161Z [info]: Cliente desconectado worker
+2024-03-20T23:38:22.162Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:38:52.177Z [info]: Cliente desconectado worker
+2024-03-20T23:38:52.178Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:39:22.191Z [info]: Cliente desconectado worker
+2024-03-20T23:39:22.192Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:39:52.208Z [info]: Cliente desconectado worker
+2024-03-20T23:39:52.210Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:40:22.223Z [info]: Cliente desconectado worker
+2024-03-20T23:40:22.223Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:40:52.230Z [info]: Cliente desconectado worker
+2024-03-20T23:40:52.231Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:41:22.236Z [info]: Cliente desconectado worker
+2024-03-20T23:41:22.238Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:41:52.243Z [info]: Cliente desconectado worker
+2024-03-20T23:41:52.245Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:42:22.257Z [info]: Cliente desconectado worker
+2024-03-20T23:42:22.258Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:42:28.839Z [info]: Iniciando server en el puerto 3000
+2024-03-20T23:42:29.312Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:42:48.055Z [info]: Iniciando server en el puerto 3000
+2024-03-20T23:42:48.118Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:42:54.130Z [info]: Nuevo cliente detectado tipo: postman
+2024-03-20T23:42:59.941Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-20T23:43:44.472Z [info]: Iniciando server en el puerto 3000
+2024-03-20T23:43:51.280Z [info]: Iniciando server en el puerto 3000
+2024-03-20T23:44:12.895Z [info]: Nuevo cliente detectado tipo: postman
+2024-03-20T23:44:19.583Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-20T23:44:25.079Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:44:55.095Z [info]: Cliente desconectado worker
+2024-03-20T23:44:55.096Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:45:16.305Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-20T23:45:37.347Z [info]: usuarioController/store {
+	"event": "usuario",
+	"type": "store:finalize",
+	"channel": "worker",
+	"data": [
+		{
+			"usuario": {
+				"StatusDescription": "OK",
+				"StatusCode": 200,
+				"Content": "{\n\t\"statusCode\":\t1,\n\t\"statusString\":\t\"OK\",\n\t\"subStatusCode\":\t\"ok\"\n}"
+			}
+		},
+		{
+			"usuario": {
+				"StatusDescription": "Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder. (192.168.88.30:80)",
+				"StatusCode": 500,
+				"Content": {}
+			}
+		}
+	]
+}
+2024-03-20T23:45:47.113Z [info]: Cliente desconectado worker
+2024-03-20T23:45:47.119Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:46:18.131Z [info]: Cliente desconectado worker
+2024-03-20T23:46:18.133Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:46:45.999Z [info]: Iniciando server en el puerto 3000
+2024-03-20T23:46:46.046Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:46:53.663Z [info]: Cliente desconectado worker
+2024-03-20T23:47:00.953Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:47:05.909Z [info]: Nuevo cliente detectado tipo: postman
+2024-03-20T23:47:12.501Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-20T23:47:33.849Z [info]: usuarioController/store {
+	"event": "usuario",
+	"type": "store:finalize",
+	"channel": "worker",
+	"data": [
+		{
+			"usuario": {
+				"StatusDescription": "Bad Request",
+				"StatusCode": 400,
+				"Content": "{\n\t\"statusCode\":\t6,\n\t\"statusString\":\t\"Invalid Content\",\n\t\"subStatusCode\":\t\"employeeNoAlreadyExist\",\n\t\"errorCode\":\t1610637344,\n\t\"errorMsg\":\t\"employeeNoAlreadyExist\"\n}"
+			}
+		},
+		{
+			"usuario": {
+				"StatusDescription": "Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder. (192.168.88.30:80)",
+				"StatusCode": 500,
+				"Content": {}
+			}
+		}
+	]
+}
+2024-03-20T23:48:12.971Z [info]: Cliente desconectado worker
+2024-03-20T23:48:12.972Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:49:12.980Z [info]: Cliente desconectado worker
+2024-03-20T23:49:12.981Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:50:12.991Z [info]: Cliente desconectado worker
+2024-03-20T23:50:12.992Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:51:13.002Z [info]: Cliente desconectado worker
+2024-03-20T23:51:13.004Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:52:13.018Z [info]: Cliente desconectado worker
+2024-03-20T23:52:13.018Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:53:13.027Z [info]: Cliente desconectado worker
+2024-03-20T23:53:13.028Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:54:13.043Z [info]: Cliente desconectado worker
+2024-03-20T23:54:13.044Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:55:13.047Z [info]: Cliente desconectado worker
+2024-03-20T23:55:13.048Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:56:13.056Z [info]: Cliente desconectado worker
+2024-03-20T23:56:13.057Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:57:13.060Z [info]: Cliente desconectado worker
+2024-03-20T23:57:13.062Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:58:13.062Z [info]: Cliente desconectado worker
+2024-03-20T23:58:13.066Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-20T23:59:13.080Z [info]: Cliente desconectado worker
+2024-03-20T23:59:13.081Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:00:13.093Z [info]: Cliente desconectado worker
+2024-03-21T00:00:13.094Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:01:13.099Z [info]: Cliente desconectado worker
+2024-03-21T00:01:13.101Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:02:13.107Z [info]: Cliente desconectado worker
+2024-03-21T00:02:13.108Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:03:13.123Z [info]: Cliente desconectado worker
+2024-03-21T00:03:13.127Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:04:13.141Z [info]: Cliente desconectado worker
+2024-03-21T00:04:13.142Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:05:13.145Z [info]: Cliente desconectado worker
+2024-03-21T00:05:13.147Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:06:13.162Z [info]: Cliente desconectado worker
+2024-03-21T00:06:13.163Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:07:13.172Z [info]: Cliente desconectado worker
+2024-03-21T00:07:13.183Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:08:13.184Z [info]: Cliente desconectado worker
+2024-03-21T00:08:13.185Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:09:13.206Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:09:13.216Z [info]: Cliente desconectado worker
+2024-03-21T00:10:13.219Z [info]: Cliente desconectado worker
+2024-03-21T00:10:13.221Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:11:13.225Z [info]: Cliente desconectado worker
+2024-03-21T00:11:13.227Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:12:13.231Z [info]: Cliente desconectado worker
+2024-03-21T00:12:13.232Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:13:13.250Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:13:13.263Z [info]: Cliente desconectado worker
+2024-03-21T00:14:13.253Z [info]: Cliente desconectado worker
+2024-03-21T00:14:13.254Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:15:13.267Z [info]: Cliente desconectado worker
+2024-03-21T00:15:13.268Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:16:13.280Z [info]: Cliente desconectado worker
+2024-03-21T00:16:13.281Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:17:13.293Z [info]: Cliente desconectado worker
+2024-03-21T00:17:13.294Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:18:13.303Z [info]: Cliente desconectado worker
+2024-03-21T00:18:13.304Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:19:13.317Z [info]: Cliente desconectado worker
+2024-03-21T00:19:13.318Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:20:13.321Z [info]: Cliente desconectado worker
+2024-03-21T00:20:13.322Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:21:13.334Z [info]: Cliente desconectado worker
+2024-03-21T00:21:13.335Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:22:13.350Z [info]: Cliente desconectado worker
+2024-03-21T00:22:13.351Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:23:13.359Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:23:13.359Z [info]: Cliente desconectado worker
+2024-03-21T00:24:13.361Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:24:13.362Z [info]: Cliente desconectado worker
+2024-03-21T00:25:13.367Z [info]: Cliente desconectado worker
+2024-03-21T00:25:13.369Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:26:13.382Z [info]: Cliente desconectado worker
+2024-03-21T00:26:13.384Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:27:13.390Z [info]: Cliente desconectado worker
+2024-03-21T00:27:13.392Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:28:13.394Z [info]: Cliente desconectado worker
+2024-03-21T00:28:13.396Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:29:13.406Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:29:13.420Z [info]: Cliente desconectado worker
+2024-03-21T00:30:13.413Z [info]: Cliente desconectado worker
+2024-03-21T00:30:13.414Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:31:13.424Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:31:13.439Z [info]: Cliente desconectado worker
+2024-03-21T00:32:13.438Z [info]: Cliente desconectado worker
+2024-03-21T00:32:13.440Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:33:13.451Z [info]: Cliente desconectado worker
+2024-03-21T00:33:13.452Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:34:13.462Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:34:13.463Z [info]: Cliente desconectado worker
+2024-03-21T00:35:13.465Z [info]: Cliente desconectado worker
+2024-03-21T00:35:13.466Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:36:13.478Z [info]: Cliente desconectado worker
+2024-03-21T00:36:13.484Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:37:13.499Z [info]: Cliente desconectado worker
+2024-03-21T00:37:13.501Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:38:13.509Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:38:13.522Z [info]: Cliente desconectado worker
+2024-03-21T00:39:13.513Z [info]: Cliente desconectado worker
+2024-03-21T00:39:13.515Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:40:13.528Z [info]: Cliente desconectado worker
+2024-03-21T00:40:13.529Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:41:13.537Z [info]: Cliente desconectado worker
+2024-03-21T00:41:13.538Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:42:13.547Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:42:13.548Z [info]: Cliente desconectado worker
+2024-03-21T00:43:13.553Z [info]: Cliente desconectado worker
+2024-03-21T00:43:13.554Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:44:13.568Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:44:13.582Z [info]: Cliente desconectado worker
+2024-03-21T00:45:13.576Z [info]: Cliente desconectado worker
+2024-03-21T00:45:13.577Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:46:13.580Z [info]: Cliente desconectado worker
+2024-03-21T00:46:13.581Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:47:13.586Z [info]: Cliente desconectado worker
+2024-03-21T00:47:13.587Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:48:13.594Z [info]: Cliente desconectado worker
+2024-03-21T00:48:13.596Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:49:13.603Z [info]: Cliente desconectado worker
+2024-03-21T00:49:13.604Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:50:13.609Z [info]: Cliente desconectado worker
+2024-03-21T00:50:13.611Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:51:13.619Z [info]: Cliente desconectado worker
+2024-03-21T00:51:13.621Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:52:13.635Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:52:13.636Z [info]: Cliente desconectado worker
+2024-03-21T00:53:13.647Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:53:13.648Z [info]: Cliente desconectado worker
+2024-03-21T00:54:13.660Z [info]: Cliente desconectado worker
+2024-03-21T00:54:13.662Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:55:13.666Z [info]: Cliente desconectado worker
+2024-03-21T00:55:13.667Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:56:13.678Z [info]: Cliente desconectado worker
+2024-03-21T00:56:13.679Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:57:13.685Z [info]: Cliente desconectado worker
+2024-03-21T00:57:13.686Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:58:13.696Z [info]: Cliente desconectado worker
+2024-03-21T00:58:13.697Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T00:59:14.706Z [info]: Cliente desconectado worker
+2024-03-21T00:59:14.708Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:00:14.719Z [info]: Cliente desconectado worker
+2024-03-21T01:00:14.720Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:01:14.728Z [info]: Cliente desconectado worker
+2024-03-21T01:01:14.729Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:02:14.742Z [info]: Cliente desconectado worker
+2024-03-21T01:02:14.743Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:03:14.750Z [info]: Cliente desconectado worker
+2024-03-21T01:03:14.751Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:04:14.766Z [info]: Cliente desconectado worker
+2024-03-21T01:04:14.768Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:05:14.776Z [info]: Cliente desconectado worker
+2024-03-21T01:05:14.776Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:06:14.778Z [info]: Cliente desconectado worker
+2024-03-21T01:06:14.779Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:07:14.791Z [info]: Cliente desconectado worker
+2024-03-21T01:07:14.792Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:08:14.800Z [info]: Cliente desconectado worker
+2024-03-21T01:08:14.801Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:09:14.814Z [info]: Cliente desconectado worker
+2024-03-21T01:09:14.815Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:10:14.819Z [info]: Cliente desconectado worker
+2024-03-21T01:10:14.821Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:11:14.831Z [info]: Cliente desconectado worker
+2024-03-21T01:11:14.832Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:12:14.838Z [info]: Cliente desconectado worker
+2024-03-21T01:12:14.840Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:13:14.846Z [info]: Cliente desconectado worker
+2024-03-21T01:13:14.847Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:14:14.855Z [info]: Cliente desconectado worker
+2024-03-21T01:14:14.857Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:15:14.862Z [info]: Cliente desconectado worker
+2024-03-21T01:15:14.863Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:16:14.875Z [info]: Cliente desconectado worker
+2024-03-21T01:16:14.876Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:17:14.882Z [info]: Cliente desconectado worker
+2024-03-21T01:17:14.883Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:18:14.901Z [info]: Cliente desconectado worker
+2024-03-21T01:18:14.904Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:19:14.908Z [info]: Cliente desconectado worker
+2024-03-21T01:19:14.909Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:20:14.917Z [info]: Cliente desconectado worker
+2024-03-21T01:20:14.918Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:21:14.930Z [info]: Cliente desconectado worker
+2024-03-21T01:21:14.930Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:22:14.936Z [info]: Cliente desconectado worker
+2024-03-21T01:22:14.937Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:23:14.942Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:23:14.943Z [info]: Cliente desconectado worker
+2024-03-21T01:24:14.947Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:24:14.961Z [info]: Cliente desconectado worker
+2024-03-21T01:24:34.383Z [info]: Iniciando server en el puerto 3000
+2024-03-21T01:24:34.859Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:25:14.134Z [info]: Iniciando server en el puerto 3000
+2024-03-21T01:25:14.175Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:25:30.286Z [info]: Nuevo cliente detectado tipo: postman
+2024-03-21T01:25:35.734Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-21T01:25:56.788Z [info]: usuarioController/store {
+	"event": "usuario",
+	"type": "store:finalize",
+	"channel": "worker",
+	"data": [
+		{
+			"usuario": {
+				"StatusDescription": "Bad Request",
+				"StatusCode": 400,
+				"Content": "{\n\t\"statusCode\":\t6,\n\t\"statusString\":\t\"Invalid Content\",\n\t\"subStatusCode\":\t\"employeeNoAlreadyExist\",\n\t\"errorCode\":\t1610637344,\n\t\"errorMsg\":\t\"employeeNoAlreadyExist\"\n}"
+			}
+		},
+		{
+			"usuario": {
+				"StatusDescription": "Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder. (192.168.88.30:80)",
+				"StatusCode": 500,
+				"Content": {}
+			}
+		}
+	]
+}
+2024-03-21T01:26:36.179Z [info]: Cliente desconectado worker
+2024-03-21T01:26:36.180Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:27:36.223Z [info]: Cliente desconectado worker
+2024-03-21T01:27:36.225Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:28:36.231Z [info]: Cliente desconectado worker
+2024-03-21T01:28:36.232Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:29:36.237Z [info]: Cliente desconectado worker
+2024-03-21T01:29:36.238Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:30:34.374Z [info]: Iniciando server en el puerto 3000
+2024-03-21T01:30:34.428Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:30:51.229Z [info]: Nuevo cliente detectado tipo: postman
+2024-03-21T01:30:55.937Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-21T01:31:17.031Z [info]: usuarioController/store {
+	"event": "usuario",
+	"type": "store:finalize",
+	"channel": "worker",
+	"data": [
+		{
+			"usuario": {
+				"StatusDescription": "Bad Request",
+				"StatusCode": 400,
+				"Content": "{\n\t\"statusCode\":\t6,\n\t\"statusString\":\t\"Invalid Content\",\n\t\"subStatusCode\":\t\"employeeNoAlreadyExist\",\n\t\"errorCode\":\t1610637344,\n\t\"errorMsg\":\t\"employeeNoAlreadyExist\"\n}"
+			}
+		},
+		{
+			"usuario": {
+				"StatusDescription": "Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder. (192.168.88.30:80)",
+				"StatusCode": 500,
+				"Content": {}
+			}
+		}
+	]
+}
+2024-03-21T01:31:56.433Z [info]: Cliente desconectado worker
+2024-03-21T01:31:56.434Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:32:54.196Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-21T01:33:15.239Z [info]: usuarioController/store {
+	"event": "usuario",
+	"type": "store:finalize",
+	"channel": "worker",
+	"data": [
+		{
+			"usuario": {
+				"StatusDescription": "Bad Request",
+				"StatusCode": 400,
+				"Content": "\"{\\n\\t\\\"statusCode\\\":\\t6,\\n\\t\\\"statusString\\\":\\t\\\"Invalid Content\\\",\\n\\t\\\"subStatusCode\\\":\\t\\\"employeeNoAlreadyExist\\\",\\n\\t\\\"errorCode\\\":\\t1610637344,\\n\\t\\\"errorMsg\\\":\\t\\\"employeeNoAlreadyExist\\\"\\n}\""
+			}
+		},
+		{
+			"usuario": {
+				"StatusDescription": "Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder. (192.168.88.30:80)",
+				"StatusCode": 500,
+				"Content": {}
+			}
+		}
+	]
+}
+2024-03-21T01:33:54.447Z [info]: Cliente desconectado worker
+2024-03-21T01:33:54.449Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:34:54.449Z [info]: Cliente desconectado worker
+2024-03-21T01:34:54.451Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:35:04.677Z [info]: Iniciando server en el puerto 3000
+2024-03-21T01:35:04.732Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:35:07.062Z [info]: Nuevo cliente detectado tipo: postman
+2024-03-21T01:35:11.059Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-21T01:35:32.112Z [info]: usuarioController/store {
+	"event": "usuario",
+	"type": "store:finalize",
+	"channel": "worker",
+	"data": [
+		{
+			"usuario": {
+				"StatusDescription": "Bad Request",
+				"StatusCode": 400,
+				"Content": "\"{\\n\\t\\\"statusCode\\\":\\t6,\\n\\t\\\"statusString\\\":\\t\\\"Invalid Content\\\",\\n\\t\\\"subStatusCode\\\":\\t\\\"employeeNoAlreadyExist\\\",\\n\\t\\\"errorCode\\\":\\t1610637344,\\n\\t\\\"errorMsg\\\":\\t\\\"employeeNoAlreadyExist\\\"\\n}\""
+			}
+		},
+		{
+			"usuario": {
+				"StatusDescription": "Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder. (192.168.88.30:80)",
+				"StatusCode": 500,
+				"Content": {}
+			}
+		}
+	]
+}
+2024-03-21T01:36:11.736Z [info]: Cliente desconectado worker
+2024-03-21T01:36:11.742Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:37:11.744Z [info]: Cliente desconectado worker
+2024-03-21T01:37:11.745Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:37:40.350Z [info]: Iniciando server en el puerto 3000
+2024-03-21T01:37:40.377Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:37:42.754Z [info]: Nuevo cliente detectado tipo: postman
+2024-03-21T01:37:46.665Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-21T01:38:07.734Z [info]: usuarioController/store {
+	"event": "usuario",
+	"type": "store:finalize",
+	"channel": "worker",
+	"data": [
+		{
+			"usuario": {
+				"StatusDescription": "Bad Request",
+				"StatusCode": 400,
+				"Content": "{\n\t\"statusCode\":\t6,\n\t\"statusString\":\t\"Invalid Content\",\n\t\"subStatusCode\":\t\"employeeNoAlreadyExist\",\n\t\"errorCode\":\t1610637344,\n\t\"errorMsg\":\t\"employeeNoAlreadyExist\"\n}"
+			}
+		},
+		{
+			"usuario": {
+				"StatusDescription": "Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder. (192.168.88.30:80)",
+				"StatusCode": 500,
+				"Content": {}
+			}
+		}
+	]
+}
+2024-03-21T01:38:51.571Z [info]: Iniciando server en el puerto 3000
+2024-03-21T01:39:11.868Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:39:43.056Z [info]: Iniciando server en el puerto 3000
+2024-03-21T01:39:43.125Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:40:43.130Z [info]: Cliente desconectado worker
+2024-03-21T01:40:43.132Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:41:43.133Z [info]: Cliente desconectado worker
+2024-03-21T01:41:43.166Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:42:43.182Z [info]: Cliente desconectado worker
+2024-03-21T01:42:43.183Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:43:43.190Z [info]: Cliente desconectado worker
+2024-03-21T01:43:43.191Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:44:43.199Z [info]: Cliente desconectado worker
+2024-03-21T01:44:43.200Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:45:43.202Z [info]: Cliente desconectado worker
+2024-03-21T01:45:43.203Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:46:44.213Z [info]: Cliente desconectado worker
+2024-03-21T01:46:44.214Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:47:44.229Z [info]: Cliente desconectado worker
+2024-03-21T01:47:44.231Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:47:49.754Z [info]: Iniciando server en el puerto 3000
+2024-03-21T01:47:49.796Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:48:49.811Z [info]: Cliente desconectado worker
+2024-03-21T01:48:49.812Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:49:49.824Z [info]: Cliente desconectado worker
+2024-03-21T01:49:49.825Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:50:49.836Z [info]: Cliente desconectado worker
+2024-03-21T01:50:49.837Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:51:49.847Z [info]: Cliente desconectado worker
+2024-03-21T01:51:49.848Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:52:49.851Z [info]: Cliente desconectado worker
+2024-03-21T01:52:49.852Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:53:27.760Z [info]: Nuevo cliente detectado tipo: postman
+2024-03-21T01:53:33.627Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-21T01:53:34.498Z [info]: Iniciando server en el puerto 3000
+2024-03-21T01:53:34.539Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:53:43.903Z [info]: Nuevo cliente detectado tipo: postman
+2024-03-21T01:53:48.310Z [info]: Responder a todos => {
+	"data": [
+		{
+			"idLector": 1,
+			"create_time": null,
+			"nomLector": "Facial Ingreso",
+			"ipLector": "192.168.88.30",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		},
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.247",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"FaceDataRecord": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image65ed06678c0321710032487.jpg",
+					"FDID": "1",
+					"FPID": "15"
+				},
+				"UserInfo": {
+					"employeeNo": "15",
+					"name": "susana oria",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-02-16T00:00:00Z",
+						"endTime": "2024-03-16T00:00:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"channel": "server",
+	"event": "usuario",
+	"type": "store:init"
+}
+2024-03-21T01:53:54.710Z [info]: usuarioController/store {
+	"event": "usuario",
+	"type": "store:finalize",
+	"channel": "worker",
+	"data": [
+		{
+			"usuario": {
+				"StatusDescription": "OK",
+				"StatusCode": 200,
+				"Content": "{\n\t\"statusCode\":\t1,\n\t\"statusString\":\t\"OK\",\n\t\"subStatusCode\":\t\"ok\"\n}"
+			}
+		},
+		{
+			"usuario": {
+				"StatusDescription": "Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder. (192.168.88.30:80)",
+				"StatusCode": 500,
+				"Content": {}
+			}
+		}
+	]
+}
+2024-03-21T01:54:09.344Z [info]: usuarioController/store {
+	"event": "usuario",
+	"type": "store:finalize",
+	"channel": "worker",
+	"data": [
+		{
+			"usuario": {
+				"StatusDescription": "Bad Request",
+				"StatusCode": 400,
+				"Content": "{\n\t\"statusCode\":\t6,\n\t\"statusString\":\t\"Invalid Content\",\n\t\"subStatusCode\":\t\"employeeNoAlreadyExist\",\n\t\"errorCode\":\t1610637344,\n\t\"errorMsg\":\t\"employeeNoAlreadyExist\"\n}"
+			}
+		},
+		{
+			"usuario": {
+				"StatusDescription": "Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder. (192.168.88.30:80)",
+				"StatusCode": 500,
+				"Content": {}
+			}
+		}
+	]
+}
+2024-03-21T01:54:48.568Z [info]: Cliente desconectado worker
+2024-03-21T01:54:48.570Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:55:48.572Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:55:48.587Z [info]: Cliente desconectado worker
+2024-03-21T01:56:48.580Z [info]: Cliente desconectado worker
+2024-03-21T01:56:48.582Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:57:48.587Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:57:48.588Z [info]: Cliente desconectado worker
+2024-03-21T01:58:48.601Z [info]: Cliente desconectado worker
+2024-03-21T01:58:48.602Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T01:59:48.611Z [info]: Cliente desconectado worker
+2024-03-21T01:59:48.613Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:00:48.617Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:00:48.631Z [info]: Cliente desconectado worker
+2024-03-21T02:01:48.621Z [info]: Cliente desconectado worker
+2024-03-21T02:01:48.622Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:02:48.630Z [info]: Cliente desconectado worker
+2024-03-21T02:02:48.631Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:03:48.633Z [info]: Cliente desconectado worker
+2024-03-21T02:03:48.634Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:04:48.642Z [info]: Cliente desconectado worker
+2024-03-21T02:04:48.644Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:05:48.661Z [info]: Cliente desconectado worker
+2024-03-21T02:05:48.664Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:06:48.677Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:06:48.678Z [info]: Cliente desconectado worker
+2024-03-21T02:07:48.682Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:07:48.695Z [info]: Cliente desconectado worker
+2024-03-21T02:08:48.689Z [info]: Cliente desconectado worker
+2024-03-21T02:08:48.690Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:09:48.704Z [info]: Cliente desconectado worker
+2024-03-21T02:09:48.706Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:10:48.715Z [info]: Cliente desconectado worker
+2024-03-21T02:10:48.717Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:11:48.723Z [info]: Cliente desconectado worker
+2024-03-21T02:11:48.726Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:12:48.732Z [info]: Cliente desconectado worker
+2024-03-21T02:12:48.734Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:13:48.746Z [info]: Cliente desconectado worker
+2024-03-21T02:13:48.747Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:14:48.765Z [info]: Cliente desconectado worker
+2024-03-21T02:14:48.767Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:15:48.782Z [info]: Cliente desconectado worker
+2024-03-21T02:15:48.784Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:16:48.799Z [info]: Cliente desconectado worker
+2024-03-21T02:16:48.814Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:17:48.832Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:17:48.832Z [info]: Cliente desconectado worker
+2024-03-21T02:18:48.840Z [info]: Cliente desconectado worker
+2024-03-21T02:18:48.841Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:19:48.845Z [info]: Cliente desconectado worker
+2024-03-21T02:19:48.847Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:20:48.850Z [info]: Cliente desconectado worker
+2024-03-21T02:20:48.852Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:21:48.861Z [info]: Cliente desconectado worker
+2024-03-21T02:21:48.864Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:22:48.881Z [info]: Cliente desconectado worker
+2024-03-21T02:22:48.884Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:23:48.896Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:23:48.910Z [info]: Cliente desconectado worker
+2024-03-21T02:24:48.902Z [info]: Cliente desconectado worker
+2024-03-21T02:24:48.905Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:25:48.915Z [info]: Cliente desconectado worker
+2024-03-21T02:25:48.916Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:26:48.931Z [info]: Cliente desconectado worker
+2024-03-21T02:26:48.934Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:27:48.939Z [info]: Cliente desconectado worker
+2024-03-21T02:27:48.941Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:28:48.948Z [info]: Cliente desconectado worker
+2024-03-21T02:28:48.950Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:29:48.957Z [info]: Cliente desconectado worker
+2024-03-21T02:29:48.958Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:30:48.969Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:30:48.983Z [info]: Cliente desconectado worker
+2024-03-21T02:31:48.985Z [info]: Cliente desconectado worker
+2024-03-21T02:31:48.986Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:32:48.994Z [info]: Cliente desconectado worker
+2024-03-21T02:32:48.995Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:33:49.009Z [info]: Cliente desconectado worker
+2024-03-21T02:33:49.010Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:34:49.024Z [info]: Cliente desconectado worker
+2024-03-21T02:34:49.025Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:35:49.035Z [info]: Cliente desconectado worker
+2024-03-21T02:35:49.038Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:36:49.054Z [info]: Cliente desconectado worker
+2024-03-21T02:36:49.056Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:37:49.064Z [info]: Cliente desconectado worker
+2024-03-21T02:37:49.066Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:38:49.076Z [info]: Cliente desconectado worker
+2024-03-21T02:38:49.078Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:39:49.094Z [info]: Cliente desconectado worker
+2024-03-21T02:39:49.096Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:40:49.098Z [info]: Cliente desconectado worker
+2024-03-21T02:40:49.100Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:41:49.109Z [info]: Cliente desconectado worker
+2024-03-21T02:41:49.111Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:42:49.124Z [info]: Cliente desconectado worker
+2024-03-21T02:42:49.126Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:43:49.134Z [info]: Cliente desconectado worker
+2024-03-21T02:43:49.135Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:44:49.139Z [info]: Cliente desconectado worker
+2024-03-21T02:44:49.140Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:45:49.155Z [info]: Cliente desconectado worker
+2024-03-21T02:45:49.157Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:46:49.173Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:46:49.174Z [info]: Cliente desconectado worker
+2024-03-21T02:47:49.179Z [info]: Cliente desconectado worker
+2024-03-21T02:47:49.180Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:48:49.195Z [info]: Cliente desconectado worker
+2024-03-21T02:48:49.197Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:49:49.201Z [info]: Cliente desconectado worker
+2024-03-21T02:49:49.204Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:50:49.209Z [info]: Cliente desconectado worker
+2024-03-21T02:50:49.211Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:51:49.225Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:51:49.225Z [info]: Cliente desconectado worker
+2024-03-21T02:52:49.234Z [info]: Cliente desconectado worker
+2024-03-21T02:52:49.235Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:53:49.242Z [info]: Cliente desconectado worker
+2024-03-21T02:53:49.244Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:54:49.252Z [info]: Cliente desconectado worker
+2024-03-21T02:54:49.254Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:55:49.266Z [info]: Cliente desconectado worker
+2024-03-21T02:55:49.268Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:56:49.278Z [info]: Cliente desconectado worker
+2024-03-21T02:56:49.279Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:57:49.284Z [info]: Cliente desconectado worker
+2024-03-21T02:57:49.287Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:58:49.298Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T02:58:49.300Z [info]: Cliente desconectado worker
+2024-03-21T02:59:49.307Z [info]: Cliente desconectado worker
+2024-03-21T02:59:49.310Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:00:49.324Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:00:49.325Z [info]: Cliente desconectado worker
+2024-03-21T03:01:49.328Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:01:49.341Z [info]: Cliente desconectado worker
+2024-03-21T03:02:49.333Z [info]: Cliente desconectado worker
+2024-03-21T03:02:49.334Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:03:49.339Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:03:49.353Z [info]: Cliente desconectado worker
+2024-03-21T03:04:49.352Z [info]: Cliente desconectado worker
+2024-03-21T03:04:49.354Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:05:49.361Z [info]: Cliente desconectado worker
+2024-03-21T03:05:49.362Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:06:49.365Z [info]: Cliente desconectado worker
+2024-03-21T03:06:49.367Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:07:49.374Z [info]: Cliente desconectado worker
+2024-03-21T03:07:49.376Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:08:49.385Z [info]: Cliente desconectado worker
+2024-03-21T03:08:49.388Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:09:49.402Z [info]: Cliente desconectado worker
+2024-03-21T03:09:49.404Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:10:49.412Z [info]: Cliente desconectado worker
+2024-03-21T03:10:49.414Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:11:49.426Z [info]: Cliente desconectado worker
+2024-03-21T03:11:49.427Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:12:49.435Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:12:49.436Z [info]: Cliente desconectado worker
+2024-03-21T03:13:50.443Z [info]: Cliente desconectado worker
+2024-03-21T03:13:50.445Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:14:50.454Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:14:50.454Z [info]: Cliente desconectado worker
+2024-03-21T03:15:51.461Z [info]: Cliente desconectado worker
+2024-03-21T03:15:51.463Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:16:51.465Z [info]: Cliente desconectado worker
+2024-03-21T03:16:51.467Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:17:51.480Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:17:51.480Z [info]: Cliente desconectado worker
+2024-03-21T03:18:51.495Z [info]: Cliente desconectado worker
+2024-03-21T03:18:51.498Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:19:51.501Z [info]: Cliente desconectado worker
+2024-03-21T03:19:51.503Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:20:51.514Z [info]: Cliente desconectado worker
+2024-03-21T03:20:51.516Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:21:51.524Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:21:51.525Z [info]: Cliente desconectado worker
+2024-03-21T03:22:51.532Z [info]: Cliente desconectado worker
+2024-03-21T03:22:51.534Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:23:51.542Z [info]: Cliente desconectado worker
+2024-03-21T03:23:51.545Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:24:51.561Z [info]: Cliente desconectado worker
+2024-03-21T03:24:51.563Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:25:51.574Z [info]: Cliente desconectado worker
+2024-03-21T03:25:51.576Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:26:51.590Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:26:51.604Z [info]: Cliente desconectado worker
+2024-03-21T03:27:51.599Z [info]: Cliente desconectado worker
+2024-03-21T03:27:51.600Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:28:51.607Z [info]: Cliente desconectado worker
+2024-03-21T03:28:51.608Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:29:51.618Z [info]: Cliente desconectado worker
+2024-03-21T03:29:51.619Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:30:51.627Z [info]: Cliente desconectado worker
+2024-03-21T03:30:51.629Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:31:51.633Z [info]: Cliente desconectado worker
+2024-03-21T03:31:51.635Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:32:51.639Z [info]: Cliente desconectado worker
+2024-03-21T03:32:51.641Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:33:51.652Z [info]: Cliente desconectado worker
+2024-03-21T03:33:51.653Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:34:51.655Z [info]: Cliente desconectado worker
+2024-03-21T03:34:51.656Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:35:51.663Z [info]: Cliente desconectado worker
+2024-03-21T03:35:51.664Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:36:51.674Z [info]: Cliente desconectado worker
+2024-03-21T03:36:51.676Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:37:51.690Z [info]: Cliente desconectado worker
+2024-03-21T03:37:51.691Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:38:51.694Z [info]: Cliente desconectado worker
+2024-03-21T03:38:51.696Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:39:51.699Z [info]: Cliente desconectado worker
+2024-03-21T03:39:51.701Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:40:51.707Z [info]: Cliente desconectado worker
+2024-03-21T03:40:51.709Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:41:51.710Z [info]: Cliente desconectado worker
+2024-03-21T03:41:51.712Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:42:51.721Z [info]: Cliente desconectado worker
+2024-03-21T03:42:51.723Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:43:51.727Z [info]: Cliente desconectado worker
+2024-03-21T03:43:51.728Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:44:51.730Z [info]: Cliente desconectado worker
+2024-03-21T03:44:51.731Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:45:51.733Z [info]: Cliente desconectado worker
+2024-03-21T03:45:51.735Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:46:51.744Z [info]: Cliente desconectado worker
+2024-03-21T03:46:51.746Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:47:51.751Z [info]: Cliente desconectado worker
+2024-03-21T03:47:51.753Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:48:51.760Z [info]: Cliente desconectado worker
+2024-03-21T03:48:51.761Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:49:51.773Z [info]: Cliente desconectado worker
+2024-03-21T03:49:51.774Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:50:51.786Z [info]: Cliente desconectado worker
+2024-03-21T03:50:51.789Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:51:51.794Z [info]: Cliente desconectado worker
+2024-03-21T03:51:51.796Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:52:51.801Z [info]: Cliente desconectado worker
+2024-03-21T03:52:51.803Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:53:51.809Z [info]: Cliente desconectado worker
+2024-03-21T03:53:51.810Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:54:51.825Z [info]: Cliente desconectado worker
+2024-03-21T03:54:51.827Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:55:51.837Z [info]: Cliente desconectado worker
+2024-03-21T03:55:51.838Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:56:51.845Z [info]: Cliente desconectado worker
+2024-03-21T03:56:51.846Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:57:51.847Z [info]: Cliente desconectado worker
+2024-03-21T03:57:51.849Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:58:51.864Z [info]: Cliente desconectado worker
+2024-03-21T03:58:51.866Z [info]: Nuevo cliente detectado tipo: worker
+2024-03-21T03:59:51.867Z [info]: Cliente desconectado worker
+2024-03-21T03:59:51.869Z [info]: Nuevo cliente detectado tipo: worker
