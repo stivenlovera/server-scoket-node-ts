@@ -1,20 +1,15 @@
 import express, { json } from "express";
 import http from 'http'
-import { Server as WebSocketServer } from 'socket.io'
 import "./utils/model-maps";
 import 'dotenv/config'
 import WebSocket from 'ws'
-import { usuarioController } from "./controllers/usuarioController";
 import { InitializeLoggers } from "./config/logguers";
-import morgan from "morgan";
+import { convertJson } from "./utils/conversiones";
+import { pubSubManager } from "./config/patron";
+import { eliminacionAutomatica } from "./controllers/eliminacionAutomatica";
+import { insertIncripcion } from "./controllers/insertIncripcion";
+import { PubSub } from "./utils/validate";
 
-export interface IMessageSocket<T> {
-    event: string
-    type: string
-    channel: string
-    data: T
-    adjuntos: any
-}
 
 /* const app = express();
 const httpServer = http.createServer(app);
@@ -29,41 +24,47 @@ io.on('connection', (socket) => {
     dispositivoSocket(socket);
     usuarioSocket(socket);
 }); */
-export interface Message<T> {
-    request: IMessageSocket<T>;
-}
 
 export const logger = InitializeLoggers();
 const app = express();
 
-const httpServer = http.createServer(app);
+export const httpServer = http.createServer(app);
 
 export const wss = new WebSocket.Server({ server: httpServer, path: "/devices" });
 logger.info(`Iniciando server en el puerto 3000`)
 
 // WebSocket event handling
 wss.on('connection', async (ws, req) => {
-    logger.info(`Nuevo cliente detectado tipo: ${req.headers.token}`)
-    try {
-        await usuarioController(ws, 'usuario');
-        //await fotoController(ws, 'foto');
-    } catch (error) {
-        logger.warn(`Se genero un error`)
-    }
+    const ip = req.socket.remoteAddress;
+    logger.info(`Nuevo cliente detectado tipo: ${convertJson(req.headers["sec-websocket-protocol"]) || convertJson(req.headers["token"])} ip:${ip}`)
+    ws.on('message', async (data: string) => {
+        const pubSub = JSON.parse(data) as PubSub;
+
+        switch (pubSub.request) {
+            case 'PUBLISH':
+                pubSubManager.publish(ws, pubSub.channel, pubSub.message);
+
+                break;
+            case 'SUBSCRIBE':
+                pubSubManager.subscribe(ws, pubSub.channel);
+                break;
+        }
+        //PROCESOS
+        eliminacionAutomatica(ws, pubSub);
+        insertIncripcion(ws, pubSub);
+
+    });
+    ws.on('error', console.error);
+    ws.on('pong', () => {
+
+    });
     ws.on('close', () => {
-        logger.info(`Cliente desconectado ${req.headers.token}`)
+        logger.info(`Cliente desconectado ${convertJson(req.headers["sec-websocket-protocol"]) || convertJson(req.headers["token"])} ip:${ip}`)
+        //clearInterval(interval);
     });
 });
 
-export function EmitAll<T>(message: IMessageSocket<T>) {
-    logger.info(`Responder a todos => ${JSON.stringify(message, null, "\t")}`)
-    wss.clients.forEach((client) => {
-        if (client.readyState === WebSocket.OPEN) {
-            client.send(JSON.stringify(message));
-        }
-    });
-}
-app.get('/', (req, res) => res.send('Hello World!'))
+app.get('/', (req, res) => res.send('ACCESO  PROHIBIDO'))
 
 httpServer.listen(parseInt(process.env.PORT!),
     () => console.log(`Lisening on port :${process.env.PORT!}`)

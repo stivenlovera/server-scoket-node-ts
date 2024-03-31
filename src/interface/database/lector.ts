@@ -14,3 +14,9 @@ export interface IRequest<T> extends ILector {
     endpoint:string
     data: T
 }
+
+export interface IReq<T> extends ILector {
+    method:string
+    endpoint:string
+    data: T
+}
