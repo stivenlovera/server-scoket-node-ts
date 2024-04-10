@@ -1,5 +1,4 @@
 import WebSocket from "ws";
-import { pubSubManager } from "../config/patron";
 import { convertJson } from "../utils/conversiones";
 import { QueryTypes } from "sequelize";
 import sequelize from "../config/database";
@@ -9,22 +8,23 @@ import { Search, SearchResponse, UsuarioDelete } from "../interface/hikvision/di
 import { IRes, PubSub, bgColor, initialNotificacion } from "../utils/validate";
 import moment from "moment";
 import { logger } from "..";
+import PubSubManager from "../config/patron";
 
-export function eliminacionAutomatica(ws: WebSocket, pubSub: PubSub) {
+export function eliminacionAutomatica(ws: WebSocket, pubSub: PubSub, pubSubManager: PubSubManager) {
     switch (pubSub.message.event) {
         case 'deleteAutomatico:init':
-            obtenerTodoUsuario(ws, pubSub)
+            obtenerTodoUsuario(ws, pubSub, pubSubManager)
             break;
         case 'deleteAutomatico:finalize':
-            deleteAutomaticoUsuario(ws, pubSub)
+            deleteAutomaticoUsuario(ws, pubSub, pubSubManager)
             break;
         case 'delete:finalize':
-            confirmAutomaticoUsuario(ws, pubSub)
+            confirmAutomaticoUsuario(ws, pubSub, pubSubManager)
             break;
     }
 }
 
-async function obtenerTodoUsuario(ws: WebSocket, pubSub: PubSub) {
+async function obtenerTodoUsuario(ws: WebSocket, pubSub: PubSub, pubSubManager: PubSubManager) {
     logger.info(`obtenerTodoUsuario channel:${pubSub.channel} event: ${convertJson(pubSub.message.event)}`);
     const lectoresData = await sequelize.query<ILector>(obtenerTodoLectoresQuery(), { type: QueryTypes.SELECT });
     const UserInfo: Search = {
@@ -46,11 +46,12 @@ async function obtenerTodoUsuario(ws: WebSocket, pubSub: PubSub) {
     });
 
     pubSub.message.req = data
+
     logger.info(`obtenerTodoUsuario salida  ${convertJson(pubSub)}`);
-    pubSubManager.publish(ws, 'worker', pubSub.message);
+    pubSubManager.publish(ws, 'worker-1', pubSub.message);
 }
 
-async function deleteAutomaticoUsuario(ws: WebSocket, pubSub: PubSub) {
+async function deleteAutomaticoUsuario(ws: WebSocket, pubSub: PubSub, pubSubManager: PubSubManager) {
     logger.info(`deleteAutomaticoUsuario channel:${pubSub.channel} event: ${convertJson(pubSub.message.event)}`);
     const req = pubSub.message.req as IReq<Search>[];
     const res = pubSub.message.res as IRes<SearchResponse>[];
@@ -98,14 +99,15 @@ async function deleteAutomaticoUsuario(ws: WebSocket, pubSub: PubSub) {
     pubSub.message.req = data
     pubSub.message.res = []
     logger.info(`usuarios a eliminar ${convertJson(pubSub)}`);
-    pubSubManager.publish(ws, 'worker', pubSub.message);
+    pubSubManager.publish(ws, 'worker-1', pubSub.message);
 }
 
-async function confirmAutomaticoUsuario(ws: WebSocket, pubSub: PubSub) {
+async function confirmAutomaticoUsuario(ws: WebSocket, pubSub: PubSub, pubSubManager: PubSubManager) {
 
-    pubSub.message.event = 'delete:show'
+    pubSub.message.event = 'delete:show',
+    pubSub.message.auth = 1
     initialNotificacion.text = 'Se limpio dispositivos correctamente';
     initialNotificacion.bgColor = bgColor("success");
-    pubSub.message.notificacion=initialNotificacion;
-    pubSubManager.publish(ws, 'erpFrontEnd', pubSub.message);
+    pubSub.message.notificacion = initialNotificacion;
+    pubSubManager.publish(ws, 'web', pubSub.message);
 }

@@ -1,0 +1,2393 @@
+2024-04-01T21:12:00.187Z [info]: Iniciando server en el puerto 3000
+2024-04-01T21:12:01.352Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T21:12:01.355Z [info]: Reiniciar consulta select ----
+2024-04-01T21:12:04.175Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:12:04.177Z [info]: Reiniciar consulta select ----
+2024-04-01T21:12:04.177Z [info]: Reiniciar consulta select ----
+2024-04-01T21:12:04.180Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:12:20.112Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-01T21:12:20.317Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T21:12:20.349Z [info]: Reiniciar consulta select ----
+2024-04-01T21:12:54.833Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-01T21:12:55.156Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T21:12:55.160Z [info]: Reiniciar consulta select ----
+2024-04-01T21:13:04.262Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:13:04.263Z [info]: Reiniciar consulta select ----
+2024-04-01T21:13:04.264Z [info]: Reiniciar consulta select ----
+2024-04-01T21:13:04.265Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:13:53.041Z [info]: Iniciando server en el puerto 3000
+2024-04-01T21:13:53.579Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T21:13:53.582Z [info]: Reiniciar consulta select ----
+2024-04-01T21:14:04.173Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:14:04.175Z [info]: Reiniciar consulta select ----
+2024-04-01T21:14:04.176Z [info]: Reiniciar consulta select ----
+2024-04-01T21:14:04.179Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:14:21.526Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-01T21:14:21.862Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T21:14:21.912Z [info]: Reiniciar consulta select ----
+2024-04-01T21:14:58.602Z [info]: Iniciando server en el puerto 3000
+2024-04-01T21:14:59.135Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T21:14:59.138Z [info]: Reiniciar consulta select ----
+2024-04-01T21:15:09.313Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:15:09.315Z [info]: Reiniciar consulta select ----
+2024-04-01T21:15:09.316Z [info]: Reiniciar consulta select ----
+2024-04-01T21:15:09.319Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:15:31.603Z [info]: Iniciando server en el puerto 3000
+2024-04-01T21:15:32.144Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T21:15:32.147Z [info]: Reiniciar consulta select ----
+2024-04-01T21:15:48.065Z [info]: Iniciando server en el puerto 3000
+2024-04-01T21:15:48.602Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T21:15:48.605Z [info]: Reiniciar consulta select ----
+2024-04-01T21:16:04.865Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:16:04.866Z [info]: Reiniciar consulta select ----
+2024-04-01T21:16:04.867Z [info]: Reiniciar consulta select ----
+2024-04-01T21:16:04.869Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:16:39.574Z [info]: Iniciando server en el puerto 3000
+2024-04-01T21:16:40.116Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T21:16:40.119Z [info]: Reiniciar consulta select ----
+2024-04-01T21:16:42.372Z [info]: Iniciando server en el puerto 3000
+2024-04-01T21:16:42.924Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T21:16:42.927Z [info]: Reiniciar consulta select ----
+2024-04-01T21:16:51.088Z [info]: Iniciando server en el puerto 3000
+2024-04-01T21:16:51.627Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T21:16:51.630Z [info]: Reiniciar consulta select ----
+2024-04-01T21:17:04.405Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:17:04.406Z [info]: Reiniciar consulta select ----
+2024-04-01T21:17:04.407Z [info]: Reiniciar consulta select ----
+2024-04-01T21:17:04.408Z [info]: obtenerObtenerInfo channel:server event: "deleteProgramada:init"
+2024-04-01T21:17:04.410Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:18:04.875Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:18:04.876Z [info]: Reiniciar consulta select ----
+2024-04-01T21:18:04.877Z [info]: Reiniciar consulta select ----
+2024-04-01T21:18:04.877Z [info]: obtenerObtenerInfo channel:server event: "deleteProgramada:init"
+2024-04-01T21:18:04.877Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:19:04.519Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:19:04.520Z [info]: Reiniciar consulta select ----
+2024-04-01T21:19:04.521Z [info]: Reiniciar consulta select ----
+2024-04-01T21:19:04.521Z [info]: obtenerObtenerInfo channel:server event: "deleteProgramada:init"
+2024-04-01T21:19:04.522Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:20:04.046Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:20:04.047Z [info]: Reiniciar consulta select ----
+2024-04-01T21:20:04.048Z [info]: Reiniciar consulta select ----
+2024-04-01T21:20:04.048Z [info]: obtenerObtenerInfo channel:server event: "deleteProgramada:init"
+2024-04-01T21:20:04.049Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:21:04.726Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:21:04.727Z [info]: Reiniciar consulta select ----
+2024-04-01T21:21:04.728Z [info]: Reiniciar consulta select ----
+2024-04-01T21:21:04.728Z [info]: obtenerObtenerInfo channel:server event: "deleteProgramada:init"
+2024-04-01T21:21:04.729Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:22:04.346Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:22:04.347Z [info]: Reiniciar consulta select ----
+2024-04-01T21:22:04.348Z [info]: Reiniciar consulta select ----
+2024-04-01T21:22:04.348Z [info]: obtenerObtenerInfo channel:server event: "deleteProgramada:init"
+2024-04-01T21:22:04.349Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:23:04.146Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:23:04.147Z [info]: Reiniciar consulta select ----
+2024-04-01T21:23:04.148Z [info]: Reiniciar consulta select ----
+2024-04-01T21:23:04.148Z [info]: obtenerObtenerInfo channel:server event: "deleteProgramada:init"
+2024-04-01T21:23:04.148Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:24:04.267Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:24:04.268Z [info]: Reiniciar consulta select ----
+2024-04-01T21:24:04.270Z [info]: Reiniciar consulta select ----
+2024-04-01T21:24:04.270Z [info]: obtenerObtenerInfo channel:server event: "deleteProgramada:init"
+2024-04-01T21:24:04.271Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:25:04.387Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:25:04.388Z [info]: Reiniciar consulta select ----
+2024-04-01T21:25:04.388Z [info]: Reiniciar consulta select ----
+2024-04-01T21:25:04.389Z [info]: obtenerObtenerInfo channel:server event: "deleteProgramada:init"
+2024-04-01T21:25:04.389Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:26:04.188Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:26:04.189Z [info]: Reiniciar consulta select ----
+2024-04-01T21:26:04.190Z [info]: Reiniciar consulta select ----
+2024-04-01T21:26:04.190Z [info]: obtenerObtenerInfo channel:server event: "deleteProgramada:init"
+2024-04-01T21:26:04.191Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:27:04.156Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:27:04.159Z [info]: Reiniciar consulta select ----
+2024-04-01T21:27:04.159Z [info]: Reiniciar consulta select ----
+2024-04-01T21:27:04.159Z [info]: obtenerObtenerInfo channel:server event: "deleteProgramada:init"
+2024-04-01T21:27:04.163Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:28:04.248Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:28:04.249Z [info]: Reiniciar consulta select ----
+2024-04-01T21:28:04.250Z [info]: Reiniciar consulta select ----
+2024-04-01T21:28:04.251Z [info]: obtenerObtenerInfo channel:server event: "deleteProgramada:init"
+2024-04-01T21:28:04.251Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:29:04.468Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:29:04.469Z [info]: Reiniciar consulta select ----
+2024-04-01T21:29:04.470Z [info]: Reiniciar consulta select ----
+2024-04-01T21:29:04.470Z [info]: obtenerObtenerInfo channel:server event: "deleteProgramada:init"
+2024-04-01T21:29:04.471Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:30:04.189Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:30:04.190Z [info]: Reiniciar consulta select ----
+2024-04-01T21:30:04.191Z [info]: Reiniciar consulta select ----
+2024-04-01T21:30:04.191Z [info]: obtenerObtenerInfo channel:server event: "deleteProgramada:init"
+2024-04-01T21:30:04.191Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:31:06.120Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:31:06.121Z [info]: Reiniciar consulta select ----
+2024-04-01T21:31:06.122Z [info]: Reiniciar consulta select ----
+2024-04-01T21:31:06.122Z [info]: obtenerObtenerInfo channel:server event: "deleteProgramada:init"
+2024-04-01T21:31:06.122Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:32:04.581Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:32:04.582Z [info]: Reiniciar consulta select ----
+2024-04-01T21:32:04.583Z [info]: Reiniciar consulta select ----
+2024-04-01T21:32:04.584Z [info]: obtenerObtenerInfo channel:server event: "deleteProgramada:init"
+2024-04-01T21:32:04.584Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:33:04.201Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:33:04.203Z [info]: Reiniciar consulta select ----
+2024-04-01T21:33:04.204Z [info]: Reiniciar consulta select ----
+2024-04-01T21:33:04.204Z [info]: obtenerObtenerInfo channel:server event: "deleteProgramada:init"
+2024-04-01T21:33:04.205Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:34:04.362Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:34:04.364Z [info]: Reiniciar consulta select ----
+2024-04-01T21:34:04.365Z [info]: Reiniciar consulta select ----
+2024-04-01T21:34:04.365Z [info]: obtenerObtenerInfo channel:server event: "deleteProgramada:init"
+2024-04-01T21:34:04.366Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:35:04.381Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:35:04.383Z [info]: Reiniciar consulta select ----
+2024-04-01T21:35:04.384Z [info]: Reiniciar consulta select ----
+2024-04-01T21:35:04.384Z [info]: obtenerObtenerInfo channel:server event: "deleteProgramada:init"
+2024-04-01T21:35:04.385Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:36:04.232Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:36:04.234Z [info]: Reiniciar consulta select ----
+2024-04-01T21:36:04.235Z [info]: Reiniciar consulta select ----
+2024-04-01T21:36:04.235Z [info]: obtenerObtenerInfo channel:server event: "deleteProgramada:init"
+2024-04-01T21:36:04.236Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:37:04.292Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:37:04.293Z [info]: Reiniciar consulta select ----
+2024-04-01T21:37:04.295Z [info]: Reiniciar consulta select ----
+2024-04-01T21:37:04.295Z [info]: obtenerObtenerInfo channel:server event: "deleteProgramada:init"
+2024-04-01T21:37:04.296Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:38:04.192Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:38:04.194Z [info]: Reiniciar consulta select ----
+2024-04-01T21:38:04.195Z [info]: Reiniciar consulta select ----
+2024-04-01T21:38:04.195Z [info]: obtenerObtenerInfo channel:server event: "deleteProgramada:init"
+2024-04-01T21:38:04.196Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:39:04.183Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:39:04.185Z [info]: Reiniciar consulta select ----
+2024-04-01T21:39:04.187Z [info]: Reiniciar consulta select ----
+2024-04-01T21:39:04.187Z [info]: obtenerObtenerInfo channel:server event: "deleteProgramada:init"
+2024-04-01T21:39:04.187Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:39:55.198Z [info]: Iniciando server en el puerto 3000
+2024-04-01T21:39:55.719Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T21:39:55.722Z [info]: Reiniciar consulta select ----
+2024-04-01T21:40:04.234Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:40:04.235Z [info]: Reiniciar consulta select ----
+2024-04-01T21:40:04.236Z [info]: Reiniciar consulta select ----
+2024-04-01T21:40:04.237Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T21:40:04.239Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:41:04.374Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:41:04.375Z [info]: Reiniciar consulta select ----
+2024-04-01T21:41:04.376Z [info]: Reiniciar consulta select ----
+2024-04-01T21:41:04.376Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T21:41:04.377Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:42:04.104Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:42:04.105Z [info]: Reiniciar consulta select ----
+2024-04-01T21:42:04.106Z [info]: Reiniciar consulta select ----
+2024-04-01T21:42:04.106Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T21:42:04.107Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:43:04.095Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:43:04.096Z [info]: Reiniciar consulta select ----
+2024-04-01T21:43:04.097Z [info]: Reiniciar consulta select ----
+2024-04-01T21:43:04.097Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T21:43:04.098Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:44:04.214Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:44:04.215Z [info]: Reiniciar consulta select ----
+2024-04-01T21:44:04.216Z [info]: Reiniciar consulta select ----
+2024-04-01T21:44:04.217Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T21:44:04.218Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:45:04.154Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:45:04.155Z [info]: Reiniciar consulta select ----
+2024-04-01T21:45:04.156Z [info]: Reiniciar consulta select ----
+2024-04-01T21:45:04.157Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T21:45:04.158Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:46:05.465Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:46:05.467Z [info]: Reiniciar consulta select ----
+2024-04-01T21:46:05.468Z [info]: Reiniciar consulta select ----
+2024-04-01T21:46:05.468Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T21:46:05.469Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:47:04.156Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:47:04.157Z [info]: Reiniciar consulta select ----
+2024-04-01T21:47:04.158Z [info]: Reiniciar consulta select ----
+2024-04-01T21:47:04.159Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T21:47:04.160Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:48:04.216Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:48:04.217Z [info]: Reiniciar consulta select ----
+2024-04-01T21:48:04.218Z [info]: Reiniciar consulta select ----
+2024-04-01T21:48:04.218Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T21:48:04.219Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:49:04.246Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:49:04.247Z [info]: Reiniciar consulta select ----
+2024-04-01T21:49:04.248Z [info]: Reiniciar consulta select ----
+2024-04-01T21:49:04.248Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T21:49:04.249Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:50:04.196Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:50:04.198Z [info]: Reiniciar consulta select ----
+2024-04-01T21:50:04.199Z [info]: Reiniciar consulta select ----
+2024-04-01T21:50:04.199Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T21:50:04.200Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:51:04.266Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:51:04.268Z [info]: Reiniciar consulta select ----
+2024-04-01T21:51:04.269Z [info]: Reiniciar consulta select ----
+2024-04-01T21:51:04.269Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T21:51:04.270Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:52:04.098Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:52:04.099Z [info]: Reiniciar consulta select ----
+2024-04-01T21:52:04.100Z [info]: Reiniciar consulta select ----
+2024-04-01T21:52:04.100Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T21:52:04.101Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:53:04.128Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:53:04.131Z [info]: Reiniciar consulta select ----
+2024-04-01T21:53:04.132Z [info]: Reiniciar consulta select ----
+2024-04-01T21:53:04.132Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T21:53:04.133Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:54:04.282Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:54:04.285Z [info]: Reiniciar consulta select ----
+2024-04-01T21:54:04.285Z [info]: Reiniciar consulta select ----
+2024-04-01T21:54:04.286Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T21:54:04.286Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:55:04.239Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:55:04.240Z [info]: Reiniciar consulta select ----
+2024-04-01T21:55:04.241Z [info]: Reiniciar consulta select ----
+2024-04-01T21:55:04.241Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T21:55:04.241Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:56:04.099Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:56:04.101Z [info]: Reiniciar consulta select ----
+2024-04-01T21:56:04.102Z [info]: Reiniciar consulta select ----
+2024-04-01T21:56:04.102Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T21:56:04.103Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:57:04.139Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:57:04.140Z [info]: Reiniciar consulta select ----
+2024-04-01T21:57:04.141Z [info]: Reiniciar consulta select ----
+2024-04-01T21:57:04.142Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T21:57:04.143Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:58:04.399Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:58:04.401Z [info]: Reiniciar consulta select ----
+2024-04-01T21:58:04.403Z [info]: Reiniciar consulta select ----
+2024-04-01T21:58:04.403Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T21:58:04.404Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:59:04.510Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:59:04.512Z [info]: Reiniciar consulta select ----
+2024-04-01T21:59:04.513Z [info]: Reiniciar consulta select ----
+2024-04-01T21:59:04.513Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T21:59:04.514Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:00:09.721Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:00:09.723Z [info]: Reiniciar consulta select ----
+2024-04-01T22:00:09.724Z [info]: Reiniciar consulta select ----
+2024-04-01T22:00:09.724Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:00:09.725Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:01:04.409Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:01:04.411Z [info]: Reiniciar consulta select ----
+2024-04-01T22:01:04.412Z [info]: Reiniciar consulta select ----
+2024-04-01T22:01:04.412Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:01:04.413Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:02:04.361Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:02:04.363Z [info]: Reiniciar consulta select ----
+2024-04-01T22:02:04.364Z [info]: Reiniciar consulta select ----
+2024-04-01T22:02:04.365Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:02:04.365Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:03:04.272Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:03:04.273Z [info]: Reiniciar consulta select ----
+2024-04-01T22:03:04.275Z [info]: Reiniciar consulta select ----
+2024-04-01T22:03:04.275Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:03:04.277Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:04:04.323Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:04:04.325Z [info]: Reiniciar consulta select ----
+2024-04-01T22:04:04.326Z [info]: Reiniciar consulta select ----
+2024-04-01T22:04:04.326Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:04:04.327Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:05:04.341Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:05:04.343Z [info]: Reiniciar consulta select ----
+2024-04-01T22:05:04.344Z [info]: Reiniciar consulta select ----
+2024-04-01T22:05:04.344Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:05:04.344Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:06:04.293Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:06:04.295Z [info]: Reiniciar consulta select ----
+2024-04-01T22:06:04.296Z [info]: Reiniciar consulta select ----
+2024-04-01T22:06:04.297Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:06:04.298Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:07:04.265Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:07:04.267Z [info]: Reiniciar consulta select ----
+2024-04-01T22:07:04.268Z [info]: Reiniciar consulta select ----
+2024-04-01T22:07:04.269Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:07:04.270Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:08:04.593Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:08:04.595Z [info]: Reiniciar consulta select ----
+2024-04-01T22:08:04.596Z [info]: Reiniciar consulta select ----
+2024-04-01T22:08:04.596Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:08:04.597Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:09:04.253Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:09:04.255Z [info]: Reiniciar consulta select ----
+2024-04-01T22:09:04.256Z [info]: Reiniciar consulta select ----
+2024-04-01T22:09:04.256Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:09:04.257Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:10:04.375Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:10:04.377Z [info]: Reiniciar consulta select ----
+2024-04-01T22:10:04.378Z [info]: Reiniciar consulta select ----
+2024-04-01T22:10:04.378Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:10:04.379Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:11:04.122Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:11:04.123Z [info]: Reiniciar consulta select ----
+2024-04-01T22:11:04.124Z [info]: Reiniciar consulta select ----
+2024-04-01T22:11:04.124Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:11:04.125Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:12:04.324Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:12:04.326Z [info]: Reiniciar consulta select ----
+2024-04-01T22:12:04.327Z [info]: Reiniciar consulta select ----
+2024-04-01T22:12:04.327Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:12:04.328Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:13:04.074Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:13:04.075Z [info]: Reiniciar consulta select ----
+2024-04-01T22:13:04.077Z [info]: Reiniciar consulta select ----
+2024-04-01T22:13:04.077Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:13:04.078Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:14:04.157Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:14:04.159Z [info]: Reiniciar consulta select ----
+2024-04-01T22:14:04.160Z [info]: Reiniciar consulta select ----
+2024-04-01T22:14:04.161Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:14:04.161Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:15:04.216Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:15:04.218Z [info]: Reiniciar consulta select ----
+2024-04-01T22:15:04.219Z [info]: Reiniciar consulta select ----
+2024-04-01T22:15:04.219Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:15:04.220Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:16:04.406Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:16:04.407Z [info]: Reiniciar consulta select ----
+2024-04-01T22:16:04.408Z [info]: Reiniciar consulta select ----
+2024-04-01T22:16:04.408Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:16:04.409Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:17:04.177Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:17:04.178Z [info]: Reiniciar consulta select ----
+2024-04-01T22:17:04.179Z [info]: Reiniciar consulta select ----
+2024-04-01T22:17:04.180Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:17:04.180Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:18:04.147Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:18:04.148Z [info]: Reiniciar consulta select ----
+2024-04-01T22:18:04.149Z [info]: Reiniciar consulta select ----
+2024-04-01T22:18:04.149Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:18:04.150Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:19:04.438Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:19:04.440Z [info]: Reiniciar consulta select ----
+2024-04-01T22:19:04.441Z [info]: Reiniciar consulta select ----
+2024-04-01T22:19:04.441Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:19:04.442Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:20:04.689Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:20:04.690Z [info]: Reiniciar consulta select ----
+2024-04-01T22:20:04.693Z [info]: Reiniciar consulta select ----
+2024-04-01T22:20:04.693Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:20:04.694Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:21:04.509Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:21:04.510Z [info]: Reiniciar consulta select ----
+2024-04-01T22:21:04.511Z [info]: Reiniciar consulta select ----
+2024-04-01T22:21:04.511Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:21:04.511Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:22:04.248Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:22:04.250Z [info]: Reiniciar consulta select ----
+2024-04-01T22:22:04.251Z [info]: Reiniciar consulta select ----
+2024-04-01T22:22:04.251Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:22:04.252Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:23:04.090Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:23:04.092Z [info]: Reiniciar consulta select ----
+2024-04-01T22:23:04.093Z [info]: Reiniciar consulta select ----
+2024-04-01T22:23:04.093Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:23:04.094Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:24:04.180Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:24:04.181Z [info]: Reiniciar consulta select ----
+2024-04-01T22:24:04.184Z [info]: Reiniciar consulta select ----
+2024-04-01T22:24:04.184Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:24:04.184Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:25:04.210Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:25:04.212Z [info]: Reiniciar consulta select ----
+2024-04-01T22:25:04.214Z [info]: Reiniciar consulta select ----
+2024-04-01T22:25:04.214Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:25:04.214Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:26:04.091Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:26:04.093Z [info]: Reiniciar consulta select ----
+2024-04-01T22:26:04.095Z [info]: Reiniciar consulta select ----
+2024-04-01T22:26:04.095Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:26:04.096Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:27:04.350Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:27:04.352Z [info]: Reiniciar consulta select ----
+2024-04-01T22:27:04.353Z [info]: Reiniciar consulta select ----
+2024-04-01T22:27:04.353Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:27:04.354Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:28:04.213Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:28:04.214Z [info]: Reiniciar consulta select ----
+2024-04-01T22:28:04.216Z [info]: Reiniciar consulta select ----
+2024-04-01T22:28:04.216Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:28:04.216Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:29:04.264Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:29:04.266Z [info]: Reiniciar consulta select ----
+2024-04-01T22:29:04.267Z [info]: Reiniciar consulta select ----
+2024-04-01T22:29:04.267Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:29:04.268Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:30:09.221Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:30:09.223Z [info]: Reiniciar consulta select ----
+2024-04-01T22:30:09.225Z [info]: Reiniciar consulta select ----
+2024-04-01T22:30:09.225Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:30:09.226Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:31:04.571Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:31:04.573Z [info]: Reiniciar consulta select ----
+2024-04-01T22:31:04.574Z [info]: Reiniciar consulta select ----
+2024-04-01T22:31:04.575Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:31:04.575Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:32:04.183Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:32:04.185Z [info]: Reiniciar consulta select ----
+2024-04-01T22:32:04.187Z [info]: Reiniciar consulta select ----
+2024-04-01T22:32:04.187Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:32:04.188Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:33:04.432Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:33:04.434Z [info]: Reiniciar consulta select ----
+2024-04-01T22:33:04.435Z [info]: Reiniciar consulta select ----
+2024-04-01T22:33:04.435Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:33:04.436Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:34:04.173Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:34:04.174Z [info]: Reiniciar consulta select ----
+2024-04-01T22:34:04.176Z [info]: Reiniciar consulta select ----
+2024-04-01T22:34:04.176Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:34:04.176Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:35:04.283Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:35:04.284Z [info]: Reiniciar consulta select ----
+2024-04-01T22:35:04.286Z [info]: Reiniciar consulta select ----
+2024-04-01T22:35:04.286Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:35:04.286Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:36:04.123Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:36:04.125Z [info]: Reiniciar consulta select ----
+2024-04-01T22:36:04.126Z [info]: Reiniciar consulta select ----
+2024-04-01T22:36:04.126Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:36:04.127Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:37:04.094Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:37:04.095Z [info]: Reiniciar consulta select ----
+2024-04-01T22:37:04.097Z [info]: Reiniciar consulta select ----
+2024-04-01T22:37:04.097Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:37:04.097Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:38:04.324Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:38:04.326Z [info]: Reiniciar consulta select ----
+2024-04-01T22:38:04.327Z [info]: Reiniciar consulta select ----
+2024-04-01T22:38:04.327Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:38:04.328Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:39:04.140Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:39:04.142Z [info]: Reiniciar consulta select ----
+2024-04-01T22:39:04.144Z [info]: Reiniciar consulta select ----
+2024-04-01T22:39:04.144Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:39:04.145Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:40:04.205Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:40:04.208Z [info]: Reiniciar consulta select ----
+2024-04-01T22:40:04.209Z [info]: Reiniciar consulta select ----
+2024-04-01T22:40:04.209Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:40:04.210Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:41:04.341Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:41:04.342Z [info]: Reiniciar consulta select ----
+2024-04-01T22:41:04.344Z [info]: Reiniciar consulta select ----
+2024-04-01T22:41:04.344Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:41:04.344Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:42:04.405Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:42:04.407Z [info]: Reiniciar consulta select ----
+2024-04-01T22:42:04.409Z [info]: Reiniciar consulta select ----
+2024-04-01T22:42:04.409Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:42:04.410Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:43:04.166Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:43:04.168Z [info]: Reiniciar consulta select ----
+2024-04-01T22:43:04.170Z [info]: Reiniciar consulta select ----
+2024-04-01T22:43:04.170Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:43:04.170Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:44:04.190Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:44:04.192Z [info]: Reiniciar consulta select ----
+2024-04-01T22:44:04.194Z [info]: Reiniciar consulta select ----
+2024-04-01T22:44:04.194Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:44:04.194Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:45:04.278Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:45:04.280Z [info]: Reiniciar consulta select ----
+2024-04-01T22:45:04.281Z [info]: Reiniciar consulta select ----
+2024-04-01T22:45:04.281Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:45:04.282Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:46:04.337Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:46:04.339Z [info]: Reiniciar consulta select ----
+2024-04-01T22:46:04.341Z [info]: Reiniciar consulta select ----
+2024-04-01T22:46:04.341Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:46:04.342Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:47:04.157Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:47:04.159Z [info]: Reiniciar consulta select ----
+2024-04-01T22:47:04.160Z [info]: Reiniciar consulta select ----
+2024-04-01T22:47:04.161Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:47:04.161Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:48:04.148Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:48:04.150Z [info]: Reiniciar consulta select ----
+2024-04-01T22:48:04.151Z [info]: Reiniciar consulta select ----
+2024-04-01T22:48:04.151Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:48:04.152Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:49:04.149Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:49:04.150Z [info]: Reiniciar consulta select ----
+2024-04-01T22:49:04.152Z [info]: Reiniciar consulta select ----
+2024-04-01T22:49:04.152Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:49:04.153Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:50:04.488Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:50:04.490Z [info]: Reiniciar consulta select ----
+2024-04-01T22:50:04.492Z [info]: Reiniciar consulta select ----
+2024-04-01T22:50:04.492Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:50:04.493Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:51:04.150Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:51:04.152Z [info]: Reiniciar consulta select ----
+2024-04-01T22:51:04.154Z [info]: Reiniciar consulta select ----
+2024-04-01T22:51:04.154Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:51:04.154Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:52:04.323Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:52:04.325Z [info]: Reiniciar consulta select ----
+2024-04-01T22:52:04.326Z [info]: Reiniciar consulta select ----
+2024-04-01T22:52:04.326Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:52:04.327Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:53:04.140Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:53:04.142Z [info]: Reiniciar consulta select ----
+2024-04-01T22:53:04.143Z [info]: Reiniciar consulta select ----
+2024-04-01T22:53:04.143Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:53:04.144Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:54:04.171Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:54:04.174Z [info]: Reiniciar consulta select ----
+2024-04-01T22:54:04.175Z [info]: Reiniciar consulta select ----
+2024-04-01T22:54:04.176Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:54:04.176Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:55:04.271Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:55:04.273Z [info]: Reiniciar consulta select ----
+2024-04-01T22:55:04.275Z [info]: Reiniciar consulta select ----
+2024-04-01T22:55:04.275Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:55:04.276Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:56:04.252Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:56:04.255Z [info]: Reiniciar consulta select ----
+2024-04-01T22:56:04.256Z [info]: Reiniciar consulta select ----
+2024-04-01T22:56:04.257Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:56:04.258Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:57:04.402Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:57:04.404Z [info]: Reiniciar consulta select ----
+2024-04-01T22:57:04.405Z [info]: Reiniciar consulta select ----
+2024-04-01T22:57:04.405Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:57:04.406Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:58:04.261Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:58:04.263Z [info]: Reiniciar consulta select ----
+2024-04-01T22:58:04.264Z [info]: Reiniciar consulta select ----
+2024-04-01T22:58:04.264Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:58:04.265Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T22:59:05.193Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T22:59:05.194Z [info]: Reiniciar consulta select ----
+2024-04-01T22:59:05.195Z [info]: Reiniciar consulta select ----
+2024-04-01T22:59:05.195Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T22:59:05.196Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T23:00:04.241Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T23:00:04.243Z [info]: Reiniciar consulta select ----
+2024-04-01T23:00:04.244Z [info]: Reiniciar consulta select ----
+2024-04-01T23:00:04.245Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T23:00:04.245Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T23:01:04.553Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T23:01:04.555Z [info]: Reiniciar consulta select ----
+2024-04-01T23:01:04.556Z [info]: Reiniciar consulta select ----
+2024-04-01T23:01:04.556Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T23:01:04.557Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T23:02:04.373Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T23:02:04.375Z [info]: Reiniciar consulta select ----
+2024-04-01T23:02:04.376Z [info]: Reiniciar consulta select ----
+2024-04-01T23:02:04.376Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T23:02:04.377Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T23:03:04.263Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T23:03:04.265Z [info]: Reiniciar consulta select ----
+2024-04-01T23:03:04.267Z [info]: Reiniciar consulta select ----
+2024-04-01T23:03:04.267Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T23:03:04.267Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T23:04:04.134Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T23:04:04.137Z [info]: Reiniciar consulta select ----
+2024-04-01T23:04:04.140Z [info]: Reiniciar consulta select ----
+2024-04-01T23:04:04.140Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T23:04:04.142Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T23:05:04.536Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T23:05:04.537Z [info]: Reiniciar consulta select ----
+2024-04-01T23:05:04.539Z [info]: Reiniciar consulta select ----
+2024-04-01T23:05:04.539Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T23:05:04.540Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T23:06:04.215Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T23:06:04.217Z [info]: Reiniciar consulta select ----
+2024-04-01T23:06:04.219Z [info]: Reiniciar consulta select ----
+2024-04-01T23:06:04.219Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T23:06:04.219Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T23:07:04.485Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T23:07:04.486Z [info]: Reiniciar consulta select ----
+2024-04-01T23:07:04.488Z [info]: Reiniciar consulta select ----
+2024-04-01T23:07:04.488Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T23:07:04.488Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T23:08:04.377Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T23:08:04.379Z [info]: Reiniciar consulta select ----
+2024-04-01T23:08:04.380Z [info]: Reiniciar consulta select ----
+2024-04-01T23:08:04.380Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T23:08:04.381Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T23:09:04.105Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T23:09:04.107Z [info]: Reiniciar consulta select ----
+2024-04-01T23:09:04.109Z [info]: Reiniciar consulta select ----
+2024-04-01T23:09:04.109Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T23:09:04.110Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T23:10:04.176Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T23:10:04.178Z [info]: Reiniciar consulta select ----
+2024-04-01T23:10:04.180Z [info]: Reiniciar consulta select ----
+2024-04-01T23:10:04.180Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T23:10:04.181Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T23:11:04.136Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T23:11:04.138Z [info]: Reiniciar consulta select ----
+2024-04-01T23:11:04.139Z [info]: Reiniciar consulta select ----
+2024-04-01T23:11:04.139Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T23:11:04.140Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T23:12:04.307Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T23:12:04.308Z [info]: Reiniciar consulta select ----
+2024-04-01T23:12:04.310Z [info]: Reiniciar consulta select ----
+2024-04-01T23:12:04.310Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T23:12:04.311Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T23:13:04.107Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T23:13:04.108Z [info]: Reiniciar consulta select ----
+2024-04-01T23:13:04.110Z [info]: Reiniciar consulta select ----
+2024-04-01T23:13:04.110Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T23:13:04.111Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T23:14:04.448Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T23:14:04.459Z [info]: Reiniciar consulta select ----
+2024-04-01T23:14:04.462Z [info]: Reiniciar consulta select ----
+2024-04-01T23:14:04.462Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T23:14:04.463Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T23:15:09.408Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T23:15:09.410Z [info]: Reiniciar consulta select ----
+2024-04-01T23:15:09.412Z [info]: Reiniciar consulta select ----
+2024-04-01T23:15:09.412Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T23:15:09.412Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T23:16:04.719Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T23:16:04.722Z [info]: Reiniciar consulta select ----
+2024-04-01T23:16:04.724Z [info]: Reiniciar consulta select ----
+2024-04-01T23:16:04.725Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T23:16:04.726Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T23:17:04.139Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T23:17:04.141Z [info]: Reiniciar consulta select ----
+2024-04-01T23:17:04.143Z [info]: Reiniciar consulta select ----
+2024-04-01T23:17:04.143Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T23:17:04.144Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T23:18:04.219Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T23:18:04.221Z [info]: Reiniciar consulta select ----
+2024-04-01T23:18:04.224Z [info]: Reiniciar consulta select ----
+2024-04-01T23:18:04.224Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T23:18:04.225Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T23:20:04.290Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T23:20:04.292Z [info]: Reiniciar consulta select ----
+2024-04-01T23:20:04.294Z [info]: Reiniciar consulta select ----
+2024-04-01T23:20:04.294Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T23:20:04.295Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T23:30:09.553Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T23:30:09.556Z [info]: Reiniciar consulta select ----
+2024-04-01T23:30:09.558Z [info]: Reiniciar consulta select ----
+2024-04-01T23:30:09.558Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-01T23:30:09.559Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T02:45:10.904Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T02:45:10.924Z [info]: Reiniciar consulta select ----
+2024-04-02T02:45:10.926Z [info]: Reiniciar consulta select ----
+2024-04-02T02:45:10.926Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T02:45:10.932Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T02:46:04.552Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T02:46:04.555Z [info]: Reiniciar consulta select ----
+2024-04-02T02:46:04.557Z [info]: Reiniciar consulta select ----
+2024-04-02T02:46:04.557Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T02:46:04.558Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T02:47:04.183Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T02:47:04.185Z [info]: Reiniciar consulta select ----
+2024-04-02T02:47:04.187Z [info]: Reiniciar consulta select ----
+2024-04-02T02:47:04.187Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T02:47:04.187Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T02:48:04.233Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T02:48:04.236Z [info]: Reiniciar consulta select ----
+2024-04-02T02:48:04.237Z [info]: Reiniciar consulta select ----
+2024-04-02T02:48:04.238Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T02:48:04.239Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T02:49:04.103Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T02:49:04.106Z [info]: Reiniciar consulta select ----
+2024-04-02T02:49:04.109Z [info]: Reiniciar consulta select ----
+2024-04-02T02:49:04.109Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T02:49:04.110Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T02:50:04.466Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T02:50:04.468Z [info]: Reiniciar consulta select ----
+2024-04-02T02:50:04.469Z [info]: Reiniciar consulta select ----
+2024-04-02T02:50:04.470Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T02:50:04.470Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T02:51:04.206Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T02:51:04.209Z [info]: Reiniciar consulta select ----
+2024-04-02T02:51:04.211Z [info]: Reiniciar consulta select ----
+2024-04-02T02:51:04.211Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T02:51:04.212Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T02:52:04.185Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T02:52:04.187Z [info]: Reiniciar consulta select ----
+2024-04-02T02:52:04.188Z [info]: Reiniciar consulta select ----
+2024-04-02T02:52:04.188Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T02:52:04.189Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T02:53:04.766Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T02:53:04.768Z [info]: Reiniciar consulta select ----
+2024-04-02T02:53:04.770Z [info]: Reiniciar consulta select ----
+2024-04-02T02:53:04.770Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T02:53:04.771Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T02:54:04.296Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T02:54:04.298Z [info]: Reiniciar consulta select ----
+2024-04-02T02:54:04.300Z [info]: Reiniciar consulta select ----
+2024-04-02T02:54:04.300Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T02:54:04.301Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T02:55:04.276Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T02:55:04.277Z [info]: Reiniciar consulta select ----
+2024-04-02T02:55:04.279Z [info]: Reiniciar consulta select ----
+2024-04-02T02:55:04.279Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T02:55:04.280Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T02:56:04.306Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T02:56:04.308Z [info]: Reiniciar consulta select ----
+2024-04-02T02:56:04.309Z [info]: Reiniciar consulta select ----
+2024-04-02T02:56:04.310Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T02:56:04.310Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T02:57:04.355Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T02:57:04.357Z [info]: Reiniciar consulta select ----
+2024-04-02T02:57:04.359Z [info]: Reiniciar consulta select ----
+2024-04-02T02:57:04.359Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T02:57:04.359Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T02:58:04.316Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T02:58:04.318Z [info]: Reiniciar consulta select ----
+2024-04-02T02:58:04.320Z [info]: Reiniciar consulta select ----
+2024-04-02T02:58:04.320Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T02:58:04.321Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T02:59:04.367Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T02:59:04.369Z [info]: Reiniciar consulta select ----
+2024-04-02T02:59:04.370Z [info]: Reiniciar consulta select ----
+2024-04-02T02:59:04.370Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T02:59:04.371Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:00:04.257Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:00:04.259Z [info]: Reiniciar consulta select ----
+2024-04-02T03:00:04.261Z [info]: Reiniciar consulta select ----
+2024-04-02T03:00:04.261Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:00:04.262Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:01:04.758Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:01:04.760Z [info]: Reiniciar consulta select ----
+2024-04-02T03:01:04.762Z [info]: Reiniciar consulta select ----
+2024-04-02T03:01:04.762Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:01:04.763Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:02:04.182Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:02:04.184Z [info]: Reiniciar consulta select ----
+2024-04-02T03:02:04.186Z [info]: Reiniciar consulta select ----
+2024-04-02T03:02:04.186Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:02:04.187Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:03:04.239Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:03:04.248Z [info]: Reiniciar consulta select ----
+2024-04-02T03:03:04.249Z [info]: Reiniciar consulta select ----
+2024-04-02T03:03:04.249Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:03:04.250Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:04:04.119Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:04:04.121Z [info]: Reiniciar consulta select ----
+2024-04-02T03:04:04.122Z [info]: Reiniciar consulta select ----
+2024-04-02T03:04:04.123Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:04:04.123Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:05:04.339Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:05:04.341Z [info]: Reiniciar consulta select ----
+2024-04-02T03:05:04.343Z [info]: Reiniciar consulta select ----
+2024-04-02T03:05:04.343Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:05:04.343Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:06:04.239Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:06:04.241Z [info]: Reiniciar consulta select ----
+2024-04-02T03:06:04.243Z [info]: Reiniciar consulta select ----
+2024-04-02T03:06:04.244Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:06:04.244Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:07:04.210Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:07:04.212Z [info]: Reiniciar consulta select ----
+2024-04-02T03:07:04.213Z [info]: Reiniciar consulta select ----
+2024-04-02T03:07:04.213Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:07:04.214Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:08:04.320Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:08:04.322Z [info]: Reiniciar consulta select ----
+2024-04-02T03:08:04.323Z [info]: Reiniciar consulta select ----
+2024-04-02T03:08:04.323Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:08:04.324Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:09:04.230Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:09:04.231Z [info]: Reiniciar consulta select ----
+2024-04-02T03:09:04.233Z [info]: Reiniciar consulta select ----
+2024-04-02T03:09:04.233Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:09:04.235Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:10:04.512Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:10:04.514Z [info]: Reiniciar consulta select ----
+2024-04-02T03:10:04.516Z [info]: Reiniciar consulta select ----
+2024-04-02T03:10:04.516Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:10:04.517Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:11:07.873Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:11:07.874Z [info]: Reiniciar consulta select ----
+2024-04-02T03:11:07.877Z [info]: Reiniciar consulta select ----
+2024-04-02T03:11:07.877Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:11:07.878Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:12:04.134Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:12:04.136Z [info]: Reiniciar consulta select ----
+2024-04-02T03:12:04.139Z [info]: Reiniciar consulta select ----
+2024-04-02T03:12:04.139Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:12:04.140Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:13:05.223Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:13:05.225Z [info]: Reiniciar consulta select ----
+2024-04-02T03:13:05.227Z [info]: Reiniciar consulta select ----
+2024-04-02T03:13:05.227Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:13:05.227Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:14:05.561Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:14:05.563Z [info]: Reiniciar consulta select ----
+2024-04-02T03:14:05.564Z [info]: Reiniciar consulta select ----
+2024-04-02T03:14:05.564Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:14:05.565Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:15:04.822Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:15:04.825Z [info]: Reiniciar consulta select ----
+2024-04-02T03:15:04.826Z [info]: Reiniciar consulta select ----
+2024-04-02T03:15:04.827Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:15:04.827Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:16:04.772Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:16:04.775Z [info]: Reiniciar consulta select ----
+2024-04-02T03:16:04.777Z [info]: Reiniciar consulta select ----
+2024-04-02T03:16:04.777Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:16:04.777Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:17:04.535Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:17:04.538Z [info]: Reiniciar consulta select ----
+2024-04-02T03:17:04.540Z [info]: Reiniciar consulta select ----
+2024-04-02T03:17:04.540Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:17:04.541Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:18:04.184Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:18:04.186Z [info]: Reiniciar consulta select ----
+2024-04-02T03:18:04.187Z [info]: Reiniciar consulta select ----
+2024-04-02T03:18:04.188Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:18:04.188Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:19:04.844Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:19:04.846Z [info]: Reiniciar consulta select ----
+2024-04-02T03:19:04.847Z [info]: Reiniciar consulta select ----
+2024-04-02T03:19:04.847Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:19:04.848Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:20:05.244Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:20:05.246Z [info]: Reiniciar consulta select ----
+2024-04-02T03:20:05.248Z [info]: Reiniciar consulta select ----
+2024-04-02T03:20:05.248Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:20:05.249Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:21:04.194Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:21:04.197Z [info]: Reiniciar consulta select ----
+2024-04-02T03:21:04.200Z [info]: Reiniciar consulta select ----
+2024-04-02T03:21:04.201Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:21:04.202Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:22:04.164Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:22:04.166Z [info]: Reiniciar consulta select ----
+2024-04-02T03:22:04.168Z [info]: Reiniciar consulta select ----
+2024-04-02T03:22:04.168Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:22:04.168Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:23:04.390Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:23:04.392Z [info]: Reiniciar consulta select ----
+2024-04-02T03:23:04.393Z [info]: Reiniciar consulta select ----
+2024-04-02T03:23:04.393Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:23:04.395Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:24:05.195Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:24:05.197Z [info]: Reiniciar consulta select ----
+2024-04-02T03:24:05.199Z [info]: Reiniciar consulta select ----
+2024-04-02T03:24:05.199Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:24:05.200Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:25:10.644Z [info]: Iniciando server en el puerto 3000
+2024-04-02T03:25:11.350Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-02T03:25:11.353Z [info]: Reiniciar consulta select ----
+2024-04-02T03:26:05.426Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:26:05.427Z [info]: Reiniciar consulta select ----
+2024-04-02T03:26:05.428Z [info]: Reiniciar consulta select ----
+2024-04-02T03:26:05.429Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:26:05.431Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:27:05.248Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:27:05.249Z [info]: Reiniciar consulta select ----
+2024-04-02T03:27:05.251Z [info]: Reiniciar consulta select ----
+2024-04-02T03:27:05.251Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:27:05.252Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:28:04.206Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:28:04.207Z [info]: Reiniciar consulta select ----
+2024-04-02T03:28:04.208Z [info]: Reiniciar consulta select ----
+2024-04-02T03:28:04.208Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:28:04.209Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:29:05.627Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:29:05.628Z [info]: Reiniciar consulta select ----
+2024-04-02T03:29:05.629Z [info]: Reiniciar consulta select ----
+2024-04-02T03:29:05.629Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:29:05.630Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:30:04.568Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:30:04.569Z [info]: Reiniciar consulta select ----
+2024-04-02T03:30:04.570Z [info]: Reiniciar consulta select ----
+2024-04-02T03:30:04.570Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:30:04.571Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:31:04.587Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:31:04.588Z [info]: Reiniciar consulta select ----
+2024-04-02T03:31:04.590Z [info]: Reiniciar consulta select ----
+2024-04-02T03:31:04.590Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:31:04.591Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:32:06.288Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:32:06.289Z [info]: Reiniciar consulta select ----
+2024-04-02T03:32:06.291Z [info]: Reiniciar consulta select ----
+2024-04-02T03:32:06.291Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:32:06.292Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:33:04.228Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:33:04.229Z [info]: Reiniciar consulta select ----
+2024-04-02T03:33:04.230Z [info]: Reiniciar consulta select ----
+2024-04-02T03:33:04.230Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:33:04.231Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:34:04.749Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:34:04.751Z [info]: Reiniciar consulta select ----
+2024-04-02T03:34:04.751Z [info]: Reiniciar consulta select ----
+2024-04-02T03:34:04.752Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:34:04.752Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:35:04.879Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:35:04.880Z [info]: Reiniciar consulta select ----
+2024-04-02T03:35:04.882Z [info]: Reiniciar consulta select ----
+2024-04-02T03:35:04.882Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:35:04.883Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:36:04.179Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:36:04.181Z [info]: Reiniciar consulta select ----
+2024-04-02T03:36:04.181Z [info]: Reiniciar consulta select ----
+2024-04-02T03:36:04.182Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:36:04.182Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:37:05.380Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:37:05.382Z [info]: Reiniciar consulta select ----
+2024-04-02T03:37:05.383Z [info]: Reiniciar consulta select ----
+2024-04-02T03:37:05.383Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:37:05.384Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:38:04.200Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:38:04.201Z [info]: Reiniciar consulta select ----
+2024-04-02T03:38:04.202Z [info]: Reiniciar consulta select ----
+2024-04-02T03:38:04.203Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:38:04.203Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:39:05.130Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:39:05.131Z [info]: Reiniciar consulta select ----
+2024-04-02T03:39:05.132Z [info]: Reiniciar consulta select ----
+2024-04-02T03:39:05.132Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:39:05.134Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:40:05.431Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:40:05.433Z [info]: Reiniciar consulta select ----
+2024-04-02T03:40:05.433Z [info]: Reiniciar consulta select ----
+2024-04-02T03:40:05.434Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:40:05.434Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:41:04.867Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:41:04.868Z [info]: Reiniciar consulta select ----
+2024-04-02T03:41:04.870Z [info]: Reiniciar consulta select ----
+2024-04-02T03:41:04.870Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:41:04.870Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:42:04.361Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:42:04.363Z [info]: Reiniciar consulta select ----
+2024-04-02T03:42:04.365Z [info]: Reiniciar consulta select ----
+2024-04-02T03:42:04.365Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:42:04.366Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:43:04.322Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:43:04.323Z [info]: Reiniciar consulta select ----
+2024-04-02T03:43:04.324Z [info]: Reiniciar consulta select ----
+2024-04-02T03:43:04.324Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:43:04.325Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:44:04.965Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:44:04.967Z [info]: Reiniciar consulta select ----
+2024-04-02T03:44:04.968Z [info]: Reiniciar consulta select ----
+2024-04-02T03:44:04.968Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:44:04.969Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:44:40.933Z [info]: Iniciando server en el puerto 3000
+2024-04-02T03:44:42.350Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-02T03:44:42.353Z [info]: Reiniciar consulta select ----
+2024-04-02T03:45:04.323Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:45:04.325Z [info]: Reiniciar consulta select ----
+2024-04-02T03:45:04.326Z [info]: Reiniciar consulta select ----
+2024-04-02T03:45:04.326Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:45:04.328Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:46:05.073Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:46:05.075Z [info]: Reiniciar consulta select ----
+2024-04-02T03:46:05.076Z [info]: Reiniciar consulta select ----
+2024-04-02T03:46:05.076Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:46:05.077Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:47:04.212Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:47:04.213Z [info]: Reiniciar consulta select ----
+2024-04-02T03:47:04.214Z [info]: Reiniciar consulta select ----
+2024-04-02T03:47:04.215Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:47:04.215Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:48:05.063Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:48:05.064Z [info]: Reiniciar consulta select ----
+2024-04-02T03:48:05.064Z [info]: Reiniciar consulta select ----
+2024-04-02T03:48:05.065Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:48:05.065Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:49:05.505Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:49:05.506Z [info]: Reiniciar consulta select ----
+2024-04-02T03:49:05.507Z [info]: Reiniciar consulta select ----
+2024-04-02T03:49:05.507Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:49:05.508Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:50:04.319Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:50:04.320Z [info]: Reiniciar consulta select ----
+2024-04-02T03:50:04.321Z [info]: Reiniciar consulta select ----
+2024-04-02T03:50:04.322Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:50:04.323Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:51:04.355Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:51:04.356Z [info]: Reiniciar consulta select ----
+2024-04-02T03:51:04.357Z [info]: Reiniciar consulta select ----
+2024-04-02T03:51:04.358Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:51:04.358Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:52:04.106Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:52:04.107Z [info]: Reiniciar consulta select ----
+2024-04-02T03:52:04.108Z [info]: Reiniciar consulta select ----
+2024-04-02T03:52:04.108Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:52:04.109Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:53:04.155Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:53:04.157Z [info]: Reiniciar consulta select ----
+2024-04-02T03:53:04.158Z [info]: Reiniciar consulta select ----
+2024-04-02T03:53:04.158Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:53:04.159Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:54:04.217Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T03:54:04.219Z [info]: Reiniciar consulta select ----
+2024-04-02T03:54:04.220Z [info]: Reiniciar consulta select ----
+2024-04-02T03:54:04.220Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T03:54:04.221Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T03:54:28.544Z [info]: Iniciando server en el puerto 3000
+2024-04-02T03:54:29.352Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-02T03:54:57.550Z [info]: Iniciando server en el puerto 3000
+2024-04-02T03:54:57.652Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::ffff:127.0.0.1
+2024-04-02T03:57:08.067Z [info]: Iniciando server en el puerto 3000
+2024-04-02T03:57:08.142Z [info]: Nuevo cliente detectado tipo: "web" ip:::ffff:127.0.0.1

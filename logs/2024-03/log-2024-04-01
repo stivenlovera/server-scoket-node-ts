@@ -1,0 +1,28 @@
+2024-04-01T05:22:39.536Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-01T19:24:26.320Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T19:24:26.341Z [info]: Reiniciar consulta select ----
+2024-04-01T20:25:55.658Z [info]: Cliente desconectado "worker" ip:::1
+2024-04-01T21:06:04.261Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:06:04.277Z [info]: Reiniciar consulta select ----
+2024-04-01T21:06:04.277Z [info]: Reiniciar consulta select ----
+2024-04-01T21:06:04.285Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:07:04.211Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:07:04.213Z [info]: Reiniciar consulta select ----
+2024-04-01T21:07:04.214Z [info]: Reiniciar consulta select ----
+2024-04-01T21:07:04.215Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:08:04.532Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:08:04.532Z [info]: Reiniciar consulta select ----
+2024-04-01T21:08:04.533Z [info]: Reiniciar consulta select ----
+2024-04-01T21:08:04.534Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:09:04.291Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:09:04.292Z [info]: Reiniciar consulta select ----
+2024-04-01T21:09:04.292Z [info]: Reiniciar consulta select ----
+2024-04-01T21:09:04.293Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:10:04.103Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:10:04.105Z [info]: Reiniciar consulta select ----
+2024-04-01T21:10:04.105Z [info]: Reiniciar consulta select ----
+2024-04-01T21:10:04.106Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T21:11:04.172Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T21:11:04.173Z [info]: Reiniciar consulta select ----
+2024-04-01T21:11:04.174Z [info]: Reiniciar consulta select ----
+2024-04-01T21:11:04.174Z [info]: Cliente desconectado "web" ip:::1

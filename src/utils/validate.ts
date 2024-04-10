@@ -12,6 +12,7 @@ export interface IRes<T> {
 }
 export interface WSMessage {
     event: string;
+    auth: number;
     req: any
     res: any
     data: any

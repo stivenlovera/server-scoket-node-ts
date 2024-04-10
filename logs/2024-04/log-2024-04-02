@@ -1,0 +1,4942 @@
+2024-04-02T04:27:08.952Z [info]: Iniciando server en el puerto 3000
+2024-04-02T04:27:09.296Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-02T04:27:09.299Z [info]: Reiniciar consulta select ----
+2024-04-02T04:29:28.912Z [info]: Iniciando server en el puerto 3000
+2024-04-02T04:29:30.003Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-02T04:29:30.006Z [info]: Reiniciar consulta select ----
+2024-04-02T04:31:23.344Z [info]: Iniciando server en el puerto 3000
+2024-04-02T04:31:25.549Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-02T04:32:12.968Z [info]: Iniciando server en el puerto 3000
+2024-04-02T04:32:12.969Z [info]: Creando canales {}
+2024-04-02T04:32:13.000Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::ffff:127.0.0.1
+2024-04-02T04:32:13.014Z [info]: Reiniciar consulta select ----
+2024-04-02T04:32:21.236Z [info]: Iniciando server en el puerto 3000
+2024-04-02T04:32:21.238Z [info]: Creando canales {}
+2024-04-02T04:32:22.645Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-02T04:33:45.570Z [info]: Iniciando server en el puerto 3000
+2024-04-02T04:33:45.573Z [info]: Creando canales {}
+2024-04-02T04:33:45.726Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::ffff:127.0.0.1
+2024-04-02T04:33:52.371Z [info]: Iniciando server en el puerto 3000
+2024-04-02T04:33:52.372Z [info]: Creando canales {}
+2024-04-02T04:33:52.660Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::ffff:127.0.0.1
+2024-04-02T04:33:58.893Z [info]: Iniciando server en el puerto 3000
+2024-04-02T04:33:58.895Z [info]: Creando canales {}
+2024-04-02T04:33:59.158Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::ffff:127.0.0.1
+2024-04-02T04:39:46.950Z [info]: Iniciando server en el puerto 3000
+2024-04-02T04:39:46.951Z [info]: Creando canales undefined
+2024-04-02T04:39:47.009Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-02T04:39:47.024Z [info]: Reiniciar consulta select ----
+2024-04-02T04:39:52.073Z [info]: Iniciando server en el puerto 3000
+2024-04-02T04:39:52.074Z [info]: Creando canales undefined
+2024-04-02T04:39:57.743Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-02T04:39:57.747Z [info]: Reiniciar consulta select ----
+2024-04-02T04:42:27.259Z [info]: Iniciando server en el puerto 3000
+2024-04-02T04:42:27.260Z [info]: Creando canales undefined
+2024-04-02T04:42:31.022Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-02T04:43:51.738Z [info]: Iniciando server en el puerto 3000
+2024-04-02T04:43:51.740Z [info]: Creando canales undefined
+2024-04-02T04:43:56.825Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-02T04:43:56.832Z [info]: Reiniciar consulta select ----
+2024-04-02T04:44:14.716Z [info]: Iniciando server en el puerto 3000
+2024-04-02T04:44:14.717Z [info]: Creando canales undefined
+2024-04-02T04:44:16.203Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-02T04:46:39.042Z [info]: Iniciando server en el puerto 3000
+2024-04-02T04:46:39.044Z [info]: Creando canales undefined
+2024-04-02T04:47:04.187Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T04:54:13.752Z [info]: Iniciando server en el puerto 3000
+2024-04-02T04:54:13.753Z [info]: Creando canales undefined
+2024-04-02T04:55:04.127Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T05:24:11.641Z [info]: Iniciando server en el puerto 3000
+2024-04-02T05:24:11.642Z [info]: Creando canales undefined
+2024-04-02T05:24:59.137Z [info]: Iniciando server en el puerto :3000
+2024-04-02T05:25:04.187Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T05:25:04.190Z [info]: Reiniciar consulta select ----
+2024-04-02T05:25:04.191Z [info]: Reiniciar consulta select ----
+2024-04-02T05:25:04.192Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T05:25:04.195Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T05:26:04.225Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T05:26:04.226Z [info]: Reiniciar consulta select ----
+2024-04-02T05:26:04.227Z [info]: Reiniciar consulta select ----
+2024-04-02T05:26:04.227Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T05:26:04.229Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T05:27:04.195Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T05:27:04.196Z [info]: Reiniciar consulta select ----
+2024-04-02T05:27:04.197Z [info]: Reiniciar consulta select ----
+2024-04-02T05:27:04.197Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T05:27:04.199Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T05:28:04.166Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T05:28:04.167Z [info]: Reiniciar consulta select ----
+2024-04-02T05:28:04.168Z [info]: Reiniciar consulta select ----
+2024-04-02T05:28:04.168Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T05:28:04.170Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T05:29:04.184Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T05:29:04.186Z [info]: Reiniciar consulta select ----
+2024-04-02T05:29:04.188Z [info]: Reiniciar consulta select ----
+2024-04-02T05:29:04.188Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T05:29:04.189Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T05:30:09.415Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T05:30:09.416Z [info]: Reiniciar consulta select ----
+2024-04-02T05:30:09.417Z [info]: Reiniciar consulta select ----
+2024-04-02T05:30:09.417Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T05:30:09.418Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T05:30:39.993Z [info]: Iniciando server en el puerto :3000
+2024-04-02T05:31:04.898Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T05:31:04.900Z [info]: Reiniciar consulta select ----
+2024-04-02T05:31:04.901Z [info]: Reiniciar consulta select ----
+2024-04-02T05:31:04.902Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T05:31:04.905Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T05:31:55.373Z [info]: Iniciando server en el puerto :3000
+2024-04-02T05:33:08.366Z [info]: Iniciando server en el puerto :3000
+2024-04-02T05:33:11.173Z [info]: canales :[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2024-04-02T05:34:04.088Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T05:34:04.092Z [info]: Reiniciar consulta select ----
+2024-04-02T05:34:04.093Z [info]: Reiniciar consulta select ----
+2024-04-02T05:34:04.094Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T05:34:04.096Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T05:34:38.318Z [info]: Iniciando server en el puerto :3000
+2024-04-02T05:34:40.999Z [info]: canales :[
+	{
+		"nombre_worker": "cliente-1"
+	},
+	{
+		"nombre_worker": "cliente-2"
+	},
+	{
+		"nombre_worker": "cliente-3"
+	},
+	{
+		"nombre_worker": "woker-1"
+	},
+	{
+		"nombre_worker": "woker-2"
+	},
+	{
+		"nombre_worker": "server"
+	}
+]
+2024-04-02T05:35:04.199Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T05:35:04.202Z [info]: Reiniciar consulta select ----
+2024-04-02T05:35:04.203Z [info]: Reiniciar consulta select ----
+2024-04-02T05:35:04.203Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T05:35:04.205Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T05:36:04.268Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T05:36:04.269Z [info]: Reiniciar consulta select ----
+2024-04-02T05:36:04.269Z [info]: Reiniciar consulta select ----
+2024-04-02T05:36:04.270Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T05:36:04.270Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T05:37:04.430Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T05:37:04.431Z [info]: Reiniciar consulta select ----
+2024-04-02T05:37:04.432Z [info]: Reiniciar consulta select ----
+2024-04-02T05:37:04.433Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T05:37:04.434Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T05:37:25.005Z [info]: Iniciando server en el puerto :3000
+2024-04-02T05:37:27.787Z [info]: canales :[
+	{
+		"nombre_worker": "cliente-1"
+	},
+	{
+		"nombre_worker": "cliente-2"
+	},
+	{
+		"nombre_worker": "cliente-3"
+	},
+	{
+		"nombre_worker": "woker-1"
+	},
+	{
+		"nombre_worker": "woker-2"
+	},
+	{
+		"nombre_worker": "server"
+	}
+]
+2024-04-02T05:38:04.150Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T05:38:04.153Z [info]: Reiniciar consulta select ----
+2024-04-02T05:38:04.155Z [info]: Reiniciar consulta select ----
+2024-04-02T05:38:04.155Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T05:38:04.157Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T05:38:51.734Z [info]: Iniciando server en el puerto :3000
+2024-04-02T05:38:54.487Z [info]: canales detectados:[
+	{
+		"nombre_worker": "cliente-1"
+	},
+	{
+		"nombre_worker": "cliente-2"
+	},
+	{
+		"nombre_worker": "cliente-3"
+	},
+	{
+		"nombre_worker": "woker-1"
+	},
+	{
+		"nombre_worker": "woker-2"
+	},
+	{
+		"nombre_worker": "server"
+	}
+]
+2024-04-02T05:39:04.350Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T05:40:51.252Z [info]: Iniciando server en el puerto :3000
+2024-04-02T05:40:54.110Z [info]: canales detectados:{
+	"cliente-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-3": {
+		"message": "",
+		"subscribers": []
+	},
+	"woker-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"woker-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"server": {
+		"message": "",
+		"subscribers": []
+	}
+}
+2024-04-02T05:41:04.281Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T05:41:36.326Z [info]: Iniciando server en el puerto :3000
+2024-04-02T05:41:39.761Z [info]: canales detectados:{
+	"cliente-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-3": {
+		"message": "",
+		"subscribers": []
+	},
+	"woker-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"woker-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"server": {
+		"message": "",
+		"subscribers": []
+	}
+}
+2024-04-02T05:42:04.111Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T05:46:47.879Z [info]: Iniciando server en el puerto :3000
+2024-04-02T05:46:50.632Z [info]: canales detectados:{
+	"cliente-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-3": {
+		"message": "",
+		"subscribers": []
+	},
+	"woker-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"woker-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"server": {
+		"message": "",
+		"subscribers": []
+	}
+}
+2024-04-02T05:47:04.173Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T05:48:10.456Z [info]: Iniciando server en el puerto :3000
+2024-04-02T05:48:11.437Z [info]: Iniciando server en el puerto :3000
+2024-04-02T05:48:14.162Z [info]: canales detectados:{
+	"cliente-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-3": {
+		"message": "",
+		"subscribers": []
+	},
+	"woker-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"woker-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"server": {
+		"message": "",
+		"subscribers": []
+	}
+}
+2024-04-02T05:49:04.215Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T05:49:11.870Z [info]: Iniciando server en el puerto :3000
+2024-04-02T05:49:14.063Z [info]: Iniciando server en el puerto :3000
+2024-04-02T05:49:16.812Z [info]: canales detectados:{
+	"cliente-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-3": {
+		"message": "",
+		"subscribers": []
+	},
+	"woker-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"woker-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"server": {
+		"message": "",
+		"subscribers": []
+	}
+}
+2024-04-02T05:50:04.224Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T05:50:04.226Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T05:50:04.228Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T05:51:04.853Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T05:51:04.854Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T05:51:04.855Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T05:52:04.152Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T05:52:04.153Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T05:52:04.154Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T05:53:05.233Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T05:53:05.233Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T05:53:05.234Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T05:54:04.245Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T05:54:04.246Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T05:54:04.248Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T05:55:04.154Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T05:55:04.155Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T05:55:04.156Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T05:56:04.555Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T05:56:04.556Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T05:56:04.557Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T05:57:04.216Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T05:57:04.217Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T05:57:04.218Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T05:58:04.675Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T05:58:04.675Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T05:58:04.676Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T05:58:20.654Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-02T05:58:31.875Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-02T05:59:04.264Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T05:59:04.265Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T05:59:04.265Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T05:59:12.784Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-02T05:59:25.473Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T05:59:25.981Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-02T05:59:25.983Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T05:59:27.373Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.88.30",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "cliente-1"
+}
+2024-04-02T06:05:13.554Z [info]: Iniciando server en el puerto :3000
+2024-04-02T06:05:16.248Z [info]: canales detectados:{
+	"cliente-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-3": {
+		"message": "",
+		"subscribers": []
+	},
+	"woker-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"woker-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"server": {
+		"message": "",
+		"subscribers": []
+	}
+}
+2024-04-02T06:05:26.468Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T06:05:26.998Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-02T06:05:27.001Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T06:05:28.335Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.88.30",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "cliente-1"
+}
+2024-04-02T06:10:35.531Z [info]: Iniciando server en el puerto :3000
+2024-04-02T06:10:38.266Z [info]: canales detectados:{
+	"cliente-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-3": {
+		"message": "",
+		"subscribers": []
+	},
+	"woker-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"woker-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"server": {
+		"message": "",
+		"subscribers": []
+	}
+}
+2024-04-02T06:10:46.026Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T06:10:46.539Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-02T06:10:46.542Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T06:10:46.825Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.88.30",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": [],
+		"auth": "",
+		"notificacion": "data"
+	},
+	"channel": "cliente-1"
+}
+2024-04-02T06:11:14.926Z [info]: Iniciando server en el puerto :3000
+2024-04-02T06:11:17.899Z [info]: canales detectados:{
+	"cliente-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-3": {
+		"message": "",
+		"subscribers": []
+	},
+	"woker-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"woker-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"server": {
+		"message": "",
+		"subscribers": []
+	}
+}
+2024-04-02T06:11:23.995Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T06:11:24.504Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-02T06:11:24.507Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T06:11:24.769Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.88.30",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": [],
+		"auth": "",
+		"notificacion": "data"
+	},
+	"channel": "cliente-1"
+}
+2024-04-02T06:11:50.147Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T06:11:50.657Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-02T06:11:50.659Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T06:11:51.977Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.88.30",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": [],
+		"auth": "",
+		"notificacion": "data"
+	},
+	"channel": "cliente-1"
+}
+2024-04-02T06:12:00.769Z [info]: Iniciando server en el puerto :3000
+2024-04-02T06:12:03.518Z [info]: canales detectados:{
+	"cliente-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-3": {
+		"message": "",
+		"subscribers": []
+	},
+	"woker-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"woker-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"server": {
+		"message": "",
+		"subscribers": []
+	}
+}
+2024-04-02T06:12:04.109Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T06:12:04.111Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T06:12:04.114Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T06:12:35.211Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T06:12:35.716Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-02T06:12:35.718Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T06:12:37.057Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.88.30",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": [],
+		"auth": "",
+		"notificacion": "data"
+	},
+	"channel": "cliente-1"
+}
+2024-04-02T06:12:58.912Z [info]: Iniciando server en el puerto :3000
+2024-04-02T06:13:01.592Z [info]: canales detectados:{
+	"cliente-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-3": {
+		"message": "",
+		"subscribers": []
+	},
+	"woker-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"woker-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"server": {
+		"message": "",
+		"subscribers": []
+	}
+}
+2024-04-02T06:13:11.137Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T06:13:11.643Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-02T06:13:11.646Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T06:13:12.967Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.88.30",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": [],
+		"auth": "",
+		"notificacion": "data"
+	},
+	"channel": "cliente-1"
+}
+2024-04-02T06:13:30.060Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T06:13:30.571Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-02T06:13:30.572Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T06:13:31.895Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.88.30",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": [],
+		"auth": "",
+		"notificacion": "data"
+	},
+	"channel": "cliente-1"
+}
+2024-04-02T06:15:23.109Z [info]: Iniciando server en el puerto :3000
+2024-04-02T06:15:24.003Z [info]: Iniciando server en el puerto :3000
+2024-04-02T06:15:26.725Z [info]: canales detectados:{
+	"cliente-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-3": {
+		"message": "",
+		"subscribers": []
+	},
+	"woker-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"woker-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"server": {
+		"message": "",
+		"subscribers": []
+	}
+}
+2024-04-02T06:15:43.314Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T06:15:43.824Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-02T06:15:43.828Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T06:15:50.422Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.88.30",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": [],
+		"auth": "",
+		"notificacion": "data"
+	},
+	"channel": "cliente-1"
+}
+2024-04-02T06:19:31.517Z [info]: Iniciando server en el puerto :3000
+2024-04-02T06:19:34.606Z [info]: canales detectados:{
+	"cliente-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-3": {
+		"message": "",
+		"subscribers": []
+	},
+	"worker-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"worker-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"server": {
+		"message": "",
+		"subscribers": []
+	}
+}
+2024-04-02T06:19:34.769Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-02T06:19:47.513Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T06:19:48.020Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-02T06:19:48.023Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T06:19:50.558Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.88.30",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": [],
+		"auth": "",
+		"notificacion": "data"
+	},
+	"channel": "cliente-1"
+}
+2024-04-02T06:20:32.231Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-02T06:20:32.807Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-02T06:20:48.791Z [info]: Cliente desconectado "worker" ip:::1
+2024-04-02T06:20:50.345Z [info]: Cliente desconectado "worker" ip:::1
+2024-04-02T06:21:05.192Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-02T06:21:16.083Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T06:21:16.625Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-02T06:21:16.627Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T06:21:18.012Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.88.30",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": [],
+		"auth": "",
+		"notificacion": "data"
+	},
+	"channel": "cliente-1"
+}
+2024-04-02T06:21:39.294Z [info]: deleteAutomaticoUsuario channel:server event: "deleteAutomatico:finalize"
+2024-04-02T06:23:03.510Z [info]: Iniciando server en el puerto :3000
+2024-04-02T06:23:06.240Z [info]: canales detectados:{
+	"cliente-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-3": {
+		"message": "",
+		"subscribers": []
+	},
+	"worker-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"worker-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"server": {
+		"message": "",
+		"subscribers": []
+	}
+}
+2024-04-02T06:23:15.500Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T06:23:16.006Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-02T06:23:16.009Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T06:23:16.261Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.88.30",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": [],
+		"auth": "",
+		"notificacion": "data"
+	},
+	"channel": "cliente-1"
+}
+2024-04-02T06:24:05.496Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-02T06:24:11.446Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T06:24:11.953Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-02T06:24:11.954Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T06:24:13.361Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.88.30",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": [],
+		"auth": "",
+		"notificacion": "data"
+	},
+	"channel": "cliente-1"
+}
+2024-04-02T06:24:34.543Z [info]: deleteAutomaticoUsuario channel:server event: "deleteAutomatico:finalize"
+2024-04-02T06:25:47.170Z [info]: Iniciando server en el puerto :3000
+2024-04-02T06:25:49.939Z [info]: canales detectados:{
+	"cliente-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-3": {
+		"message": "",
+		"subscribers": []
+	},
+	"worker-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"worker-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"server": {
+		"message": "",
+		"subscribers": []
+	}
+}
+2024-04-02T06:26:32.221Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T06:26:32.730Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-02T06:26:32.733Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T06:26:34.297Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": [],
+		"auth": "",
+		"notificacion": "data"
+	},
+	"channel": "cliente-1"
+}
+2024-04-02T06:26:42.573Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-02T06:27:22.562Z [info]: Iniciando server en el puerto :3000
+2024-04-02T06:27:26.752Z [info]: canales detectados:{
+	"cliente-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-3": {
+		"message": "",
+		"subscribers": []
+	},
+	"worker-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"worker-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"server": {
+		"message": "",
+		"subscribers": []
+	}
+}
+2024-04-02T06:27:38.531Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T06:27:39.546Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-02T06:27:39.550Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T06:27:41.827Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "cliente-1"
+}
+2024-04-02T06:28:48.688Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-02T06:28:55.100Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T06:28:55.613Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-02T06:28:55.615Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T06:28:56.921Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "cliente-1"
+}
+2024-04-02T06:29:18.201Z [info]: deleteAutomaticoUsuario channel:server event: "deleteAutomatico:finalize"
+2024-04-02T06:30:04.951Z [info]: Iniciando server en el puerto :3000
+2024-04-02T06:30:19.514Z [info]: canales detectados:{
+	"cliente-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-3": {
+		"message": "",
+		"subscribers": []
+	},
+	"worker-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"worker-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"server": {
+		"message": "",
+		"subscribers": []
+	}
+}
+2024-04-02T06:30:22.226Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-02T06:30:36.468Z [info]: Cliente desconectado "worker" ip:::1
+2024-04-02T06:30:39.001Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T06:30:39.510Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-02T06:30:39.513Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T06:30:40.962Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.247",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "cliente-1"
+}
+2024-04-02T06:30:54.625Z [info]: Iniciando server en el puerto :3000
+2024-04-02T06:30:58.246Z [info]: canales detectados:{
+	"cliente-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-3": {
+		"message": "",
+		"subscribers": []
+	},
+	"worker-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"worker-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"server": {
+		"message": "",
+		"subscribers": []
+	}
+}
+2024-04-02T06:31:03.667Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-02T06:31:40.117Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T06:31:40.627Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-02T06:31:40.630Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T06:31:41.962Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.247",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "cliente-1"
+}
+2024-04-02T06:31:42.349Z [info]: deleteAutomaticoUsuario channel:server event: "deleteAutomatico:finalize"
+2024-04-02T06:31:42.350Z [info]:  req => [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.247",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfoSearchCond": {
+				"searchID": "1",
+				"maxResults": 10000,
+				"searchResultPosition": 0
+			}
+		}
+	}
+]
+2024-04-02T06:31:42.351Z [info]:  res => [
+	{
+		"statusDescription": "OK",
+		"statusCode": 200,
+		"data": {
+			"UserInfoSearch": {
+				"searchID": "1",
+				"responseStatusStrg": "OK",
+				"numOfMatches": 2,
+				"totalMatches": 2,
+				"UserInfo": [
+					{
+						"employeeNo": "34242",
+						"name": "sdasda",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-27T00:00:00",
+							"endTime": "2034-03-27T23:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "1",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": "1"
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 0,
+						"groupId": 1,
+						"localAtndPlanTemplateId": 0
+					},
+					{
+						"employeeNo": "47",
+						"name": "stiven 7",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-29T20:00:00",
+							"endTime": "2024-04-29T19:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": ""
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 1,
+						"groupId": 0,
+						"localAtndPlanTemplateId": 0
+					}
+				]
+			}
+		}
+	}
+]
+2024-04-02T06:31:42.354Z [info]: lector 192.168.1.247 => {
+	"enable": true,
+	"beginTime": "2024-03-27T00:00:00",
+	"endTime": "2034-03-27T23:59:59",
+	"timeType": "local"
+}
+2024-04-02T06:31:42.356Z [info]: lector 192.168.1.247 => {
+	"enable": true,
+	"beginTime": "2024-03-29T20:00:00",
+	"endTime": "2024-04-29T19:59:59",
+	"timeType": "local"
+}
+2024-04-02T06:31:42.357Z [info]: usuarios a eliminar {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "delete:init",
+		"req": [],
+		"res": [],
+		"data": []
+	}
+}
+2024-04-02T06:32:32.405Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-02T06:33:09.225Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T06:33:09.731Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-02T06:33:09.733Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T06:33:11.072Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.247",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "cliente-1"
+}
+2024-04-02T06:33:11.305Z [info]: deleteAutomaticoUsuario channel:server event: "deleteAutomatico:finalize"
+2024-04-02T06:33:11.305Z [info]:  req => [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.247",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfoSearchCond": {
+				"searchID": "1",
+				"maxResults": 10000,
+				"searchResultPosition": 0
+			}
+		}
+	}
+]
+2024-04-02T06:33:11.306Z [info]:  res => [
+	{
+		"statusDescription": "OK",
+		"statusCode": 200,
+		"data": {
+			"UserInfoSearch": {
+				"searchID": "1",
+				"responseStatusStrg": "OK",
+				"numOfMatches": 2,
+				"totalMatches": 2,
+				"UserInfo": [
+					{
+						"employeeNo": "34242",
+						"name": "sdasda",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-27T00:00:00",
+							"endTime": "2034-03-27T23:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "1",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": "1"
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 0,
+						"groupId": 1,
+						"localAtndPlanTemplateId": 0
+					},
+					{
+						"employeeNo": "47",
+						"name": "stiven 7",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-29T20:00:00",
+							"endTime": "2024-04-29T19:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": ""
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 1,
+						"groupId": 0,
+						"localAtndPlanTemplateId": 0
+					}
+				]
+			}
+		}
+	}
+]
+2024-04-02T06:33:11.310Z [info]: lector 192.168.1.247 => {
+	"enable": true,
+	"beginTime": "2024-03-27T00:00:00",
+	"endTime": "2034-03-27T23:59:59",
+	"timeType": "local"
+}
+2024-04-02T06:33:11.310Z [info]: lector 192.168.1.247 => {
+	"enable": true,
+	"beginTime": "2024-03-29T20:00:00",
+	"endTime": "2024-04-29T19:59:59",
+	"timeType": "local"
+}
+2024-04-02T06:33:11.311Z [info]: usuarios a eliminar {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "delete:init",
+		"req": [],
+		"res": [],
+		"data": []
+	}
+}
+2024-04-02T06:34:13.563Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T06:34:14.065Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-02T06:34:14.067Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T06:34:15.410Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.247",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "cliente-1"
+}
+2024-04-02T06:34:15.660Z [info]: deleteAutomaticoUsuario channel:server event: "deleteAutomatico:finalize"
+2024-04-02T06:34:15.660Z [info]:  req => [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.247",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfoSearchCond": {
+				"searchID": "1",
+				"maxResults": 10000,
+				"searchResultPosition": 0
+			}
+		}
+	}
+]
+2024-04-02T06:34:15.661Z [info]:  res => [
+	{
+		"statusDescription": "OK",
+		"statusCode": 200,
+		"data": {
+			"UserInfoSearch": {
+				"searchID": "1",
+				"responseStatusStrg": "OK",
+				"numOfMatches": 2,
+				"totalMatches": 2,
+				"UserInfo": [
+					{
+						"employeeNo": "34242",
+						"name": "sdasda",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-27T00:00:00",
+							"endTime": "2034-03-27T23:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "1",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": "1"
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 0,
+						"groupId": 1,
+						"localAtndPlanTemplateId": 0
+					},
+					{
+						"employeeNo": "47",
+						"name": "stiven 7",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-29T20:00:00",
+							"endTime": "2024-04-29T19:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": ""
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 1,
+						"groupId": 0,
+						"localAtndPlanTemplateId": 0
+					}
+				]
+			}
+		}
+	}
+]
+2024-04-02T06:34:15.664Z [info]: lector 192.168.1.247 => {
+	"enable": true,
+	"beginTime": "2024-03-27T00:00:00",
+	"endTime": "2034-03-27T23:59:59",
+	"timeType": "local"
+}
+2024-04-02T06:34:15.665Z [info]: lector 192.168.1.247 => {
+	"enable": true,
+	"beginTime": "2024-03-29T20:00:00",
+	"endTime": "2024-04-29T19:59:59",
+	"timeType": "local"
+}
+2024-04-02T06:34:15.665Z [info]: usuarios a eliminar {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "delete:init",
+		"req": [],
+		"res": [],
+		"data": []
+	}
+}
+2024-04-02T06:35:09.121Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T06:35:09.626Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-02T06:35:09.627Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T06:35:10.990Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.247",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "cliente-1"
+}
+2024-04-02T06:35:11.253Z [info]: deleteAutomaticoUsuario channel:server event: "deleteAutomatico:finalize"
+2024-04-02T06:35:11.253Z [info]:  req => [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.247",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfoSearchCond": {
+				"searchID": "1",
+				"maxResults": 10000,
+				"searchResultPosition": 0
+			}
+		}
+	}
+]
+2024-04-02T06:35:11.254Z [info]:  res => [
+	{
+		"statusDescription": "OK",
+		"statusCode": 200,
+		"data": {
+			"UserInfoSearch": {
+				"searchID": "1",
+				"responseStatusStrg": "OK",
+				"numOfMatches": 2,
+				"totalMatches": 2,
+				"UserInfo": [
+					{
+						"employeeNo": "34242",
+						"name": "sdasda",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-27T00:00:00",
+							"endTime": "2034-03-27T23:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "1",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": "1"
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 0,
+						"groupId": 1,
+						"localAtndPlanTemplateId": 0
+					},
+					{
+						"employeeNo": "47",
+						"name": "stiven 7",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-29T20:00:00",
+							"endTime": "2024-04-29T19:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": ""
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 1,
+						"groupId": 0,
+						"localAtndPlanTemplateId": 0
+					}
+				]
+			}
+		}
+	}
+]
+2024-04-02T06:35:11.256Z [info]: lector 192.168.1.247 => {
+	"enable": true,
+	"beginTime": "2024-03-27T00:00:00",
+	"endTime": "2034-03-27T23:59:59",
+	"timeType": "local"
+}
+2024-04-02T06:35:11.257Z [info]: lector 192.168.1.247 => {
+	"enable": true,
+	"beginTime": "2024-03-29T20:00:00",
+	"endTime": "2024-04-29T19:59:59",
+	"timeType": "local"
+}
+2024-04-02T06:35:11.257Z [info]: usuarios a eliminar {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "delete:init",
+		"req": [],
+		"res": [],
+		"data": []
+	}
+}
+2024-04-02T23:21:05.762Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T23:21:05.779Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T23:21:05.786Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T23:22:04.240Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T23:22:04.241Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T23:22:04.245Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T23:23:04.176Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T23:23:04.177Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T23:23:04.178Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T23:24:04.157Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T23:24:04.158Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T23:24:04.159Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T23:25:04.416Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T23:25:04.417Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T23:25:04.418Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T23:26:04.167Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T23:26:04.168Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T23:26:04.169Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T23:47:04.834Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T23:47:04.835Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T23:47:04.837Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T23:48:04.255Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T23:48:04.256Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T23:48:04.257Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T23:49:04.276Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T23:49:04.277Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T23:49:04.278Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T23:50:04.114Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T23:50:04.114Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T23:50:04.116Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T23:52:04.225Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T23:52:04.226Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T23:52:04.227Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T23:53:04.156Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T23:53:04.157Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T23:53:04.158Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T23:54:04.145Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T23:54:04.146Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T23:54:04.147Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T23:55:04.136Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T23:55:04.137Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T23:55:04.139Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T23:56:04.107Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T23:56:04.108Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T23:56:04.109Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T23:57:04.167Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T23:57:04.168Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T23:57:04.169Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T23:58:04.107Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T23:58:04.108Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T23:58:04.110Z [info]: Cliente desconectado "web" ip:::1
+2024-04-02T23:59:04.188Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-02T23:59:04.189Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-02T23:59:04.190Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:00:04.198Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:00:04.199Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:00:04.200Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:01:04.527Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:01:04.528Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:01:04.529Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:02:04.209Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:02:04.210Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:02:04.211Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:03:04.400Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:03:04.401Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:03:04.403Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:04:04.382Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:04:04.384Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:04:04.386Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:05:04.219Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:05:04.220Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:05:04.223Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:06:04.279Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:06:04.280Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:06:04.281Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:07:04.219Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:07:04.220Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:07:04.221Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:08:04.190Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:08:04.191Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:08:04.192Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:09:04.260Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:09:04.261Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:09:04.262Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:10:04.429Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:10:04.431Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:10:04.433Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:11:04.220Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:11:04.221Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:11:04.222Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:12:04.411Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:12:04.412Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:12:04.413Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:13:04.132Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:13:04.134Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:13:04.135Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:14:04.331Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:14:04.332Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:14:04.333Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:15:09.342Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:15:09.343Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:15:09.344Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:16:04.673Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:16:04.674Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:16:04.675Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:17:04.442Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:17:04.442Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:17:04.443Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:18:04.211Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:18:04.212Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:18:04.213Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:19:04.212Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:19:04.213Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:19:04.214Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:20:04.273Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:20:04.274Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:20:04.276Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:21:04.283Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:21:04.284Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:21:04.285Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:22:04.204Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:22:04.205Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:22:04.206Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:23:04.193Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:23:04.194Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:23:04.196Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:24:04.215Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:24:04.216Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:24:04.217Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:25:04.314Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:25:04.315Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:25:04.317Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:26:04.234Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:26:04.235Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:26:04.236Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:27:04.265Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:27:04.266Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:27:04.267Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:28:04.244Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:28:04.245Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:28:04.247Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:29:04.081Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:29:04.082Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:29:04.084Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:30:04.175Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:30:04.176Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:30:04.177Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:31:04.696Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:31:04.697Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:31:04.698Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:32:04.270Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:32:04.271Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:32:04.273Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:33:04.346Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:33:04.347Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:33:04.348Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:34:04.267Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:34:04.269Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:34:04.270Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:35:04.117Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:35:04.118Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:35:04.120Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:36:04.144Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:36:04.145Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:36:04.146Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:37:04.149Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:37:04.150Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:37:04.152Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:38:04.086Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:38:04.087Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:38:04.089Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:39:04.150Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:39:04.151Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:39:04.152Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:40:04.200Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:40:04.200Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:40:04.202Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:41:04.258Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:41:04.259Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:41:04.261Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:42:04.221Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:42:04.222Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:42:04.223Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:43:04.190Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:43:04.191Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:43:04.197Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:44:04.209Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:44:04.210Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:44:04.212Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:45:04.069Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:45:04.070Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:45:04.071Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:46:04.389Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:46:04.390Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:46:04.391Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:47:04.169Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:47:04.170Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:47:04.171Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:48:04.230Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:48:04.231Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:48:04.233Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:49:04.151Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:49:04.152Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:49:04.155Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:50:04.131Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:50:04.132Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:50:04.133Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:51:04.181Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:51:04.182Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:51:04.183Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:52:04.252Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:52:04.253Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:52:04.255Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:53:04.111Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:53:04.112Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:53:04.113Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:54:04.152Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:54:04.152Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:54:04.153Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:55:04.262Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:55:04.262Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:55:04.264Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:56:04.112Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:56:04.113Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:56:04.114Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:57:04.194Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:57:04.195Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:57:04.196Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:58:04.124Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:58:04.125Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:58:04.126Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T00:59:04.356Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T00:59:04.357Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T00:59:04.359Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:00:14.514Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:00:14.515Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:00:14.517Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:01:04.404Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:01:04.405Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:01:04.406Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:02:04.145Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:02:04.146Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:02:04.148Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:03:04.034Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:03:04.035Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:03:04.036Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:04:04.206Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:04:04.207Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:04:04.209Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:05:04.640Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:05:04.640Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:05:04.642Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:06:04.186Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:06:04.187Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:06:04.189Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:07:04.274Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:07:04.275Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:07:04.277Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:08:04.077Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:08:04.077Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:08:04.079Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:09:04.570Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:09:04.571Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:09:04.573Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:10:04.066Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:10:04.067Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:10:04.069Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:11:04.236Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:11:04.237Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:11:04.238Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:12:04.123Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:12:04.124Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:12:04.125Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:13:04.220Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:13:04.221Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:13:04.222Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:14:10.810Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:14:10.826Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:14:10.833Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:15:04.287Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:15:04.288Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:15:04.290Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:16:04.816Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:16:04.816Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:16:04.818Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:17:04.828Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:17:04.828Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:17:04.830Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:18:04.038Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:18:04.039Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:18:04.040Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:19:04.158Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:19:04.159Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:19:04.160Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:21:04.064Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:21:04.064Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:21:04.066Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:22:04.213Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:22:04.214Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:22:04.215Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:23:04.148Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:23:04.149Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:23:04.150Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:24:04.201Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:24:04.202Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:24:04.203Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:25:04.221Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:25:04.223Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:25:04.224Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:26:04.071Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:26:04.072Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:26:04.074Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:27:04.330Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:27:04.331Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:27:04.332Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:28:04.060Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:28:04.061Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:28:04.062Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:29:04.121Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:29:04.121Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:29:04.122Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:30:04.211Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:30:04.213Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:30:04.215Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:31:04.400Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:31:04.401Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:31:04.403Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:32:04.514Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:32:04.516Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:32:04.518Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:33:04.143Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:33:04.144Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:33:04.145Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:34:04.147Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:34:04.148Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:34:04.150Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:35:04.264Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:35:04.265Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:35:04.266Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:36:04.204Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:36:04.205Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:36:04.207Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:37:04.225Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:37:04.226Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:37:04.228Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:38:04.000Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:38:04.001Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:38:04.002Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:39:04.255Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:39:04.266Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:39:04.268Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:40:04.905Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:40:04.906Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:40:04.907Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:41:04.125Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:41:04.126Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:41:04.128Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:42:04.246Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:42:04.246Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:42:04.247Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:43:04.106Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:43:04.107Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:43:04.107Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:44:04.251Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:44:04.252Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:44:04.255Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:45:09.568Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:45:09.571Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:45:09.573Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:46:04.607Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:46:04.608Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:46:04.609Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:47:04.174Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:47:04.174Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:47:04.175Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:48:04.234Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:48:04.235Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:48:04.236Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:49:04.277Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:49:04.278Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:49:04.279Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:50:04.198Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:50:04.200Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:50:04.202Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:51:04.165Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:51:04.166Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:51:04.169Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:52:04.169Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:52:04.170Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:52:04.172Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:53:04.979Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:53:04.979Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:53:04.980Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:54:04.219Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:54:04.220Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:54:04.222Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:55:04.143Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:55:04.144Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:55:04.147Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:56:04.161Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:56:04.162Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:56:04.164Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:57:04.229Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:57:04.230Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:57:04.231Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:58:04.450Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:58:04.451Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:58:04.452Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T01:59:04.346Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T01:59:04.347Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T01:59:04.348Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:00:14.531Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:00:14.532Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:00:14.534Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:01:04.280Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:01:04.281Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:01:04.282Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:02:04.261Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:02:04.262Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:02:04.264Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:03:04.383Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:03:04.384Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:03:04.385Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:04:04.182Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:04:04.183Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:04:04.185Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:05:04.172Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:05:04.173Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:05:04.174Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:06:04.153Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:06:04.154Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:06:04.155Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:07:04.223Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:07:04.224Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:07:04.225Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:08:04.193Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:08:04.194Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:08:04.195Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:09:04.183Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:09:04.184Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:09:04.186Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:10:04.704Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:10:04.705Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:10:04.707Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:11:04.535Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:11:04.536Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:11:04.539Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:12:04.225Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:12:04.226Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:12:04.227Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:13:04.405Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:13:04.406Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:13:04.407Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:14:04.215Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:14:04.217Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:14:04.219Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:15:04.207Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:15:04.207Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:15:04.209Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:16:05.094Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:16:05.095Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:16:05.096Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:17:04.340Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:17:04.341Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:17:04.343Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:18:04.167Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:18:04.168Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:18:04.170Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:19:04.198Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:19:04.199Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:19:04.201Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:20:04.223Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:20:04.225Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:20:04.226Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:21:04.417Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:21:04.418Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:21:04.419Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:22:04.301Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:22:04.302Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:22:04.303Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:23:04.309Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:23:04.310Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:23:04.311Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:24:04.233Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:24:04.234Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:24:04.236Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:25:04.226Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:25:04.227Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:25:04.230Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:26:04.324Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:26:04.324Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:26:04.327Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:27:04.242Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:27:04.243Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:27:04.245Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:28:04.195Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:28:04.196Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:28:04.197Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:29:04.579Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:29:04.580Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:29:04.582Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:30:04.259Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:30:04.259Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:30:04.262Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:31:04.522Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:31:04.523Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:31:04.525Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:32:04.290Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:32:04.291Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:32:04.292Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:33:04.192Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:33:04.192Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:33:04.194Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:34:04.495Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:34:04.496Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:34:04.499Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:35:04.179Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:35:04.180Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:35:04.181Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:36:04.332Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:36:04.333Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:36:04.334Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:37:04.212Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:37:04.213Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:37:04.215Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:38:04.224Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:38:04.225Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:38:04.226Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:39:04.239Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:39:04.239Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:39:04.241Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:40:04.444Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:40:04.445Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:40:04.447Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:41:04.354Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:41:04.355Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:41:04.356Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:42:04.151Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:42:04.153Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:42:04.155Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:43:04.259Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:43:04.261Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:43:04.265Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:44:04.415Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:44:04.415Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:44:04.418Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:45:04.385Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:45:04.385Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:45:04.387Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:46:04.664Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:46:04.665Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:46:04.667Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:47:16.817Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:47:16.841Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:47:16.853Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:48:04.566Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:48:04.568Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:48:04.573Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:49:04.492Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:49:04.493Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:49:04.494Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:50:04.532Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:50:04.533Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:50:04.536Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:51:04.488Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:51:04.489Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:51:04.493Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:52:04.379Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:52:04.380Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:52:04.382Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:53:04.358Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:53:04.360Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:53:04.361Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:54:04.329Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:54:04.330Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:54:04.332Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:55:04.596Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:55:04.597Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:55:04.598Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:56:04.347Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:56:04.348Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:56:04.351Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:57:04.469Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:57:04.470Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:57:04.472Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:58:04.490Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:58:04.491Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:58:04.495Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T02:59:04.400Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T02:59:04.401Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T02:59:04.403Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:00:04.392Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:00:04.393Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:00:04.394Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:01:04.859Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:01:04.861Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:01:04.864Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:02:05.041Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:02:05.042Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:02:05.046Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:03:04.721Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:03:04.722Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:03:04.724Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:04:04.221Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:04:04.222Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:04:04.223Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:05:04.222Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:05:04.223Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:05:04.225Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:06:04.191Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:06:04.192Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:06:04.194Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:07:04.273Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:07:04.274Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:07:04.277Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:08:04.492Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:08:04.494Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:08:04.496Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:09:04.295Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:09:04.296Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:09:04.297Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:10:04.161Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:10:04.161Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:10:04.163Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:11:04.370Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:11:04.371Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:11:04.376Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:12:04.196Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:12:04.198Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:12:04.199Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:13:04.251Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:13:04.253Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:13:04.256Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:14:04.201Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:14:04.202Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:14:04.203Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:15:09.362Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:15:09.363Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:15:09.366Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:16:04.302Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:16:04.303Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:16:04.305Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:17:04.794Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:17:04.796Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:17:04.798Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:18:04.366Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:18:04.367Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:18:04.370Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:19:04.463Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:19:04.465Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:19:04.467Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:20:04.506Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:20:04.508Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:20:04.510Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:21:04.773Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:21:04.774Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:21:04.777Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:22:04.256Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:22:04.257Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:22:04.260Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:23:04.207Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:23:04.208Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:23:04.209Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:24:04.278Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:24:04.280Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:24:04.283Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:25:04.374Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:25:04.375Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:25:04.377Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:26:04.370Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:26:04.371Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:26:04.376Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:27:04.328Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:27:04.329Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:27:04.332Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:28:04.425Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:28:04.427Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:28:04.429Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:29:04.297Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:29:04.298Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:29:04.302Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:30:10.350Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:30:10.352Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:30:10.357Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:31:04.887Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:31:04.889Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:31:04.893Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:32:04.504Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:32:04.506Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:32:04.509Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:33:04.367Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:33:04.369Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:33:04.371Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:34:04.249Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:34:04.250Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:34:04.253Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:35:04.248Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:35:04.250Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:35:04.253Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:36:04.198Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:36:04.200Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:36:04.202Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:37:04.158Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:37:04.159Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:37:04.163Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:38:04.168Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:38:04.169Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:38:04.172Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:39:04.300Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:39:04.302Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:39:04.305Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:40:04.510Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:40:04.511Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:40:04.517Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:41:04.518Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:41:04.520Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:41:04.525Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:42:04.522Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:42:04.524Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:42:04.529Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:43:04.281Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:43:04.283Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:43:04.285Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:44:04.398Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:44:04.399Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:44:04.402Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:45:09.753Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:45:09.754Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:45:09.759Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:46:04.743Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:46:04.744Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:46:04.746Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:47:04.388Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:47:04.389Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:47:04.391Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:48:04.587Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:48:04.589Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:48:04.592Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:49:04.817Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:49:04.819Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:49:04.822Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:50:04.283Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:50:04.284Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:50:04.288Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:51:04.192Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:51:04.193Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:51:04.195Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:52:04.459Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:52:04.460Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:52:04.463Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:53:04.284Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:53:04.285Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:53:04.287Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:54:04.397Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:54:04.399Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:54:04.402Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:55:04.986Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:55:04.988Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:55:04.991Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:56:04.507Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:56:04.509Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:56:04.514Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:57:04.298Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:57:04.299Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:57:04.303Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:58:04.316Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:58:04.317Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:58:04.319Z [info]: Cliente desconectado "web" ip:::1
+2024-04-03T03:59:04.521Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-03T03:59:04.523Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-03T03:59:04.525Z [info]: Cliente desconectado "web" ip:::1

@@ -1,0 +1,3202 @@
+2024-03-31T20:20:31.012Z [info]: Iniciando server en el puerto 3000
+2024-03-31T20:20:33.747Z [info]: Iniciando server en el puerto 3000
+2024-03-31T20:24:36.554Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-03-31T20:25:20.835Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-03-31T20:34:53.858Z [info]: Cliente desconectado "front-end" ip:::1
+2024-03-31T20:34:54.241Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-03-31T20:34:58.478Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-03-31T20:34:58.494Z [info]: obtenerTodoUsuario channel:erpBackend event: "deleteAutomatico:init"
+2024-03-31T20:34:58.501Z [info]: Cliente desconectado "web" ip:::1
+2024-03-31T20:35:30.798Z [info]: Iniciando server en el puerto 3000
+2024-03-31T20:35:30.838Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::ffff:127.0.0.1
+2024-03-31T20:35:38.999Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-03-31T20:35:39.000Z [info]: obtenerTodoUsuario channel:erpBackend event: "deleteAutomatico:init"
+2024-03-31T20:35:39.005Z [info]: Cliente desconectado "web" ip:::1
+2024-03-31T20:35:41.701Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "erpBackend"
+}
+2024-03-31T20:36:12.583Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-03-31T20:36:54.248Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-03-31T20:36:54.249Z [info]: obtenerTodoUsuario channel:erpBackend event: "deleteAutomatico:init"
+2024-03-31T20:36:54.252Z [info]: Cliente desconectado "web" ip:::1
+2024-03-31T20:36:55.526Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "erpBackend"
+}
+2024-03-31T20:36:56.779Z [info]: deleteAutomaticoUsuario channel:server event: "deleteAutomatico:finalize"
+2024-03-31T20:36:56.780Z [info]:  req => [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfoSearchCond": {
+				"searchID": "1",
+				"maxResults": 10000,
+				"searchResultPosition": 0
+			}
+		}
+	}
+]
+2024-03-31T20:36:56.781Z [info]:  res => [
+	{
+		"statusDescription": "OK",
+		"statusCode": 200,
+		"data": {
+			"UserInfoSearch": {
+				"searchID": "1",
+				"responseStatusStrg": "OK",
+				"numOfMatches": 2,
+				"totalMatches": 2,
+				"UserInfo": [
+					{
+						"employeeNo": "34242",
+						"name": "sdasda",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-27T00:00:00",
+							"endTime": "2034-03-27T23:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "1",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": "1"
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 0,
+						"groupId": 1,
+						"localAtndPlanTemplateId": 0
+					},
+					{
+						"employeeNo": "47",
+						"name": "stiven 7",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-29T20:00:00",
+							"endTime": "2024-04-29T19:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": ""
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 1,
+						"groupId": 0,
+						"localAtndPlanTemplateId": 0
+					}
+				]
+			}
+		}
+	}
+]
+2024-03-31T20:36:56.783Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-27T00:00:00",
+	"endTime": "2034-03-27T23:59:59",
+	"timeType": "local"
+}
+2024-03-31T20:36:56.785Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-29T20:00:00",
+	"endTime": "2024-04-29T19:59:59",
+	"timeType": "local"
+}
+2024-03-31T20:36:56.786Z [info]: usuarios a eliminar {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "delete:init",
+		"req": [],
+		"res": [],
+		"data": []
+	}
+}
+2024-03-31T20:37:10.810Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-03-31T20:37:10.811Z [info]: obtenerTodoUsuario channel:erpBackend event: "deleteAutomatico:init"
+2024-03-31T20:37:10.813Z [info]: Cliente desconectado "web" ip:::1
+2024-03-31T20:37:12.113Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "erpBackend"
+}
+2024-03-31T20:37:12.651Z [info]: deleteAutomaticoUsuario channel:server event: "deleteAutomatico:finalize"
+2024-03-31T20:37:12.651Z [info]:  req => [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfoSearchCond": {
+				"searchID": "1",
+				"maxResults": 10000,
+				"searchResultPosition": 0
+			}
+		}
+	}
+]
+2024-03-31T20:37:12.652Z [info]:  res => [
+	{
+		"statusDescription": "OK",
+		"statusCode": 200,
+		"data": {
+			"UserInfoSearch": {
+				"searchID": "1",
+				"responseStatusStrg": "OK",
+				"numOfMatches": 2,
+				"totalMatches": 2,
+				"UserInfo": [
+					{
+						"employeeNo": "34242",
+						"name": "sdasda",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-27T00:00:00",
+							"endTime": "2034-03-27T23:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "1",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": "1"
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 0,
+						"groupId": 1,
+						"localAtndPlanTemplateId": 0
+					},
+					{
+						"employeeNo": "47",
+						"name": "stiven 7",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-29T20:00:00",
+							"endTime": "2024-04-29T19:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": ""
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 1,
+						"groupId": 0,
+						"localAtndPlanTemplateId": 0
+					}
+				]
+			}
+		}
+	}
+]
+2024-03-31T20:37:12.656Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-27T00:00:00",
+	"endTime": "2034-03-27T23:59:59",
+	"timeType": "local"
+}
+2024-03-31T20:37:12.656Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-29T20:00:00",
+	"endTime": "2024-04-29T19:59:59",
+	"timeType": "local"
+}
+2024-03-31T20:37:12.657Z [info]: usuarios a eliminar {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "delete:init",
+		"req": [],
+		"res": [],
+		"data": []
+	}
+}
+2024-03-31T21:19:15.415Z [info]: Cliente desconectado "front-end" ip:::ffff:127.0.0.1
+2024-03-31T21:19:15.752Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-03-31T23:24:08.319Z [info]: Iniciando server en el puerto 3000
+2024-03-31T23:24:08.800Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-03-31T23:24:09.349Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-03-31T23:25:11.435Z [info]: Iniciando server en el puerto 3000
+2024-03-31T23:25:11.479Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-03-31T23:25:12.350Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-03-31T23:27:04.853Z [info]: Iniciando server en el puerto 3000
+2024-03-31T23:27:04.889Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-03-31T23:27:06.350Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-03-31T23:27:19.934Z [info]: Iniciando server en el puerto 3000
+2024-03-31T23:27:19.971Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-03-31T23:27:21.349Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-03-31T23:27:36.599Z [info]: Iniciando server en el puerto 3000
+2024-03-31T23:27:36.638Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-03-31T23:27:37.349Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-03-31T23:27:43.853Z [info]: Iniciando server en el puerto 3000
+2024-03-31T23:27:43.889Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-03-31T23:27:45.350Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-03-31T23:28:17.543Z [info]: Iniciando server en el puerto 3000
+2024-03-31T23:28:17.579Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-03-31T23:28:18.350Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-03-31T23:28:55.465Z [info]: Cliente desconectado "front-end" ip:::1
+2024-03-31T23:29:19.367Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-03-31T23:29:29.802Z [info]: Cliente desconectado "front-end" ip:::1
+2024-03-31T23:30:35.884Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-03-31T23:30:35.892Z [info]: obtenerTodoUsuario channel:erpBackend event: "deleteAutomatico:init"
+2024-03-31T23:30:35.897Z [info]: Cliente desconectado "web" ip:::1
+2024-03-31T23:30:38.600Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "erpBackend"
+}
+2024-03-31T23:30:38.755Z [info]: deleteAutomaticoUsuario channel:server event: "deleteAutomatico:finalize"
+2024-03-31T23:30:38.755Z [info]:  req => [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfoSearchCond": {
+				"searchID": "1",
+				"maxResults": 10000,
+				"searchResultPosition": 0
+			}
+		}
+	}
+]
+2024-03-31T23:30:38.756Z [info]:  res => [
+	{
+		"statusDescription": "OK",
+		"statusCode": 200,
+		"data": {
+			"UserInfoSearch": {
+				"searchID": "1",
+				"responseStatusStrg": "OK",
+				"numOfMatches": 2,
+				"totalMatches": 2,
+				"UserInfo": [
+					{
+						"employeeNo": "34242",
+						"name": "sdasda",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-27T00:00:00",
+							"endTime": "2034-03-27T23:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "1",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": "1"
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 0,
+						"groupId": 1,
+						"localAtndPlanTemplateId": 0
+					},
+					{
+						"employeeNo": "47",
+						"name": "stiven 7",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-29T20:00:00",
+							"endTime": "2024-04-29T19:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": ""
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 1,
+						"groupId": 0,
+						"localAtndPlanTemplateId": 0
+					}
+				]
+			}
+		}
+	}
+]
+2024-03-31T23:30:38.761Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-27T00:00:00",
+	"endTime": "2034-03-27T23:59:59",
+	"timeType": "local"
+}
+2024-03-31T23:30:38.762Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-29T20:00:00",
+	"endTime": "2024-04-29T19:59:59",
+	"timeType": "local"
+}
+2024-03-31T23:30:38.763Z [info]: usuarios a eliminar {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "delete:init",
+		"req": [],
+		"res": [],
+		"data": []
+	}
+}
+2024-03-31T23:31:23.522Z [info]: Iniciando server en el puerto 3000
+2024-03-31T23:31:23.549Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-03-31T23:31:38.219Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-03-31T23:31:38.224Z [info]: obtenerTodoUsuario channel:erpBackend event: "deleteAutomatico:init"
+2024-03-31T23:31:38.229Z [info]: Cliente desconectado "web" ip:::1
+2024-03-31T23:31:40.818Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "erpBackend"
+}
+2024-03-31T23:31:41.634Z [info]: deleteAutomaticoUsuario channel:server event: "deleteAutomatico:finalize"
+2024-03-31T23:31:41.634Z [info]:  req => [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfoSearchCond": {
+				"searchID": "1",
+				"maxResults": 10000,
+				"searchResultPosition": 0
+			}
+		}
+	}
+]
+2024-03-31T23:31:41.635Z [info]:  res => [
+	{
+		"statusDescription": "OK",
+		"statusCode": 200,
+		"data": {
+			"UserInfoSearch": {
+				"searchID": "1",
+				"responseStatusStrg": "OK",
+				"numOfMatches": 2,
+				"totalMatches": 2,
+				"UserInfo": [
+					{
+						"employeeNo": "34242",
+						"name": "sdasda",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-27T00:00:00",
+							"endTime": "2034-03-27T23:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "1",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": "1"
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 0,
+						"groupId": 1,
+						"localAtndPlanTemplateId": 0
+					},
+					{
+						"employeeNo": "47",
+						"name": "stiven 7",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-29T20:00:00",
+							"endTime": "2024-04-29T19:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": ""
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 1,
+						"groupId": 0,
+						"localAtndPlanTemplateId": 0
+					}
+				]
+			}
+		}
+	}
+]
+2024-03-31T23:31:41.637Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-27T00:00:00",
+	"endTime": "2034-03-27T23:59:59",
+	"timeType": "local"
+}
+2024-03-31T23:31:41.639Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-29T20:00:00",
+	"endTime": "2024-04-29T19:59:59",
+	"timeType": "local"
+}
+2024-03-31T23:31:41.640Z [info]: usuarios a eliminar {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "delete:init",
+		"req": [],
+		"res": [],
+		"data": []
+	}
+}
+2024-03-31T23:35:53.986Z [info]: Iniciando server en el puerto 3000
+2024-03-31T23:35:54.473Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-03-31T23:35:54.475Z [info]: Reiniciar consulta select
+2024-03-31T23:35:57.141Z [info]: Iniciando server en el puerto 3000
+2024-03-31T23:35:57.177Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-03-31T23:35:57.179Z [info]: Reiniciar consulta select ----
+2024-03-31T23:37:00.313Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-03-31T23:37:00.313Z [info]: Reiniciar consulta select ----
+2024-03-31T23:37:00.314Z [info]: Reiniciar consulta select ----
+2024-03-31T23:37:00.318Z [info]: obtenerTodoUsuario channel:erpBackend event: "deleteAutomatico:init"
+2024-03-31T23:37:00.324Z [info]: Cliente desconectado "web" ip:::1
+2024-03-31T23:37:02.908Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "erpBackend"
+}
+2024-03-31T23:37:03.261Z [info]: Reiniciar consulta select ----
+2024-03-31T23:37:03.265Z [info]: deleteAutomaticoUsuario channel:server event: "deleteAutomatico:finalize"
+2024-03-31T23:37:03.266Z [info]:  req => [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfoSearchCond": {
+				"searchID": "1",
+				"maxResults": 10000,
+				"searchResultPosition": 0
+			}
+		}
+	}
+]
+2024-03-31T23:37:03.266Z [info]:  res => [
+	{
+		"statusDescription": "OK",
+		"statusCode": 200,
+		"data": {
+			"UserInfoSearch": {
+				"searchID": "1",
+				"responseStatusStrg": "OK",
+				"numOfMatches": 2,
+				"totalMatches": 2,
+				"UserInfo": [
+					{
+						"employeeNo": "34242",
+						"name": "sdasda",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-27T00:00:00",
+							"endTime": "2034-03-27T23:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "1",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": "1"
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 0,
+						"groupId": 1,
+						"localAtndPlanTemplateId": 0
+					},
+					{
+						"employeeNo": "47",
+						"name": "stiven 7",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-29T20:00:00",
+							"endTime": "2024-04-29T19:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": ""
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 1,
+						"groupId": 0,
+						"localAtndPlanTemplateId": 0
+					}
+				]
+			}
+		}
+	}
+]
+2024-03-31T23:37:03.269Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-27T00:00:00",
+	"endTime": "2034-03-27T23:59:59",
+	"timeType": "local"
+}
+2024-03-31T23:37:03.271Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-29T20:00:00",
+	"endTime": "2024-04-29T19:59:59",
+	"timeType": "local"
+}
+2024-03-31T23:37:03.272Z [info]: usuarios a eliminar {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "delete:init",
+		"req": [],
+		"res": [],
+		"data": []
+	}
+}
+2024-03-31T23:37:04.168Z [info]: Reiniciar consulta select ----
+2024-03-31T23:37:20.068Z [info]: Iniciando server en el puerto 3000
+2024-03-31T23:37:20.106Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-03-31T23:37:20.107Z [info]: Reiniciar consulta select ----
+2024-03-31T23:37:30.053Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-03-31T23:37:30.054Z [info]: Reiniciar consulta select ----
+2024-03-31T23:37:30.055Z [info]: Reiniciar consulta select ----
+2024-03-31T23:37:30.055Z [info]: obtenerTodoUsuario channel:erpBackend event: "deleteAutomatico:init"
+2024-03-31T23:37:30.059Z [info]: Cliente desconectado "web" ip:::1
+2024-03-31T23:37:32.719Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "erpBackend"
+}
+2024-03-31T23:37:33.169Z [info]: Reiniciar consulta select ----
+2024-03-31T23:37:33.169Z [info]: deleteAutomaticoUsuario channel:server event: "deleteAutomatico:finalize"
+2024-03-31T23:37:33.170Z [info]:  req => [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfoSearchCond": {
+				"searchID": "1",
+				"maxResults": 10000,
+				"searchResultPosition": 0
+			}
+		}
+	}
+]
+2024-03-31T23:37:33.171Z [info]:  res => [
+	{
+		"statusDescription": "OK",
+		"statusCode": 200,
+		"data": {
+			"UserInfoSearch": {
+				"searchID": "1",
+				"responseStatusStrg": "OK",
+				"numOfMatches": 2,
+				"totalMatches": 2,
+				"UserInfo": [
+					{
+						"employeeNo": "34242",
+						"name": "sdasda",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-27T00:00:00",
+							"endTime": "2034-03-27T23:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "1",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": "1"
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 0,
+						"groupId": 1,
+						"localAtndPlanTemplateId": 0
+					},
+					{
+						"employeeNo": "47",
+						"name": "stiven 7",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-29T20:00:00",
+							"endTime": "2024-04-29T19:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": ""
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 1,
+						"groupId": 0,
+						"localAtndPlanTemplateId": 0
+					}
+				]
+			}
+		}
+	}
+]
+2024-03-31T23:37:33.173Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-27T00:00:00",
+	"endTime": "2034-03-27T23:59:59",
+	"timeType": "local"
+}
+2024-03-31T23:37:33.175Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-29T20:00:00",
+	"endTime": "2024-04-29T19:59:59",
+	"timeType": "local"
+}
+2024-03-31T23:37:33.176Z [info]: usuarios a eliminar {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "delete:init",
+		"req": [],
+		"res": [],
+		"data": []
+	}
+}
+2024-03-31T23:37:34.070Z [info]: Reiniciar consulta select ----
+2024-04-01T00:09:33.496Z [info]: Iniciando server en el puerto 3000
+2024-04-01T00:09:33.518Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T00:09:33.520Z [info]: Reiniciar consulta select ----
+2024-04-01T00:10:40.950Z [info]: Iniciando server en el puerto 3000
+2024-04-01T00:10:40.983Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T00:10:40.985Z [info]: Reiniciar consulta select ----
+2024-04-01T00:13:55.228Z [info]: Iniciando server en el puerto 3000
+2024-04-01T00:13:55.257Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T00:14:12.381Z [info]: Iniciando server en el puerto 3000
+2024-04-01T00:14:59.755Z [info]: Iniciando server en el puerto 3000
+2024-04-01T00:14:59.778Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T00:15:05.643Z [info]: Iniciando server en el puerto 3000
+2024-04-01T00:15:48.066Z [info]: Iniciando server en el puerto 3000
+2024-04-01T00:16:03.801Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T00:19:35.335Z [info]: Iniciando server en el puerto 3000
+2024-04-01T00:20:19.843Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T00:20:19.847Z [info]: Reiniciar consulta select ----
+2024-04-01T00:57:58.081Z [info]: Iniciando server en el puerto 3000
+2024-04-01T00:57:58.153Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::ffff:127.0.0.1
+2024-04-01T00:58:06.509Z [info]: Iniciando server en el puerto 3000
+2024-04-01T00:58:06.746Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T00:58:06.790Z [info]: Reiniciar consulta select ----
+2024-04-01T00:58:44.083Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T00:58:44.085Z [info]: Reiniciar consulta select ----
+2024-04-01T01:02:33.133Z [info]: Iniciando server en el puerto 3000
+2024-04-01T01:02:33.241Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T01:02:33.244Z [info]: Reiniciar consulta select ----
+2024-04-01T01:02:33.567Z [info]: Nuevo cliente detectado tipo: "worker" ip:::ffff:127.0.0.1
+2024-04-01T01:02:33.641Z [info]: Reiniciar consulta select ----
+2024-04-01T01:10:04.809Z [info]: Iniciando server en el puerto 3000
+2024-04-01T01:10:05.001Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::ffff:127.0.0.1
+2024-04-01T01:10:05.004Z [info]: Reiniciar consulta select ----
+2024-04-01T01:10:05.241Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T01:10:05.308Z [info]: Reiniciar consulta select ----
+2024-04-01T01:10:15.829Z [info]: Iniciando server en el puerto 3000
+2024-04-01T01:10:15.881Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T01:10:15.885Z [info]: Reiniciar consulta select ----
+2024-04-01T01:11:19.390Z [info]: Iniciando server en el puerto 3000
+2024-04-01T01:11:19.540Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T01:11:19.543Z [info]: Reiniciar consulta select ----
+2024-04-01T01:11:37.054Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T01:11:37.119Z [info]: Reiniciar consulta select ----
+2024-04-01T01:12:16.441Z [info]: Iniciando server en el puerto 3000
+2024-04-01T01:12:16.713Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::ffff:127.0.0.1
+2024-04-01T01:12:16.716Z [info]: Reiniciar consulta select ----
+2024-04-01T01:12:31.996Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T01:12:32.061Z [info]: Reiniciar consulta select ----
+2024-04-01T01:12:51.295Z [info]: Iniciando server en el puerto 3000
+2024-04-01T01:12:51.552Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T01:12:51.553Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::ffff:127.0.0.1
+2024-04-01T01:12:51.557Z [info]: Reiniciar consulta select ----
+2024-04-01T01:12:51.619Z [info]: Reiniciar consulta select ----
+2024-04-01T01:14:45.721Z [info]: Cliente desconectado "front-end" ip:::ffff:127.0.0.1
+2024-04-01T01:14:46.197Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T01:14:46.242Z [info]: Reiniciar consulta select ----
+2024-04-01T01:17:11.710Z [info]: Iniciando server en el puerto 3000
+2024-04-01T01:17:11.729Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T01:17:11.735Z [info]: Reiniciar consulta select ----
+2024-04-01T01:17:12.220Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T01:17:12.222Z [info]: Reiniciar consulta select ----
+2024-04-01T01:17:17.564Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T01:18:41.354Z [info]: Iniciando server en el puerto 3000
+2024-04-01T01:18:41.893Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T01:18:41.896Z [info]: Reiniciar consulta select ----
+2024-04-01T01:18:56.878Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T01:18:57.089Z [info]: Reiniciar consulta select ----
+2024-04-01T01:24:29.611Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T01:24:29.627Z [info]: Reiniciar consulta select ----
+2024-04-01T01:25:05.439Z [info]: Iniciando server en el puerto 3000
+2024-04-01T01:25:05.590Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::ffff:127.0.0.1
+2024-04-01T01:25:05.594Z [info]: Reiniciar consulta select ----
+2024-04-01T01:25:33.659Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T01:25:33.663Z [info]: Reiniciar consulta select ----
+2024-04-01T01:27:33.497Z [info]: Cliente desconectado "front-end" ip:::ffff:127.0.0.1
+2024-04-01T01:27:34.027Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T01:27:34.073Z [info]: Reiniciar consulta select ----
+2024-04-01T01:28:10.465Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T01:28:45.776Z [info]: Iniciando server en el puerto 3000
+2024-04-01T01:28:45.864Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::ffff:127.0.0.1
+2024-04-01T01:28:45.868Z [info]: Reiniciar consulta select ----
+2024-04-01T01:29:14.487Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T01:29:14.489Z [info]: Reiniciar consulta select ----
+2024-04-01T01:29:16.842Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T01:29:31.356Z [info]: Iniciando server en el puerto 3000
+2024-04-01T01:29:31.388Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::ffff:127.0.0.1
+2024-04-01T01:29:31.391Z [info]: Reiniciar consulta select ----
+2024-04-01T01:29:33.565Z [info]: Cliente desconectado "front-end" ip:::ffff:127.0.0.1
+2024-04-01T01:29:33.987Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T01:29:34.043Z [info]: Reiniciar consulta select ----
+2024-04-01T01:30:20.868Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T01:30:20.870Z [info]: Reiniciar consulta select ----
+2024-04-01T01:31:37.554Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T01:42:28.440Z [info]: Iniciando server en el puerto 3000
+2024-04-01T01:42:33.251Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T01:42:33.255Z [info]: Reiniciar consulta select ----
+2024-04-01T01:43:21.643Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T01:43:21.645Z [info]: Reiniciar consulta select ----
+2024-04-01T01:47:28.961Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T01:47:28.962Z [info]: Reiniciar consulta select ----
+2024-04-01T01:47:29.464Z [info]: Reiniciar consulta select ----
+2024-04-01T01:47:29.465Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-01T01:47:29.470Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T01:47:32.155Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "cliente-1"
+}
+2024-04-01T01:47:32.938Z [info]: Reiniciar consulta select ----
+2024-04-01T01:49:56.602Z [info]: Iniciando server en el puerto 3000
+2024-04-01T01:49:56.791Z [info]: Nuevo cliente detectado tipo: "web" ip:::ffff:127.0.0.1
+2024-04-01T01:49:56.794Z [info]: Reiniciar consulta select ----
+2024-04-01T01:49:57.296Z [info]: Reiniciar consulta select ----
+2024-04-01T01:49:57.297Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-01T01:49:57.301Z [info]: Cliente desconectado "web" ip:::ffff:127.0.0.1
+2024-04-01T01:49:57.532Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T01:49:57.536Z [info]: Reiniciar consulta select ----
+2024-04-01T01:49:59.898Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "cliente-1"
+}
+2024-04-01T01:50:44.969Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T01:50:44.971Z [info]: Reiniciar consulta select ----
+2024-04-01T01:56:39.232Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T01:56:39.233Z [info]: Reiniciar consulta select ----
+2024-04-01T01:56:39.740Z [info]: Reiniciar consulta select ----
+2024-04-01T01:56:39.740Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-01T01:56:39.742Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T01:56:41.021Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "cliente-1"
+}
+2024-04-01T01:56:41.932Z [info]: Reiniciar consulta select ----
+2024-04-01T01:57:03.866Z [info]: Iniciando server en el puerto 3000
+2024-04-01T01:57:04.094Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::ffff:127.0.0.1
+2024-04-01T01:57:04.097Z [info]: Reiniciar consulta select ----
+2024-04-01T01:57:14.222Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T01:57:14.225Z [info]: Reiniciar consulta select ----
+2024-04-01T01:57:14.732Z [info]: Reiniciar consulta select ----
+2024-04-01T01:57:14.732Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-01T01:57:14.737Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T01:57:17.399Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "cliente-1"
+}
+2024-04-01T01:57:45.955Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T01:57:45.957Z [info]: Reiniciar consulta select ----
+2024-04-01T01:57:49.374Z [info]: Cliente desconectado "worker" ip:::1
+2024-04-01T01:58:15.570Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T01:58:15.571Z [info]: Reiniciar consulta select ----
+2024-04-01T01:58:16.077Z [info]: Reiniciar consulta select ----
+2024-04-01T01:58:16.077Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-01T01:58:16.078Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T01:58:17.346Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "cliente-1"
+}
+2024-04-01T01:58:30.319Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T01:58:30.517Z [info]: Reiniciar consulta select ----
+2024-04-01T01:58:36.825Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T01:58:36.826Z [info]: Reiniciar consulta select ----
+2024-04-01T01:58:37.334Z [info]: Reiniciar consulta select ----
+2024-04-01T01:58:37.334Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-01T01:58:37.335Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T01:58:38.695Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "cliente-1"
+}
+2024-04-01T01:58:39.144Z [info]: Reiniciar consulta select ----
+2024-04-01T01:59:11.992Z [info]: Iniciando server en el puerto 3000
+2024-04-01T01:59:12.237Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::ffff:127.0.0.1
+2024-04-01T01:59:12.242Z [info]: Reiniciar consulta select ----
+2024-04-01T01:59:29.936Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T01:59:30.003Z [info]: Reiniciar consulta select ----
+2024-04-01T01:59:39.236Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T01:59:39.237Z [info]: Reiniciar consulta select ----
+2024-04-01T01:59:39.765Z [info]: Reiniciar consulta select ----
+2024-04-01T01:59:39.766Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-01T01:59:39.770Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T01:59:42.382Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "cliente-1"
+}
+2024-04-01T01:59:43.164Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T01:59:43.166Z [info]: Reiniciar consulta select ----
+2024-04-01T01:59:43.216Z [info]: Reiniciar consulta select ----
+2024-04-01T02:00:57.064Z [info]: Iniciando server en el puerto 3000
+2024-04-01T02:00:57.356Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::ffff:127.0.0.1
+2024-04-01T02:00:57.359Z [info]: Reiniciar consulta select ----
+2024-04-01T02:01:46.687Z [info]: Iniciando server en el puerto 3000
+2024-04-01T02:01:47.251Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T02:01:47.254Z [info]: Reiniciar consulta select ----
+2024-04-01T02:01:51.248Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T02:01:51.250Z [info]: Reiniciar consulta select ----
+2024-04-01T02:02:29.977Z [info]: Iniciando server en el puerto 3000
+2024-04-01T02:02:30.026Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T02:02:30.030Z [info]: Reiniciar consulta select ----
+2024-04-01T02:02:30.534Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T02:02:30.535Z [info]: Reiniciar consulta select ----
+2024-04-01T02:03:02.737Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T02:03:02.738Z [info]: Reiniciar consulta select ----
+2024-04-01T02:03:03.244Z [info]: Reiniciar consulta select ----
+2024-04-01T02:03:03.245Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-01T02:03:03.249Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T02:03:06.094Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "cliente-1"
+}
+2024-04-01T02:03:07.904Z [info]: Reiniciar consulta select ----
+2024-04-01T02:04:25.630Z [info]: Iniciando server en el puerto 3000
+2024-04-01T02:04:25.652Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T02:04:25.655Z [info]: Reiniciar consulta select ----
+2024-04-01T02:04:43.834Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T02:04:43.897Z [info]: Reiniciar consulta select ----
+2024-04-01T02:06:04.161Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T02:06:04.162Z [info]: Reiniciar consulta select ----
+2024-04-01T02:06:04.665Z [info]: Reiniciar consulta select ----
+2024-04-01T02:06:04.665Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-01T02:06:04.670Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T02:06:07.261Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "cliente-1"
+}
+2024-04-01T02:06:07.895Z [info]: Reiniciar consulta select ----
+2024-04-01T02:06:30.139Z [info]: Iniciando server en el puerto 3000
+2024-04-01T02:06:31.182Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T02:06:31.185Z [info]: Reiniciar consulta select ----
+2024-04-01T02:06:52.143Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T02:06:52.206Z [info]: Reiniciar consulta select ----
+2024-04-01T02:07:11.925Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T02:07:11.927Z [info]: Reiniciar consulta select ----
+2024-04-01T02:07:19.086Z [info]: Cliente desconectado "worker" ip:::1
+2024-04-01T02:07:29.790Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-01T02:07:30.244Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T02:07:30.289Z [info]: Reiniciar consulta select ----
+2024-04-01T02:07:42.800Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T02:07:42.862Z [info]: Reiniciar consulta select ----
+2024-04-01T02:08:09.467Z [info]: Cliente desconectado "worker" ip:::1
+2024-04-01T02:11:14.960Z [info]: Cliente desconectado "worker" ip:::1
+2024-04-01T02:11:24.912Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T02:11:24.986Z [info]: Reiniciar consulta select ----
+2024-04-01T02:14:13.621Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T02:14:13.623Z [info]: Reiniciar consulta select ----
+2024-04-01T02:14:14.129Z [info]: Reiniciar consulta select ----
+2024-04-01T02:14:14.129Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-01T02:14:14.133Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T02:14:17.034Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "cliente-1"
+}
+2024-04-01T02:14:17.619Z [info]: Reiniciar consulta select ----
+2024-04-01T02:15:26.002Z [info]: Iniciando server en el puerto 3000
+2024-04-01T02:15:26.027Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T02:15:26.029Z [info]: Reiniciar consulta select ----
+2024-04-01T02:15:48.799Z [info]: Iniciando server en el puerto 3000
+2024-04-01T02:15:48.934Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::ffff:127.0.0.1
+2024-04-01T02:15:48.937Z [info]: Reiniciar consulta select ----
+2024-04-01T02:16:05.300Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T02:16:05.375Z [info]: Reiniciar consulta select ----
+2024-04-01T02:16:18.610Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T02:16:18.611Z [info]: Reiniciar consulta select ----
+2024-04-01T02:16:19.116Z [info]: Reiniciar consulta select ----
+2024-04-01T02:16:19.116Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-01T02:16:19.121Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T02:16:21.732Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "cliente-1"
+}
+2024-04-01T02:16:22.053Z [info]: Reiniciar consulta select ----
+2024-04-01T02:16:22.054Z [info]: deleteAutomaticoUsuario channel:server event: "deleteAutomatico:finalize"
+2024-04-01T02:16:22.054Z [info]:  req => [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfoSearchCond": {
+				"searchID": "1",
+				"maxResults": 10000,
+				"searchResultPosition": 0
+			}
+		}
+	}
+]
+2024-04-01T02:16:22.055Z [info]:  res => [
+	{
+		"statusDescription": "OK",
+		"statusCode": 200,
+		"data": {
+			"UserInfoSearch": {
+				"searchID": "1",
+				"responseStatusStrg": "OK",
+				"numOfMatches": 2,
+				"totalMatches": 2,
+				"UserInfo": [
+					{
+						"employeeNo": "34242",
+						"name": "sdasda",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-27T00:00:00",
+							"endTime": "2034-03-27T23:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "1",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": "1"
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 0,
+						"groupId": 1,
+						"localAtndPlanTemplateId": 0
+					},
+					{
+						"employeeNo": "47",
+						"name": "stiven 7",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-29T20:00:00",
+							"endTime": "2024-04-29T19:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": ""
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 1,
+						"groupId": 0,
+						"localAtndPlanTemplateId": 0
+					}
+				]
+			}
+		}
+	}
+]
+2024-04-01T02:16:22.057Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-27T00:00:00",
+	"endTime": "2034-03-27T23:59:59",
+	"timeType": "local"
+}
+2024-04-01T02:16:22.059Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-29T20:00:00",
+	"endTime": "2024-04-29T19:59:59",
+	"timeType": "local"
+}
+2024-04-01T02:16:22.060Z [info]: usuarios a eliminar {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "delete:init",
+		"req": [],
+		"res": [],
+		"data": []
+	}
+}
+2024-04-01T02:16:22.827Z [info]: Reiniciar consulta select ----
+2024-04-01T02:16:38.031Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T02:16:38.032Z [info]: Reiniciar consulta select ----
+2024-04-01T02:16:38.536Z [info]: Reiniciar consulta select ----
+2024-04-01T02:16:38.537Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-01T02:16:38.538Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T02:16:39.823Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "cliente-1"
+}
+2024-04-01T02:16:39.938Z [info]: Reiniciar consulta select ----
+2024-04-01T02:16:39.939Z [info]: deleteAutomaticoUsuario channel:server event: "deleteAutomatico:finalize"
+2024-04-01T02:16:39.939Z [info]:  req => [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfoSearchCond": {
+				"searchID": "1",
+				"maxResults": 10000,
+				"searchResultPosition": 0
+			}
+		}
+	}
+]
+2024-04-01T02:16:39.939Z [info]:  res => [
+	{
+		"statusDescription": "OK",
+		"statusCode": 200,
+		"data": {
+			"UserInfoSearch": {
+				"searchID": "1",
+				"responseStatusStrg": "OK",
+				"numOfMatches": 2,
+				"totalMatches": 2,
+				"UserInfo": [
+					{
+						"employeeNo": "34242",
+						"name": "sdasda",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-27T00:00:00",
+							"endTime": "2034-03-27T23:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "1",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": "1"
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 0,
+						"groupId": 1,
+						"localAtndPlanTemplateId": 0
+					},
+					{
+						"employeeNo": "47",
+						"name": "stiven 7",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-29T20:00:00",
+							"endTime": "2024-04-29T19:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": ""
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 1,
+						"groupId": 0,
+						"localAtndPlanTemplateId": 0
+					}
+				]
+			}
+		}
+	}
+]
+2024-04-01T02:16:39.942Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-27T00:00:00",
+	"endTime": "2034-03-27T23:59:59",
+	"timeType": "local"
+}
+2024-04-01T02:16:39.942Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-29T20:00:00",
+	"endTime": "2024-04-29T19:59:59",
+	"timeType": "local"
+}
+2024-04-01T02:16:39.943Z [info]: usuarios a eliminar {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "delete:init",
+		"req": [],
+		"res": [],
+		"data": []
+	}
+}
+2024-04-01T02:16:40.837Z [info]: Reiniciar consulta select ----
+2024-04-01T02:18:04.233Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T02:18:04.234Z [info]: Reiniciar consulta select ----
+2024-04-01T02:18:04.747Z [info]: Reiniciar consulta select ----
+2024-04-01T02:18:04.747Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-01T02:18:04.749Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T02:18:06.053Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "cliente-1"
+}
+2024-04-01T02:18:06.979Z [info]: Reiniciar consulta select ----
+2024-04-01T02:18:06.979Z [info]: deleteAutomaticoUsuario channel:server event: "deleteAutomatico:finalize"
+2024-04-01T02:18:06.980Z [info]:  req => [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfoSearchCond": {
+				"searchID": "1",
+				"maxResults": 10000,
+				"searchResultPosition": 0
+			}
+		}
+	}
+]
+2024-04-01T02:18:06.980Z [info]:  res => [
+	{
+		"statusDescription": "OK",
+		"statusCode": 200,
+		"data": {
+			"UserInfoSearch": {
+				"searchID": "1",
+				"responseStatusStrg": "OK",
+				"numOfMatches": 2,
+				"totalMatches": 2,
+				"UserInfo": [
+					{
+						"employeeNo": "34242",
+						"name": "sdasda",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-27T00:00:00",
+							"endTime": "2034-03-27T23:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "1",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": "1"
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 0,
+						"groupId": 1,
+						"localAtndPlanTemplateId": 0
+					},
+					{
+						"employeeNo": "47",
+						"name": "stiven 7",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-29T20:00:00",
+							"endTime": "2024-04-29T19:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": ""
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 1,
+						"groupId": 0,
+						"localAtndPlanTemplateId": 0
+					}
+				]
+			}
+		}
+	}
+]
+2024-04-01T02:18:06.983Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-27T00:00:00",
+	"endTime": "2034-03-27T23:59:59",
+	"timeType": "local"
+}
+2024-04-01T02:18:06.983Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-29T20:00:00",
+	"endTime": "2024-04-29T19:59:59",
+	"timeType": "local"
+}
+2024-04-01T02:18:06.984Z [info]: usuarios a eliminar {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "delete:init",
+		"req": [],
+		"res": [],
+		"data": []
+	}
+}
+2024-04-01T02:18:07.880Z [info]: Reiniciar consulta select ----
+2024-04-01T02:18:30.667Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T02:18:30.668Z [info]: Reiniciar consulta select ----
+2024-04-01T02:18:31.169Z [info]: Reiniciar consulta select ----
+2024-04-01T02:18:31.170Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-01T02:18:31.171Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T02:18:32.506Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "cliente-1"
+}
+2024-04-01T02:18:32.980Z [info]: Reiniciar consulta select ----
+2024-04-01T02:18:32.980Z [info]: deleteAutomaticoUsuario channel:server event: "deleteAutomatico:finalize"
+2024-04-01T02:18:32.980Z [info]:  req => [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfoSearchCond": {
+				"searchID": "1",
+				"maxResults": 10000,
+				"searchResultPosition": 0
+			}
+		}
+	}
+]
+2024-04-01T02:18:32.981Z [info]:  res => [
+	{
+		"statusDescription": "OK",
+		"statusCode": 200,
+		"data": {
+			"UserInfoSearch": {
+				"searchID": "1",
+				"responseStatusStrg": "OK",
+				"numOfMatches": 2,
+				"totalMatches": 2,
+				"UserInfo": [
+					{
+						"employeeNo": "34242",
+						"name": "sdasda",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-27T00:00:00",
+							"endTime": "2034-03-27T23:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "1",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": "1"
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 0,
+						"groupId": 1,
+						"localAtndPlanTemplateId": 0
+					},
+					{
+						"employeeNo": "47",
+						"name": "stiven 7",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-29T20:00:00",
+							"endTime": "2024-04-29T19:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": ""
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 1,
+						"groupId": 0,
+						"localAtndPlanTemplateId": 0
+					}
+				]
+			}
+		}
+	}
+]
+2024-04-01T02:18:32.983Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-27T00:00:00",
+	"endTime": "2034-03-27T23:59:59",
+	"timeType": "local"
+}
+2024-04-01T02:18:32.983Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-29T20:00:00",
+	"endTime": "2024-04-29T19:59:59",
+	"timeType": "local"
+}
+2024-04-01T02:18:32.984Z [info]: usuarios a eliminar {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "delete:init",
+		"req": [],
+		"res": [],
+		"data": []
+	}
+}
+2024-04-01T02:18:33.891Z [info]: Reiniciar consulta select ----
+2024-04-01T02:19:19.386Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T02:19:19.388Z [info]: Reiniciar consulta select ----
+2024-04-01T02:19:19.891Z [info]: Reiniciar consulta select ----
+2024-04-01T02:19:19.891Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-01T02:19:19.892Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T02:19:21.189Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "cliente-1"
+}
+2024-04-01T02:19:22.025Z [info]: Reiniciar consulta select ----
+2024-04-01T02:19:22.025Z [info]: deleteAutomaticoUsuario channel:server event: "deleteAutomatico:finalize"
+2024-04-01T02:19:22.026Z [info]:  req => [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfoSearchCond": {
+				"searchID": "1",
+				"maxResults": 10000,
+				"searchResultPosition": 0
+			}
+		}
+	}
+]
+2024-04-01T02:19:22.026Z [info]:  res => [
+	{
+		"statusDescription": "OK",
+		"statusCode": 200,
+		"data": {
+			"UserInfoSearch": {
+				"searchID": "1",
+				"responseStatusStrg": "OK",
+				"numOfMatches": 2,
+				"totalMatches": 2,
+				"UserInfo": [
+					{
+						"employeeNo": "34242",
+						"name": "sdasda",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-27T00:00:00",
+							"endTime": "2034-03-27T23:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "1",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": "1"
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 0,
+						"groupId": 1,
+						"localAtndPlanTemplateId": 0
+					},
+					{
+						"employeeNo": "47",
+						"name": "stiven 7",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-29T20:00:00",
+							"endTime": "2024-04-29T19:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": ""
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 1,
+						"groupId": 0,
+						"localAtndPlanTemplateId": 0
+					}
+				]
+			}
+		}
+	}
+]
+2024-04-01T02:19:22.028Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-27T00:00:00",
+	"endTime": "2034-03-27T23:59:59",
+	"timeType": "local"
+}
+2024-04-01T02:19:22.029Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-29T20:00:00",
+	"endTime": "2024-04-29T19:59:59",
+	"timeType": "local"
+}
+2024-04-01T02:19:22.029Z [info]: usuarios a eliminar {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "delete:init",
+		"req": [],
+		"res": [],
+		"data": []
+	}
+}
+2024-04-01T02:19:22.929Z [info]: Reiniciar consulta select ----
+2024-04-01T02:20:10.023Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T02:20:10.025Z [info]: Reiniciar consulta select ----
+2024-04-01T02:20:10.526Z [info]: Reiniciar consulta select ----
+2024-04-01T02:20:10.526Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-01T02:20:10.528Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T02:20:11.822Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "cliente-1"
+}
+2024-04-01T02:20:12.051Z [info]: Reiniciar consulta select ----
+2024-04-01T02:20:12.051Z [info]: deleteAutomaticoUsuario channel:server event: "deleteAutomatico:finalize"
+2024-04-01T02:20:12.051Z [info]:  req => [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfoSearchCond": {
+				"searchID": "1",
+				"maxResults": 10000,
+				"searchResultPosition": 0
+			}
+		}
+	}
+]
+2024-04-01T02:20:12.052Z [info]:  res => [
+	{
+		"statusDescription": "OK",
+		"statusCode": 200,
+		"data": {
+			"UserInfoSearch": {
+				"searchID": "1",
+				"responseStatusStrg": "OK",
+				"numOfMatches": 2,
+				"totalMatches": 2,
+				"UserInfo": [
+					{
+						"employeeNo": "34242",
+						"name": "sdasda",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-27T00:00:00",
+							"endTime": "2034-03-27T23:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "1",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": "1"
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 0,
+						"groupId": 1,
+						"localAtndPlanTemplateId": 0
+					},
+					{
+						"employeeNo": "47",
+						"name": "stiven 7",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-29T20:00:00",
+							"endTime": "2024-04-29T19:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": ""
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 1,
+						"groupId": 0,
+						"localAtndPlanTemplateId": 0
+					}
+				]
+			}
+		}
+	}
+]
+2024-04-01T02:20:12.055Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-27T00:00:00",
+	"endTime": "2034-03-27T23:59:59",
+	"timeType": "local"
+}
+2024-04-01T02:20:12.055Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-29T20:00:00",
+	"endTime": "2024-04-29T19:59:59",
+	"timeType": "local"
+}
+2024-04-01T02:20:12.056Z [info]: usuarios a eliminar {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "delete:init",
+		"req": [],
+		"res": [],
+		"data": []
+	}
+}
+2024-04-01T02:20:12.961Z [info]: Reiniciar consulta select ----
+2024-04-01T02:20:33.101Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T02:20:33.102Z [info]: Reiniciar consulta select ----
+2024-04-01T02:20:33.607Z [info]: Reiniciar consulta select ----
+2024-04-01T02:20:33.607Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-01T02:20:33.609Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T02:20:34.884Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "cliente-1"
+}
+2024-04-01T02:20:35.081Z [info]: Reiniciar consulta select ----
+2024-04-01T02:20:35.081Z [info]: deleteAutomaticoUsuario channel:server event: "deleteAutomatico:finalize"
+2024-04-01T02:20:35.081Z [info]:  req => [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfoSearchCond": {
+				"searchID": "1",
+				"maxResults": 10000,
+				"searchResultPosition": 0
+			}
+		}
+	}
+]
+2024-04-01T02:20:35.082Z [info]:  res => [
+	{
+		"statusDescription": "OK",
+		"statusCode": 200,
+		"data": {
+			"UserInfoSearch": {
+				"searchID": "1",
+				"responseStatusStrg": "OK",
+				"numOfMatches": 2,
+				"totalMatches": 2,
+				"UserInfo": [
+					{
+						"employeeNo": "34242",
+						"name": "sdasda",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-27T00:00:00",
+							"endTime": "2034-03-27T23:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "1",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": "1"
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 0,
+						"groupId": 1,
+						"localAtndPlanTemplateId": 0
+					},
+					{
+						"employeeNo": "47",
+						"name": "stiven 7",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-29T20:00:00",
+							"endTime": "2024-04-29T19:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": ""
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 1,
+						"groupId": 0,
+						"localAtndPlanTemplateId": 0
+					}
+				]
+			}
+		}
+	}
+]
+2024-04-01T02:20:35.084Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-27T00:00:00",
+	"endTime": "2034-03-27T23:59:59",
+	"timeType": "local"
+}
+2024-04-01T02:20:35.085Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-29T20:00:00",
+	"endTime": "2024-04-29T19:59:59",
+	"timeType": "local"
+}
+2024-04-01T02:20:35.085Z [info]: usuarios a eliminar {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "delete:init",
+		"req": [],
+		"res": [],
+		"data": []
+	}
+}
+2024-04-01T02:20:35.968Z [info]: Reiniciar consulta select ----
+2024-04-01T02:21:13.203Z [info]: Cliente desconectado "front-end" ip:::ffff:127.0.0.1
+2024-04-01T02:21:13.615Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T02:21:13.677Z [info]: Reiniciar consulta select ----
+2024-04-01T02:21:25.263Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T02:21:25.264Z [info]: Reiniciar consulta select ----
+2024-04-01T02:21:26.069Z [info]: Reiniciar consulta select ----
+2024-04-01T02:21:26.070Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-01T02:21:26.071Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T02:21:27.724Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "cliente-1"
+}
+2024-04-01T02:21:28.090Z [info]: Reiniciar consulta select ----
+2024-04-01T02:21:28.090Z [info]: deleteAutomaticoUsuario channel:server event: "deleteAutomatico:finalize"
+2024-04-01T02:21:28.090Z [info]:  req => [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfoSearchCond": {
+				"searchID": "1",
+				"maxResults": 10000,
+				"searchResultPosition": 0
+			}
+		}
+	}
+]
+2024-04-01T02:21:28.091Z [info]:  res => [
+	{
+		"statusDescription": "OK",
+		"statusCode": 200,
+		"data": {
+			"UserInfoSearch": {
+				"searchID": "1",
+				"responseStatusStrg": "OK",
+				"numOfMatches": 2,
+				"totalMatches": 2,
+				"UserInfo": [
+					{
+						"employeeNo": "34242",
+						"name": "sdasda",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-27T00:00:00",
+							"endTime": "2034-03-27T23:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "1",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": "1"
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 0,
+						"groupId": 1,
+						"localAtndPlanTemplateId": 0
+					},
+					{
+						"employeeNo": "47",
+						"name": "stiven 7",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-29T20:00:00",
+							"endTime": "2024-04-29T19:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": ""
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 1,
+						"groupId": 0,
+						"localAtndPlanTemplateId": 0
+					}
+				]
+			}
+		}
+	}
+]
+2024-04-01T02:21:28.093Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-27T00:00:00",
+	"endTime": "2034-03-27T23:59:59",
+	"timeType": "local"
+}
+2024-04-01T02:21:28.093Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-29T20:00:00",
+	"endTime": "2024-04-29T19:59:59",
+	"timeType": "local"
+}
+2024-04-01T02:21:28.094Z [info]: usuarios a eliminar {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "delete:init",
+		"req": [],
+		"res": [],
+		"data": []
+	}
+}
+2024-04-01T02:21:28.997Z [info]: Reiniciar consulta select ----
+2024-04-01T02:26:44.196Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-01T02:26:44.645Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T02:26:44.703Z [info]: Reiniciar consulta select ----
+2024-04-01T02:27:26.929Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-01T02:27:27.302Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T02:27:27.352Z [info]: Reiniciar consulta select ----
+2024-04-01T02:27:39.873Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T02:27:39.875Z [info]: Reiniciar consulta select ----
+2024-04-01T02:27:40.379Z [info]: Reiniciar consulta select ----
+2024-04-01T02:27:40.380Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-01T02:27:40.382Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T02:27:41.667Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "cliente-1"
+}
+2024-04-01T02:27:42.276Z [info]: Reiniciar consulta select ----
+2024-04-01T02:27:42.276Z [info]: deleteAutomaticoUsuario channel:server event: "deleteAutomatico:finalize"
+2024-04-01T02:27:42.277Z [info]:  req => [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfoSearchCond": {
+				"searchID": "1",
+				"maxResults": 10000,
+				"searchResultPosition": 0
+			}
+		}
+	}
+]
+2024-04-01T02:27:42.277Z [info]:  res => [
+	{
+		"statusDescription": "OK",
+		"statusCode": 200,
+		"data": {
+			"UserInfoSearch": {
+				"searchID": "1",
+				"responseStatusStrg": "OK",
+				"numOfMatches": 2,
+				"totalMatches": 2,
+				"UserInfo": [
+					{
+						"employeeNo": "34242",
+						"name": "sdasda",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-27T00:00:00",
+							"endTime": "2034-03-27T23:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "1",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": "1"
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 0,
+						"groupId": 1,
+						"localAtndPlanTemplateId": 0
+					},
+					{
+						"employeeNo": "47",
+						"name": "stiven 7",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-29T20:00:00",
+							"endTime": "2024-04-29T19:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": ""
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 1,
+						"groupId": 0,
+						"localAtndPlanTemplateId": 0
+					}
+				]
+			}
+		}
+	}
+]
+2024-04-01T02:27:42.280Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-27T00:00:00",
+	"endTime": "2034-03-27T23:59:59",
+	"timeType": "local"
+}
+2024-04-01T02:27:42.280Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-29T20:00:00",
+	"endTime": "2024-04-29T19:59:59",
+	"timeType": "local"
+}
+2024-04-01T02:27:42.281Z [info]: usuarios a eliminar {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "delete:init",
+		"req": [],
+		"res": [],
+		"data": []
+	}
+}
+2024-04-01T02:27:43.188Z [info]: Reiniciar consulta select ----
+2024-04-01T02:28:11.830Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-01T02:28:11.831Z [info]: Reiniciar consulta select ----
+2024-04-01T02:28:12.337Z [info]: Reiniciar consulta select ----
+2024-04-01T02:28:12.337Z [info]: obtenerTodoUsuario channel:cliente-1 event: "deleteAutomatico:init"
+2024-04-01T02:28:12.339Z [info]: Cliente desconectado "web" ip:::1
+2024-04-01T02:28:13.629Z [info]: obtenerTodoUsuario salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "deleteAutomatico:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+				"data": {
+					"UserInfoSearchCond": {
+						"searchID": "1",
+						"maxResults": 10000,
+						"searchResultPosition": 0
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": []
+	},
+	"channel": "cliente-1"
+}
+2024-04-01T02:28:14.323Z [info]: Reiniciar consulta select ----
+2024-04-01T02:28:14.324Z [info]: deleteAutomaticoUsuario channel:server event: "deleteAutomatico:finalize"
+2024-04-01T02:28:14.324Z [info]:  req => [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Search?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfoSearchCond": {
+				"searchID": "1",
+				"maxResults": 10000,
+				"searchResultPosition": 0
+			}
+		}
+	}
+]
+2024-04-01T02:28:14.324Z [info]:  res => [
+	{
+		"statusDescription": "OK",
+		"statusCode": 200,
+		"data": {
+			"UserInfoSearch": {
+				"searchID": "1",
+				"responseStatusStrg": "OK",
+				"numOfMatches": 2,
+				"totalMatches": 2,
+				"UserInfo": [
+					{
+						"employeeNo": "34242",
+						"name": "sdasda",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-27T00:00:00",
+							"endTime": "2034-03-27T23:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "1",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": "1"
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 0,
+						"groupId": 1,
+						"localAtndPlanTemplateId": 0
+					},
+					{
+						"employeeNo": "47",
+						"name": "stiven 7",
+						"userType": "normal",
+						"closeDelayEnabled": false,
+						"Valid": {
+							"enable": true,
+							"beginTime": "2024-03-29T20:00:00",
+							"endTime": "2024-04-29T19:59:59",
+							"timeType": "local"
+						},
+						"belongGroup": "",
+						"password": "",
+						"doorRight": "",
+						"RightPlan": [
+							{
+								"doorNo": 1,
+								"planTemplateNo": ""
+							}
+						],
+						"maxOpenDoorTime": 0,
+						"openDoorTime": 0,
+						"roomNumber": 0,
+						"floorNumber": 0,
+						"localUIRight": false,
+						"gender": "unknown",
+						"numOfCard": 0,
+						"numOfFP": 0,
+						"numOfFace": 1,
+						"groupId": 0,
+						"localAtndPlanTemplateId": 0
+					}
+				]
+			}
+		}
+	}
+]
+2024-04-01T02:28:14.327Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-27T00:00:00",
+	"endTime": "2034-03-27T23:59:59",
+	"timeType": "local"
+}
+2024-04-01T02:28:14.327Z [info]: lector 192.168.1.246 => {
+	"enable": true,
+	"beginTime": "2024-03-29T20:00:00",
+	"endTime": "2024-04-29T19:59:59",
+	"timeType": "local"
+}
+2024-04-01T02:28:14.327Z [info]: usuarios a eliminar {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "delete:init",
+		"req": [],
+		"res": [],
+		"data": []
+	}
+}
+2024-04-01T02:28:15.198Z [info]: Reiniciar consulta select ----
+2024-04-01T02:33:29.037Z [info]: Iniciando server en el puerto 3000
+2024-04-01T02:33:29.063Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T02:33:29.067Z [info]: Reiniciar consulta select ----
+2024-04-01T02:33:29.558Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T02:33:29.559Z [info]: Reiniciar consulta select ----
+2024-04-01T02:34:03.671Z [info]: Iniciando server en el puerto 3000
+2024-04-01T02:34:03.699Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-01T02:34:03.702Z [info]: Reiniciar consulta select ----
+2024-04-01T02:34:04.196Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-01T02:34:04.198Z [info]: Reiniciar consulta select ----

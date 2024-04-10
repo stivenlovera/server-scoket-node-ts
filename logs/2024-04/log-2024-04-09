@@ -1,0 +1,4871 @@
+2024-04-09T04:04:21.348Z [info]: Iniciando server en el puerto :3000
+2024-04-09T04:04:25.354Z [info]: canales detectados:{
+	"worker-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"worker-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"server": {
+		"message": "",
+		"subscribers": []
+	},
+	"web": {
+		"message": "",
+		"subscribers": []
+	}
+}
+2024-04-09T04:05:05.149Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T04:07:11.463Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-09T04:07:11.468Z [info]: insertInscripcion channel:web data: {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [],
+		"res": [],
+		"data": {
+			"idInscripcion": 272,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T04:07:11.472Z [info]: Cliente desconectado "web" ip:::1
+2024-04-09T04:07:17.869Z [info]: insertInscripcion salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"data": {
+					"UserInfo": {
+						"employeeNo": "34545554",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 272,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T04:08:20.909Z [info]: Iniciando server en el puerto :3000
+2024-04-09T04:08:24.092Z [info]: canales detectados:{
+	"worker-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"worker-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"server": {
+		"message": "",
+		"subscribers": []
+	},
+	"web": {
+		"message": "",
+		"subscribers": []
+	}
+}
+2024-04-09T04:08:30.712Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T04:08:34.527Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T04:08:39.819Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-09T04:08:51.810Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-09T04:09:06.696Z [info]: Cliente desconectado "worker" ip:::1
+2024-04-09T04:09:11.740Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-09T04:09:11.744Z [info]: insertInscripcion channel:web data: {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [],
+		"res": [],
+		"data": {
+			"idInscripcion": 273,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T04:09:11.747Z [info]: Cliente desconectado "web" ip:::1
+2024-04-09T04:09:13.287Z [info]: insertInscripcion salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"data": {
+					"UserInfo": {
+						"employeeNo": "34545554",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 273,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T04:09:13.891Z [info]: insertFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"UserInfo": {
+						"employeeNo": "34545554",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": "OK",
+				"statusCode": 200,
+				"data": {
+					"statusCode": 1,
+					"statusString": "OK",
+					"subStatusCode": "ok"
+				}
+			}
+		],
+		"data": {
+			"idInscripcion": 273,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-09T04:09:13.894Z [info]: insertFotoInscripcion Proceso de modificacion [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfo": {
+				"employeeNo": "34545554",
+				"name": "andres",
+				"userType": "normal",
+				"Valid": {
+					"beginTime": "2024-04-09T04:00:00Z",
+					"endTime": "2024-05-10T03:59:00Z",
+					"enable": true
+				}
+			}
+		}
+	}
+]
+2024-04-09T04:09:14.150Z [info]: insertFotoInscripcion inscripcion modificado 1
+2024-04-09T04:09:14.406Z [info]: insertFotoInscripcion foto cliente {
+	"idInscripcion": 273,
+	"idCliente": 64,
+	"docCliente": "34545554",
+	"fechaInicio": "2024-04-09 00:00:00",
+	"fechaFin": "2024-05-09 23:59:59",
+	"nomCliente": "andres",
+	"fotoCliente": "image6614937c363211712624508.jpg"
+}
+2024-04-09T04:09:14.407Z [info]: insertFotoInscripcion salida  {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertFotoInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "PUT",
+				"endpoint": "/ISAPI/Intelligent/FDLib/FDSetUp?format=json",
+				"data": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.0.140/erp/public/imagenes/clientes/image6614937c363211712624508.jpg",
+					"FDID": "1",
+					"FPID": "34545554"
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 273,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1,
+		"notificacion": {
+			"heading": "NOTIFICACION",
+			"text": "Cliente sincronizado correctamente",
+			"icon": "info",
+			"hideAfter": false,
+			"bgColor": "#6658dd"
+		}
+	}
+}
+2024-04-09T04:09:19.810Z [info]: notificarFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertFotoInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "PUT",
+				"endpoint": "/ISAPI/Intelligent/FDLib/FDSetUp?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.0.140/erp/public/imagenes/clientes/image6614937c363211712624508.jpg",
+					"FDID": "1",
+					"FPID": "34545554"
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": "Object reference not set to an instance of an object.",
+				"statusCode": 500,
+				"data": {}
+			}
+		],
+		"data": {
+			"idInscripcion": 273,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-09T04:20:57.167Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T04:20:58.299Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T04:21:54.216Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-09T04:21:54.219Z [info]: insertInscripcion channel:web data: {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [],
+		"res": [],
+		"data": {
+			"idInscripcion": 274,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T04:21:54.221Z [info]: Cliente desconectado "web" ip:::1
+2024-04-09T04:21:55.753Z [info]: insertInscripcion salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"data": {
+					"UserInfo": {
+						"employeeNo": "34545554",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 274,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T04:22:00.174Z [info]: Cliente desconectado "worker" ip:::1
+2024-04-09T04:22:27.366Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-09T04:23:28.267Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T04:23:29.517Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T04:23:55.504Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-09T04:23:55.505Z [info]: insertInscripcion channel:web data: {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [],
+		"res": [],
+		"data": {
+			"idInscripcion": 275,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T04:23:55.507Z [info]: Cliente desconectado "web" ip:::1
+2024-04-09T04:23:56.985Z [info]: insertInscripcion salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"data": {
+					"UserInfo": {
+						"employeeNo": "34545554",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 275,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T04:23:57.615Z [info]: insertFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"UserInfo": {
+						"employeeNo": "34545554",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": "OK",
+				"statusCode": 200,
+				"data": {
+					"statusCode": 1,
+					"statusString": "OK",
+					"subStatusCode": "ok"
+				}
+			}
+		],
+		"data": {
+			"idInscripcion": 275,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-09T04:23:57.618Z [info]: insertFotoInscripcion Proceso de modificacion [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfo": {
+				"employeeNo": "34545554",
+				"name": "andres",
+				"userType": "normal",
+				"Valid": {
+					"beginTime": "2024-04-09T04:00:00Z",
+					"endTime": "2024-05-10T03:59:00Z",
+					"enable": true
+				}
+			}
+		}
+	}
+]
+2024-04-09T04:23:57.873Z [info]: insertFotoInscripcion inscripcion modificado 1
+2024-04-09T04:23:58.128Z [info]: insertFotoInscripcion foto cliente {
+	"idInscripcion": 275,
+	"idCliente": 64,
+	"docCliente": "34545554",
+	"fechaInicio": "2024-04-09 00:00:00",
+	"fechaFin": "2024-05-09 23:59:59",
+	"nomCliente": "andres",
+	"fotoCliente": "image6614937c363211712624508.jpg"
+}
+2024-04-09T04:23:58.129Z [info]: insertFotoInscripcion salida  {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertFotoInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "PUT",
+				"endpoint": "/ISAPI/Intelligent/FDLib/FDSetUp?format=json",
+				"data": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.0.140/erp/public/imagenes/clientes/image6614937c363211712624508.jpg",
+					"FDID": "1",
+					"FPID": "34545554"
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 275,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1,
+		"notificacion": {
+			"heading": "NOTIFICACION",
+			"text": "Cliente sincronizado correctamente",
+			"icon": "info",
+			"hideAfter": false,
+			"bgColor": "#6658dd"
+		}
+	}
+}
+2024-04-09T04:24:04.167Z [info]: notificarFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertFotoInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "PUT",
+				"endpoint": "/ISAPI/Intelligent/FDLib/FDSetUp?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.0.140/erp/public/imagenes/clientes/image6614937c363211712624508.jpg",
+					"FDID": "1",
+					"FPID": "34545554"
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": "Object reference not set to an instance of an object.",
+				"statusCode": 500,
+				"data": {}
+			}
+		],
+		"data": {
+			"idInscripcion": 275,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-09T04:39:30.169Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T04:39:31.384Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T04:39:57.310Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-09T04:39:57.312Z [info]: insertInscripcion channel:web data: {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [],
+		"res": [],
+		"data": {
+			"idInscripcion": 276,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T04:39:57.314Z [info]: Cliente desconectado "web" ip:::1
+2024-04-09T04:39:58.781Z [info]: insertInscripcion salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"data": {
+					"UserInfo": {
+						"employeeNo": "34545554",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 276,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T04:39:58.992Z [info]: insertFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"UserInfo": {
+						"employeeNo": "34545554",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": "OK",
+				"statusCode": 200,
+				"data": {
+					"statusCode": 1,
+					"statusString": "OK",
+					"subStatusCode": "ok"
+				}
+			}
+		],
+		"data": {
+			"idInscripcion": 276,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-09T04:39:58.994Z [info]: insertFotoInscripcion Proceso de modificacion [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfo": {
+				"employeeNo": "34545554",
+				"name": "andres",
+				"userType": "normal",
+				"Valid": {
+					"beginTime": "2024-04-09T04:00:00Z",
+					"endTime": "2024-05-10T03:59:00Z",
+					"enable": true
+				}
+			}
+		}
+	}
+]
+2024-04-09T04:39:59.253Z [info]: insertFotoInscripcion inscripcion modificado 1
+2024-04-09T04:39:59.509Z [info]: insertFotoInscripcion foto cliente {
+	"idInscripcion": 276,
+	"idCliente": 64,
+	"docCliente": "34545554",
+	"fechaInicio": "2024-04-09 00:00:00",
+	"fechaFin": "2024-05-09 23:59:59",
+	"nomCliente": "andres",
+	"fotoCliente": "image6614937c363211712624508.jpg"
+}
+2024-04-09T04:39:59.510Z [info]: insertFotoInscripcion salida  {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertFotoInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "PUT",
+				"endpoint": "/ISAPI/Intelligent/FDLib/FDSetUp?format=json",
+				"data": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.0.140/erp/public/imagenes/clientes/image6614937c363211712624508.jpg",
+					"FDID": "1",
+					"FPID": "34545554"
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 276,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1,
+		"notificacion": {
+			"heading": "NOTIFICACION",
+			"text": "Cliente sincronizado correctamente",
+			"icon": "info",
+			"hideAfter": false,
+			"bgColor": "#6658dd"
+		}
+	}
+}
+2024-04-09T04:40:05.255Z [info]: notificarFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertFotoInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "PUT",
+				"endpoint": "/ISAPI/Intelligent/FDLib/FDSetUp?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.0.140/erp/public/imagenes/clientes/image6614937c363211712624508.jpg",
+					"FDID": "1",
+					"FPID": "34545554"
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": "Object reference not set to an instance of an object.",
+				"statusCode": 500,
+				"data": {}
+			}
+		],
+		"data": {
+			"idInscripcion": 276,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-09T04:40:48.252Z [info]: Cliente desconectado "worker" ip:::1
+2024-04-09T04:40:53.421Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-09T04:41:08.919Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T04:41:33.068Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-09T04:41:33.069Z [info]: insertInscripcion channel:web data: {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [],
+		"res": [],
+		"data": {
+			"idInscripcion": 277,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T04:41:33.070Z [info]: Cliente desconectado "web" ip:::1
+2024-04-09T04:41:34.645Z [info]: insertInscripcion salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"data": {
+					"UserInfo": {
+						"employeeNo": "34545554",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 277,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T04:41:34.908Z [info]: insertFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"UserInfo": {
+						"employeeNo": "34545554",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": "OK",
+				"statusCode": 200,
+				"data": {
+					"statusCode": 1,
+					"statusString": "OK",
+					"subStatusCode": "ok"
+				}
+			}
+		],
+		"data": {
+			"idInscripcion": 277,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-09T04:41:34.910Z [info]: insertFotoInscripcion Proceso de modificacion [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfo": {
+				"employeeNo": "34545554",
+				"name": "andres",
+				"userType": "normal",
+				"Valid": {
+					"beginTime": "2024-04-09T04:00:00Z",
+					"endTime": "2024-05-10T03:59:00Z",
+					"enable": true
+				}
+			}
+		}
+	}
+]
+2024-04-09T04:41:35.179Z [info]: insertFotoInscripcion inscripcion modificado 1
+2024-04-09T04:41:35.460Z [info]: insertFotoInscripcion foto cliente {
+	"idInscripcion": 277,
+	"idCliente": 64,
+	"docCliente": "34545554",
+	"fechaInicio": "2024-04-09 00:00:00",
+	"fechaFin": "2024-05-09 23:59:59",
+	"nomCliente": "andres",
+	"fotoCliente": "image6614937c363211712624508.jpg"
+}
+2024-04-09T04:41:35.461Z [info]: insertFotoInscripcion salida  {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertFotoInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "PUT",
+				"endpoint": "/ISAPI/Intelligent/FDLib/FDSetUp?format=json",
+				"data": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.0.140/erp/public/imagenes/clientes/image6614937c363211712624508.jpg",
+					"FDID": "1",
+					"FPID": "34545554"
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 277,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1,
+		"notificacion": {
+			"heading": "NOTIFICACION",
+			"text": "Cliente sincronizado correctamente",
+			"icon": "info",
+			"hideAfter": false,
+			"bgColor": "#6658dd"
+		}
+	}
+}
+2024-04-09T04:41:40.802Z [info]: notificarFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertFotoInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "PUT",
+				"endpoint": "/ISAPI/Intelligent/FDLib/FDSetUp?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.0.140/erp/public/imagenes/clientes/image6614937c363211712624508.jpg",
+					"FDID": "1",
+					"FPID": "34545554"
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": "Object reference not set to an instance of an object.",
+				"statusCode": 500,
+				"data": {}
+			}
+		],
+		"data": {
+			"idInscripcion": 277,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-09T04:42:59.957Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T04:43:18.946Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-09T04:43:18.947Z [info]: insertInscripcion channel:web data: {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [],
+		"res": [],
+		"data": {
+			"idInscripcion": 278,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T04:43:18.949Z [info]: Cliente desconectado "web" ip:::1
+2024-04-09T04:43:20.502Z [info]: insertInscripcion salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"data": {
+					"UserInfo": {
+						"employeeNo": "34545554",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 278,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T04:43:20.663Z [info]: insertFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"UserInfo": {
+						"employeeNo": "34545554",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": null,
+				"statusCode": 200,
+				"data": {
+					"statusCode": 1,
+					"statusString": "OK",
+					"subStatusCode": "ok"
+				}
+			}
+		],
+		"data": {
+			"idInscripcion": 278,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-09T04:43:20.665Z [info]: insertFotoInscripcion Proceso de modificacion [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfo": {
+				"employeeNo": "34545554",
+				"name": "andres",
+				"userType": "normal",
+				"Valid": {
+					"beginTime": "2024-04-09T04:00:00Z",
+					"endTime": "2024-05-10T03:59:00Z",
+					"enable": true
+				}
+			}
+		}
+	}
+]
+2024-04-09T04:43:20.917Z [info]: insertFotoInscripcion inscripcion modificado 1
+2024-04-09T04:43:21.168Z [info]: insertFotoInscripcion foto cliente {
+	"idInscripcion": 278,
+	"idCliente": 64,
+	"docCliente": "34545554",
+	"fechaInicio": "2024-04-09 00:00:00",
+	"fechaFin": "2024-05-09 23:59:59",
+	"nomCliente": "andres",
+	"fotoCliente": "image6614937c363211712624508.jpg"
+}
+2024-04-09T04:43:21.169Z [info]: insertFotoInscripcion salida  {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertFotoInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "PUT",
+				"endpoint": "/ISAPI/Intelligent/FDLib/FDSetUp?format=json",
+				"data": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.0.140/erp/public/imagenes/clientes/image6614937c363211712624508.jpg",
+					"FDID": "1",
+					"FPID": "34545554"
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 278,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1,
+		"notificacion": {
+			"heading": "NOTIFICACION",
+			"text": "Cliente sincronizado correctamente",
+			"icon": "info",
+			"hideAfter": false,
+			"bgColor": "#6658dd"
+		}
+	}
+}
+2024-04-09T04:43:26.646Z [info]: notificarFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertFotoInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "PUT",
+				"endpoint": "/ISAPI/Intelligent/FDLib/FDSetUp?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.0.140/erp/public/imagenes/clientes/image6614937c363211712624508.jpg",
+					"FDID": "1",
+					"FPID": "34545554"
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": "Value cannot be null. (Parameter 'value')",
+				"statusCode": 500,
+				"data": {}
+			}
+		],
+		"data": {
+			"idInscripcion": 278,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-09T04:45:02.441Z [info]: Cliente desconectado "worker" ip:::1
+2024-04-09T04:45:06.808Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-09T04:45:39.457Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T04:45:40.526Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T04:46:01.113Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-09T04:46:01.115Z [info]: insertInscripcion channel:web data: {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [],
+		"res": [],
+		"data": {
+			"idInscripcion": 279,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T04:46:01.117Z [info]: Cliente desconectado "web" ip:::1
+2024-04-09T04:46:02.565Z [info]: insertInscripcion salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"data": {
+					"UserInfo": {
+						"employeeNo": "34545554",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 279,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T04:46:02.799Z [info]: insertFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"UserInfo": {
+						"employeeNo": "34545554",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": null,
+				"statusCode": 400,
+				"data": {
+					"statusCode": 6,
+					"statusString": "Invalid Content",
+					"subStatusCode": "employeeNoAlreadyExist",
+					"errorCode": 1610637344,
+					"errorMsg": "employeeNoAlreadyExist"
+				}
+			}
+		],
+		"data": {
+			"idInscripcion": 279,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-09T04:46:02.801Z [error]: insertFotoInscripcion Registrar como error {
+	"event": "insertInscripcion:finalize",
+	"req": [
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.246",
+			"method": "POST",
+			"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"UserInfo": {
+					"employeeNo": "34545554",
+					"name": "andres",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-04-09T04:00:00Z",
+						"endTime": "2024-05-10T03:59:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"res": [
+		{
+			"statusDescription": null,
+			"statusCode": 400,
+			"data": {
+				"statusCode": 6,
+				"statusString": "Invalid Content",
+				"subStatusCode": "employeeNoAlreadyExist",
+				"errorCode": 1610637344,
+				"errorMsg": "employeeNoAlreadyExist"
+			}
+		}
+	],
+	"data": {
+		"idInscripcion": 279,
+		"idCliente": 64,
+		"docCliente": "34545554",
+		"fechaInicio": "2024-04-09 00:00:00",
+		"fechaFin": "2024-05-09 23:59:59",
+		"nomCliente": "andres",
+		"fotoCliente": "image6614937c363211712624508.jpg"
+	},
+	"auth": 1
+}
+2024-04-09T04:46:37.536Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T04:46:38.613Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T04:46:54.785Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-09T04:46:54.786Z [info]: insertInscripcion channel:web data: {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [],
+		"res": [],
+		"data": {
+			"idInscripcion": 280,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T04:46:54.788Z [info]: Cliente desconectado "web" ip:::1
+2024-04-09T04:46:56.280Z [info]: insertInscripcion salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"data": {
+					"UserInfo": {
+						"employeeNo": "34545554",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 280,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T04:46:56.430Z [info]: insertFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"UserInfo": {
+						"employeeNo": "34545554",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": null,
+				"statusCode": 200,
+				"data": {
+					"statusCode": 1,
+					"statusString": "OK",
+					"subStatusCode": "ok"
+				}
+			}
+		],
+		"data": {
+			"idInscripcion": 280,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-09T04:46:56.432Z [info]: insertFotoInscripcion Proceso de modificacion [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfo": {
+				"employeeNo": "34545554",
+				"name": "andres",
+				"userType": "normal",
+				"Valid": {
+					"beginTime": "2024-04-09T04:00:00Z",
+					"endTime": "2024-05-10T03:59:00Z",
+					"enable": true
+				}
+			}
+		}
+	}
+]
+2024-04-09T04:46:56.685Z [info]: insertFotoInscripcion inscripcion modificado 1
+2024-04-09T04:46:56.938Z [info]: insertFotoInscripcion foto cliente {
+	"idInscripcion": 280,
+	"idCliente": 64,
+	"docCliente": "34545554",
+	"fechaInicio": "2024-04-09 00:00:00",
+	"fechaFin": "2024-05-09 23:59:59",
+	"nomCliente": "andres",
+	"fotoCliente": "image6614937c363211712624508.jpg"
+}
+2024-04-09T04:46:56.939Z [info]: insertFotoInscripcion salida  {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertFotoInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "PUT",
+				"endpoint": "/ISAPI/Intelligent/FDLib/FDSetUp?format=json",
+				"data": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.0.140/erp/public/imagenes/clientes/image6614937c363211712624508.jpg",
+					"FDID": "1",
+					"FPID": "34545554"
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 280,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1,
+		"notificacion": {
+			"heading": "NOTIFICACION",
+			"text": "Cliente sincronizado correctamente",
+			"icon": "info",
+			"hideAfter": false,
+			"bgColor": "#6658dd"
+		}
+	}
+}
+2024-04-09T04:47:02.426Z [info]: notificarFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertFotoInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "PUT",
+				"endpoint": "/ISAPI/Intelligent/FDLib/FDSetUp?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.0.140/erp/public/imagenes/clientes/image6614937c363211712624508.jpg",
+					"FDID": "1",
+					"FPID": "34545554"
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": "Value cannot be null. (Parameter 'value')",
+				"statusCode": 500,
+				"data": {}
+			}
+		],
+		"data": {
+			"idInscripcion": 280,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-09T04:47:57.888Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T04:47:58.735Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T04:48:16.258Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T04:48:17.292Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T04:48:34.924Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-09T04:48:34.926Z [info]: insertInscripcion channel:web data: {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [],
+		"res": [],
+		"data": {
+			"idInscripcion": 281,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T04:48:34.927Z [info]: Cliente desconectado "web" ip:::1
+2024-04-09T04:48:36.521Z [info]: insertInscripcion salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"data": {
+					"UserInfo": {
+						"employeeNo": "34545554",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 281,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T04:48:36.692Z [info]: insertFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"UserInfo": {
+						"employeeNo": "34545554",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": null,
+				"statusCode": 200,
+				"data": {
+					"statusCode": 1,
+					"statusString": "OK",
+					"subStatusCode": "ok"
+				}
+			}
+		],
+		"data": {
+			"idInscripcion": 281,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-09T04:48:36.694Z [info]: insertFotoInscripcion Proceso de modificacion [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfo": {
+				"employeeNo": "34545554",
+				"name": "andres",
+				"userType": "normal",
+				"Valid": {
+					"beginTime": "2024-04-09T04:00:00Z",
+					"endTime": "2024-05-10T03:59:00Z",
+					"enable": true
+				}
+			}
+		}
+	}
+]
+2024-04-09T04:48:36.963Z [info]: insertFotoInscripcion inscripcion modificado 1
+2024-04-09T04:48:37.234Z [info]: insertFotoInscripcion foto cliente {
+	"idInscripcion": 281,
+	"idCliente": 64,
+	"docCliente": "34545554",
+	"fechaInicio": "2024-04-09 00:00:00",
+	"fechaFin": "2024-05-09 23:59:59",
+	"nomCliente": "andres",
+	"fotoCliente": "image6614937c363211712624508.jpg"
+}
+2024-04-09T04:48:37.234Z [info]: insertFotoInscripcion salida  {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertFotoInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "PUT",
+				"endpoint": "/ISAPI/Intelligent/FDLib/FDSetUp?format=json",
+				"data": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.0.140/erp/public/imagenes/clientes/image6614937c363211712624508.jpg",
+					"FDID": "1",
+					"FPID": "34545554"
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 281,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1,
+		"notificacion": {
+			"heading": "NOTIFICACION",
+			"text": "Cliente sincronizado correctamente",
+			"icon": "info",
+			"hideAfter": false,
+			"bgColor": "#6658dd"
+		}
+	}
+}
+2024-04-09T04:49:19.531Z [info]: Cliente desconectado "worker" ip:::1
+2024-04-09T04:49:22.545Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-09T04:49:41.164Z [info]: Cliente desconectado "worker" ip:::1
+2024-04-09T04:49:45.937Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-09T04:49:55.315Z [info]: Cliente desconectado "worker" ip:::1
+2024-04-09T04:50:05.036Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-09T04:50:29.861Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T04:50:30.921Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T04:50:52.123Z [info]: Cliente desconectado "worker" ip:::1
+2024-04-09T04:50:57.554Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-09T04:51:14.721Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-09T04:51:14.722Z [info]: insertInscripcion channel:web data: {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [],
+		"res": [],
+		"data": {
+			"idInscripcion": 282,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T04:51:14.724Z [info]: Cliente desconectado "web" ip:::1
+2024-04-09T04:51:16.393Z [info]: insertInscripcion salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"data": {
+					"UserInfo": {
+						"employeeNo": "34545554",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 282,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T04:51:16.690Z [info]: insertFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"UserInfo": {
+						"employeeNo": "34545554",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": null,
+				"statusCode": 200,
+				"data": {
+					"statusCode": 1,
+					"statusString": "OK",
+					"subStatusCode": "ok"
+				}
+			}
+		],
+		"data": {
+			"idInscripcion": 282,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-09T04:51:16.692Z [info]: insertFotoInscripcion Proceso de modificacion [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfo": {
+				"employeeNo": "34545554",
+				"name": "andres",
+				"userType": "normal",
+				"Valid": {
+					"beginTime": "2024-04-09T04:00:00Z",
+					"endTime": "2024-05-10T03:59:00Z",
+					"enable": true
+				}
+			}
+		}
+	}
+]
+2024-04-09T04:51:16.944Z [info]: insertFotoInscripcion inscripcion modificado 1
+2024-04-09T04:51:17.201Z [info]: insertFotoInscripcion foto cliente {
+	"idInscripcion": 282,
+	"idCliente": 64,
+	"docCliente": "34545554",
+	"fechaInicio": "2024-04-09 00:00:00",
+	"fechaFin": "2024-05-09 23:59:59",
+	"nomCliente": "andres",
+	"fotoCliente": "image6614937c363211712624508.jpg"
+}
+2024-04-09T04:51:17.202Z [info]: insertFotoInscripcion salida  {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertFotoInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "PUT",
+				"endpoint": "/ISAPI/Intelligent/FDLib/FDSetUp?format=json",
+				"data": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.0.140/erp/public/imagenes/clientes/image6614937c363211712624508.jpg",
+					"FDID": "1",
+					"FPID": "34545554"
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 282,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1,
+		"notificacion": {
+			"heading": "NOTIFICACION",
+			"text": "Cliente sincronizado correctamente",
+			"icon": "info",
+			"hideAfter": false,
+			"bgColor": "#6658dd"
+		}
+	}
+}
+2024-04-09T04:52:24.412Z [info]: Cliente desconectado "worker" ip:::1
+2024-04-09T04:52:36.212Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-09T04:52:50.336Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T04:52:51.365Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T04:53:09.505Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-09T04:53:09.506Z [info]: insertInscripcion channel:web data: {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [],
+		"res": [],
+		"data": {
+			"idInscripcion": 283,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T04:53:09.508Z [info]: Cliente desconectado "web" ip:::1
+2024-04-09T04:53:10.985Z [info]: insertInscripcion salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"data": {
+					"UserInfo": {
+						"employeeNo": "34545554",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 283,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T04:53:11.253Z [info]: insertFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"UserInfo": {
+						"employeeNo": "34545554",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": null,
+				"statusCode": 0,
+				"data": null
+			}
+		],
+		"data": {
+			"idInscripcion": 283,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-09T04:53:11.254Z [error]: insertFotoInscripcion Registrar como error {
+	"event": "insertInscripcion:finalize",
+	"req": [
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.246",
+			"method": "POST",
+			"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"UserInfo": {
+					"employeeNo": "34545554",
+					"name": "andres",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-04-09T04:00:00Z",
+						"endTime": "2024-05-10T03:59:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"res": [
+		{
+			"statusDescription": null,
+			"statusCode": 0,
+			"data": null
+		}
+	],
+	"data": {
+		"idInscripcion": 283,
+		"idCliente": 64,
+		"docCliente": "34545554",
+		"fechaInicio": "2024-04-09 00:00:00",
+		"fechaFin": "2024-05-09 23:59:59",
+		"nomCliente": "andres",
+		"fotoCliente": "image6614937c363211712624508.jpg"
+	},
+	"auth": 1
+}
+2024-04-09T04:55:07.524Z [info]: Cliente desconectado "worker" ip:::1
+2024-04-09T04:55:12.557Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-09T04:55:23.379Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T04:55:24.609Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T04:55:46.531Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-09T04:55:46.533Z [info]: insertInscripcion channel:web data: {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [],
+		"res": [],
+		"data": {
+			"idInscripcion": 284,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T04:55:46.534Z [info]: Cliente desconectado "web" ip:::1
+2024-04-09T04:55:48.145Z [info]: insertInscripcion salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"data": {
+					"UserInfo": {
+						"employeeNo": "34545554",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 284,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T04:55:48.448Z [info]: insertFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"UserInfo": {
+						"employeeNo": "34545554",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": "OK",
+				"statusCode": 200,
+				"data": {
+					"statusCode": 1,
+					"statusString": "OK",
+					"subStatusCode": "ok"
+				}
+			}
+		],
+		"data": {
+			"idInscripcion": 284,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-09T04:55:48.450Z [info]: insertFotoInscripcion Proceso de modificacion [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfo": {
+				"employeeNo": "34545554",
+				"name": "andres",
+				"userType": "normal",
+				"Valid": {
+					"beginTime": "2024-04-09T04:00:00Z",
+					"endTime": "2024-05-10T03:59:00Z",
+					"enable": true
+				}
+			}
+		}
+	}
+]
+2024-04-09T04:55:48.712Z [info]: insertFotoInscripcion inscripcion modificado 1
+2024-04-09T04:55:48.976Z [info]: insertFotoInscripcion foto cliente {
+	"idInscripcion": 284,
+	"idCliente": 64,
+	"docCliente": "34545554",
+	"fechaInicio": "2024-04-09 00:00:00",
+	"fechaFin": "2024-05-09 23:59:59",
+	"nomCliente": "andres",
+	"fotoCliente": "image6614937c363211712624508.jpg"
+}
+2024-04-09T04:55:48.976Z [info]: insertFotoInscripcion salida  {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertFotoInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "PUT",
+				"endpoint": "/ISAPI/Intelligent/FDLib/FDSetUp?format=json",
+				"data": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.0.140/erp/public/imagenes/clientes/image6614937c363211712624508.jpg",
+					"FDID": "1",
+					"FPID": "34545554"
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 284,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1,
+		"notificacion": {
+			"heading": "NOTIFICACION",
+			"text": "Cliente sincronizado correctamente",
+			"icon": "info",
+			"hideAfter": false,
+			"bgColor": "#6658dd"
+		}
+	}
+}
+2024-04-09T04:58:25.084Z [info]: Cliente desconectado "worker" ip:::1
+2024-04-09T05:02:49.765Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-09T05:03:06.136Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T05:03:07.165Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T05:03:26.723Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-09T05:03:26.725Z [info]: insertInscripcion channel:web data: {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [],
+		"res": [],
+		"data": {
+			"idInscripcion": 285,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T05:03:26.727Z [info]: Cliente desconectado "web" ip:::1
+2024-04-09T05:03:28.316Z [info]: insertInscripcion salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"data": {
+					"UserInfo": {
+						"employeeNo": "34545554",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 285,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T05:03:28.592Z [info]: insertFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"UserInfo": {
+						"employeeNo": "34545554",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": "OK",
+				"statusCode": 200,
+				"data": "{\n\t\"statusCode\":\t1,\n\t\"statusString\":\t\"OK\",\n\t\"subStatusCode\":\t\"ok\"\n}"
+			}
+		],
+		"data": {
+			"idInscripcion": 285,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-09T05:03:28.594Z [info]: insertFotoInscripcion Proceso de modificacion [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfo": {
+				"employeeNo": "34545554",
+				"name": "andres",
+				"userType": "normal",
+				"Valid": {
+					"beginTime": "2024-04-09T04:00:00Z",
+					"endTime": "2024-05-10T03:59:00Z",
+					"enable": true
+				}
+			}
+		}
+	}
+]
+2024-04-09T05:03:28.849Z [info]: insertFotoInscripcion inscripcion modificado 1
+2024-04-09T05:03:29.102Z [info]: insertFotoInscripcion foto cliente {
+	"idInscripcion": 285,
+	"idCliente": 64,
+	"docCliente": "34545554",
+	"fechaInicio": "2024-04-09 00:00:00",
+	"fechaFin": "2024-05-09 23:59:59",
+	"nomCliente": "andres",
+	"fotoCliente": "image6614937c363211712624508.jpg"
+}
+2024-04-09T05:03:29.103Z [info]: insertFotoInscripcion salida  {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertFotoInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "PUT",
+				"endpoint": "/ISAPI/Intelligent/FDLib/FDSetUp?format=json",
+				"data": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.0.140/erp/public/imagenes/clientes/image6614937c363211712624508.jpg",
+					"FDID": "1",
+					"FPID": "34545554"
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 285,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1,
+		"notificacion": {
+			"heading": "NOTIFICACION",
+			"text": "Cliente sincronizado correctamente",
+			"icon": "info",
+			"hideAfter": false,
+			"bgColor": "#6658dd"
+		}
+	}
+}
+2024-04-09T05:04:05.892Z [info]: Cliente desconectado "worker" ip:::1
+2024-04-09T05:07:42.964Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-09T05:08:21.597Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T05:08:22.666Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T05:08:46.873Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-09T05:08:46.875Z [info]: insertInscripcion channel:web data: {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [],
+		"res": [],
+		"data": {
+			"idInscripcion": 286,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T05:08:46.876Z [info]: Cliente desconectado "web" ip:::1
+2024-04-09T05:08:48.397Z [info]: insertInscripcion salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"data": {
+					"UserInfo": {
+						"employeeNo": "34545554",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 286,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T05:08:48.642Z [info]: insertFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"UserInfo": {
+						"employeeNo": "34545554",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": "OK",
+				"statusCode": 200,
+				"data": "{\n\t\"statusCode\":\t1,\n\t\"statusString\":\t\"OK\",\n\t\"subStatusCode\":\t\"ok\"\n}"
+			}
+		],
+		"data": {
+			"idInscripcion": 286,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-09T05:08:48.644Z [info]: insertFotoInscripcion Proceso de modificacion [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfo": {
+				"employeeNo": "34545554",
+				"name": "andres",
+				"userType": "normal",
+				"Valid": {
+					"beginTime": "2024-04-09T04:00:00Z",
+					"endTime": "2024-05-10T03:59:00Z",
+					"enable": true
+				}
+			}
+		}
+	}
+]
+2024-04-09T05:08:48.895Z [info]: insertFotoInscripcion inscripcion modificado 1
+2024-04-09T05:08:49.148Z [info]: insertFotoInscripcion foto cliente {
+	"idInscripcion": 286,
+	"idCliente": 64,
+	"docCliente": "34545554",
+	"fechaInicio": "2024-04-09 00:00:00",
+	"fechaFin": "2024-05-09 23:59:59",
+	"nomCliente": "andres",
+	"fotoCliente": "image6614937c363211712624508.jpg"
+}
+2024-04-09T05:08:49.149Z [info]: insertFotoInscripcion salida  {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertFotoInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "PUT",
+				"endpoint": "/ISAPI/Intelligent/FDLib/FDSetUp?format=json",
+				"data": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.0.140/erp/public/imagenes/clientes/image6614937c363211712624508.jpg",
+					"FDID": "1",
+					"FPID": "34545554"
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 286,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1,
+		"notificacion": {
+			"heading": "NOTIFICACION",
+			"text": "Cliente sincronizado correctamente",
+			"icon": "info",
+			"hideAfter": false,
+			"bgColor": "#6658dd"
+		}
+	}
+}
+2024-04-09T05:08:54.575Z [info]: notificarFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertFotoInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "PUT",
+				"endpoint": "/ISAPI/Intelligent/FDLib/FDSetUp?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.0.140/erp/public/imagenes/clientes/image6614937c363211712624508.jpg",
+					"FDID": "1",
+					"FPID": "34545554"
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": "Object reference not set to an instance of an object.",
+				"statusCode": 500,
+				"data": {}
+			}
+		],
+		"data": {
+			"idInscripcion": 286,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-09T05:18:34.152Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-09T05:18:59.652Z [info]: Cliente desconectado "worker" ip:::1
+2024-04-09T05:22:30.441Z [info]: Cliente desconectado "worker" ip:::1
+2024-04-09T05:22:34.804Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-09T05:23:43.213Z [info]: Cliente desconectado "worker" ip:::1
+2024-04-09T05:23:48.249Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-09T05:24:05.491Z [info]: Cliente desconectado "worker" ip:::1
+2024-04-09T05:24:10.446Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-09T05:26:00.809Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T05:26:01.996Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T05:26:09.892Z [info]: Iniciando server en el puerto :3000
+2024-04-09T05:26:13.044Z [info]: canales detectados:{
+	"worker-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"worker-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"server": {
+		"message": "",
+		"subscribers": []
+	},
+	"web": {
+		"message": "",
+		"subscribers": []
+	}
+}
+2024-04-09T05:27:38.160Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-09T05:27:38.164Z [info]: insertInscripcion channel:web data: {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [],
+		"res": [],
+		"data": {
+			"idInscripcion": 287,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T05:27:38.168Z [info]: Cliente desconectado "web" ip:::1
+2024-04-09T05:27:39.624Z [info]: insertInscripcion salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"data": {
+					"UserInfo": {
+						"employeeNo": "34545554",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 287,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T05:28:09.577Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-09T05:28:25.494Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T05:28:49.644Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-09T05:28:49.647Z [info]: insertInscripcion channel:web data: {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [],
+		"res": [],
+		"data": {
+			"idInscripcion": 288,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T05:28:49.649Z [info]: Cliente desconectado "web" ip:::1
+2024-04-09T05:28:51.143Z [info]: insertInscripcion salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"data": {
+					"UserInfo": {
+						"employeeNo": "34545554",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 288,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T05:28:51.449Z [info]: insertFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"UserInfo": {
+						"employeeNo": "34545554",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": "OK",
+				"statusCode": 200,
+				"data": "{\n\t\"statusCode\":\t1,\n\t\"statusString\":\t\"OK\",\n\t\"subStatusCode\":\t\"ok\"\n}"
+			}
+		],
+		"data": {
+			"idInscripcion": 288,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-09T05:28:51.452Z [info]: insertFotoInscripcion Proceso de modificacion [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfo": {
+				"employeeNo": "34545554",
+				"name": "andres",
+				"userType": "normal",
+				"Valid": {
+					"beginTime": "2024-04-09T04:00:00Z",
+					"endTime": "2024-05-10T03:59:00Z",
+					"enable": true
+				}
+			}
+		}
+	}
+]
+2024-04-09T05:28:51.708Z [info]: insertFotoInscripcion inscripcion modificado 1
+2024-04-09T05:28:51.961Z [info]: insertFotoInscripcion foto cliente {
+	"idInscripcion": 288,
+	"idCliente": 64,
+	"docCliente": "34545554",
+	"fechaInicio": "2024-04-09 00:00:00",
+	"fechaFin": "2024-05-09 23:59:59",
+	"nomCliente": "andres",
+	"fotoCliente": "image6614937c363211712624508.jpg"
+}
+2024-04-09T05:28:51.962Z [info]: insertFotoInscripcion salida  {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertFotoInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "PUT",
+				"endpoint": "/ISAPI/Intelligent/FDLib/FDSetUp?format=json",
+				"data": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.0.140/erp/public/imagenes/clientes/image6614937c363211712624508.jpg",
+					"FDID": "1",
+					"FPID": "34545554"
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 288,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1,
+		"notificacion": {
+			"heading": "NOTIFICACION",
+			"text": "Cliente sincronizado correctamente",
+			"icon": "info",
+			"hideAfter": false,
+			"bgColor": "#6658dd"
+		}
+	}
+}
+2024-04-09T05:28:57.359Z [info]: notificarFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertFotoInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "PUT",
+				"endpoint": "/ISAPI/Intelligent/FDLib/FDSetUp?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.0.140/erp/public/imagenes/clientes/image6614937c363211712624508.jpg",
+					"FDID": "1",
+					"FPID": "34545554"
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": "Object reference not set to an instance of an object.",
+				"statusCode": 500,
+				"data": {}
+			}
+		],
+		"data": {
+			"idInscripcion": 288,
+			"idCliente": 64,
+			"docCliente": "34545554",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614937c363211712624508.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-09T05:31:52.909Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T05:31:53.806Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T05:44:12.685Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T05:44:13.411Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T05:44:14.518Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T05:51:27.478Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-09T05:51:27.481Z [info]: insertInscripcion channel:web data: {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [],
+		"res": [],
+		"data": {
+			"idInscripcion": 289,
+			"idCliente": 64,
+			"docCliente": "22222",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614d736282f81712641846.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T05:51:27.483Z [info]: Cliente desconectado "web" ip:::1
+2024-04-09T05:51:29.056Z [info]: insertInscripcion salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"data": {
+					"UserInfo": {
+						"employeeNo": "22222",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 289,
+			"idCliente": 64,
+			"docCliente": "22222",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614d736282f81712641846.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T05:51:29.243Z [info]: insertFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"UserInfo": {
+						"employeeNo": "22222",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": "OK",
+				"statusCode": 200,
+				"data": "{\n\t\"statusCode\":\t1,\n\t\"statusString\":\t\"OK\",\n\t\"subStatusCode\":\t\"ok\"\n}"
+			}
+		],
+		"data": {
+			"idInscripcion": 289,
+			"idCliente": 64,
+			"docCliente": "22222",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614d736282f81712641846.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-09T05:51:29.245Z [info]: insertFotoInscripcion Proceso de modificacion [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfo": {
+				"employeeNo": "22222",
+				"name": "andres",
+				"userType": "normal",
+				"Valid": {
+					"beginTime": "2024-04-09T04:00:00Z",
+					"endTime": "2024-05-10T03:59:00Z",
+					"enable": true
+				}
+			}
+		}
+	}
+]
+2024-04-09T05:51:29.508Z [info]: insertFotoInscripcion inscripcion modificado 1
+2024-04-09T05:51:29.772Z [info]: insertFotoInscripcion foto cliente {
+	"idInscripcion": 289,
+	"idCliente": 64,
+	"docCliente": "22222",
+	"fechaInicio": "2024-04-09 00:00:00",
+	"fechaFin": "2024-05-09 23:59:59",
+	"nomCliente": "andres",
+	"fotoCliente": "image6614d736282f81712641846.jpg"
+}
+2024-04-09T05:51:29.772Z [info]: insertFotoInscripcion salida  {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertFotoInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "PUT",
+				"endpoint": "/ISAPI/Intelligent/FDLib/FDSetUp?format=json",
+				"data": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.0.140/erp/public/imagenes/clientes/image6614d736282f81712641846.jpg",
+					"FDID": "1",
+					"FPID": "22222"
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 289,
+			"idCliente": 64,
+			"docCliente": "22222",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614d736282f81712641846.jpg"
+		},
+		"auth": 1,
+		"notificacion": {
+			"heading": "NOTIFICACION",
+			"text": "Cliente sincronizado correctamente",
+			"icon": "info",
+			"hideAfter": false,
+			"bgColor": "#6658dd"
+		}
+	}
+}
+2024-04-09T05:51:35.143Z [info]: notificarFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertFotoInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "PUT",
+				"endpoint": "/ISAPI/Intelligent/FDLib/FDSetUp?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.0.140/erp/public/imagenes/clientes/image6614d736282f81712641846.jpg",
+					"FDID": "1",
+					"FPID": "22222"
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": "Object reference not set to an instance of an object.",
+				"statusCode": 500,
+				"data": {}
+			}
+		],
+		"data": {
+			"idInscripcion": 289,
+			"idCliente": 64,
+			"docCliente": "22222",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614d736282f81712641846.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-09T08:17:44.290Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T08:17:44.300Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T18:52:08.548Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T18:52:08.561Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T20:14:58.259Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T21:28:07.744Z [info]: Iniciando server en el puerto :3000
+2024-04-09T21:28:12.121Z [info]: canales detectados:{
+	"worker-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"worker-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"server": {
+		"message": "",
+		"subscribers": []
+	},
+	"web": {
+		"message": "",
+		"subscribers": []
+	}
+}
+2024-04-09T21:28:52.663Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-09T21:29:12.815Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T21:31:56.797Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T21:31:57.944Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T21:34:04.581Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T21:34:05.886Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T21:34:26.900Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-09T21:34:26.921Z [info]: insertInscripcion channel:web data: {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [],
+		"res": [],
+		"data": {
+			"idInscripcion": 290,
+			"idCliente": 64,
+			"docCliente": "22222",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614d736282f81712641846.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T21:34:26.928Z [info]: Cliente desconectado "web" ip:::1
+2024-04-09T21:34:28.425Z [info]: insertInscripcion salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"data": {
+					"UserInfo": {
+						"employeeNo": "22222",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 290,
+			"idCliente": 64,
+			"docCliente": "22222",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614d736282f81712641846.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T21:34:49.904Z [info]: insertFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"UserInfo": {
+						"employeeNo": "22222",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": "Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder. (192.168.1.246:80)",
+				"statusCode": 500,
+				"data": {}
+			}
+		],
+		"data": {
+			"idInscripcion": 290,
+			"idCliente": 64,
+			"docCliente": "22222",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614d736282f81712641846.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-09T21:34:49.905Z [error]: insertFotoInscripcion Registrar como error {
+	"event": "insertInscripcion:finalize",
+	"req": [
+		{
+			"idLector": 2,
+			"create_time": null,
+			"nomLector": "Facial Ingreso -stiven",
+			"ipLector": "192.168.1.246",
+			"method": "POST",
+			"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+			"portLector": 80,
+			"userLector": "admin",
+			"passLector": "molomix654",
+			"condicionLector": 1,
+			"data": {
+				"UserInfo": {
+					"employeeNo": "22222",
+					"name": "andres",
+					"userType": "normal",
+					"Valid": {
+						"beginTime": "2024-04-09T04:00:00Z",
+						"endTime": "2024-05-10T03:59:00Z",
+						"enable": true
+					}
+				}
+			}
+		}
+	],
+	"res": [
+		{
+			"statusDescription": "Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder. (192.168.1.246:80)",
+			"statusCode": 500,
+			"data": {}
+		}
+	],
+	"data": {
+		"idInscripcion": 290,
+		"idCliente": 64,
+		"docCliente": "22222",
+		"fechaInicio": "2024-04-09 00:00:00",
+		"fechaFin": "2024-05-09 23:59:59",
+		"nomCliente": "andres",
+		"fotoCliente": "image6614d736282f81712641846.jpg"
+	},
+	"auth": 1
+}
+2024-04-09T21:42:22.250Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T21:42:23.656Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T21:43:36.983Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-09T21:43:36.985Z [info]: insertInscripcion channel:web data: {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [],
+		"res": [],
+		"data": {
+			"idInscripcion": 291,
+			"idCliente": 64,
+			"docCliente": "22222",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614d736282f81712641846.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T21:43:36.988Z [info]: Cliente desconectado "web" ip:::1
+2024-04-09T21:43:38.708Z [info]: insertInscripcion salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"data": {
+					"UserInfo": {
+						"employeeNo": "22222",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 291,
+			"idCliente": 64,
+			"docCliente": "22222",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614d736282f81712641846.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T21:43:38.870Z [info]: insertFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"UserInfo": {
+						"employeeNo": "22222",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": "OK",
+				"statusCode": 200,
+				"data": "{\n\t\"statusCode\":\t1,\n\t\"statusString\":\t\"OK\",\n\t\"subStatusCode\":\t\"ok\"\n}"
+			}
+		],
+		"data": {
+			"idInscripcion": 291,
+			"idCliente": 64,
+			"docCliente": "22222",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614d736282f81712641846.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-09T21:43:38.872Z [info]: insertFotoInscripcion Proceso de modificacion [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfo": {
+				"employeeNo": "22222",
+				"name": "andres",
+				"userType": "normal",
+				"Valid": {
+					"beginTime": "2024-04-09T04:00:00Z",
+					"endTime": "2024-05-10T03:59:00Z",
+					"enable": true
+				}
+			}
+		}
+	}
+]
+2024-04-09T21:43:39.158Z [info]: insertFotoInscripcion inscripcion modificado 1
+2024-04-09T21:43:39.433Z [info]: insertFotoInscripcion foto cliente {
+	"idInscripcion": 291,
+	"idCliente": 64,
+	"docCliente": "22222",
+	"fechaInicio": "2024-04-09 00:00:00",
+	"fechaFin": "2024-05-09 23:59:59",
+	"nomCliente": "andres",
+	"fotoCliente": "image6614d736282f81712641846.jpg"
+}
+2024-04-09T21:43:39.434Z [info]: insertFotoInscripcion salida  {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertFotoInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "PUT",
+				"endpoint": "/ISAPI/Intelligent/FDLib/FDSetUp?format=json",
+				"data": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image6614d736282f81712641846.jpg",
+					"FDID": "1",
+					"FPID": "22222"
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 291,
+			"idCliente": 64,
+			"docCliente": "22222",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614d736282f81712641846.jpg"
+		},
+		"auth": 1,
+		"notificacion": {
+			"heading": "NOTIFICACION",
+			"text": "Cliente sincronizado correctamente",
+			"icon": "info",
+			"hideAfter": false,
+			"bgColor": "#6658dd"
+		}
+	}
+}
+2024-04-09T21:43:39.823Z [info]: notificarFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertFotoInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "PUT",
+				"endpoint": "/ISAPI/Intelligent/FDLib/FDSetUp?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image6614d736282f81712641846.jpg",
+					"FDID": "1",
+					"FPID": "22222"
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": "Bad Request",
+				"statusCode": 400,
+				"data": "{\n\t\"statusCode\":\t6,\n\t\"statusString\":\t\"Invalid Content\",\n\t\"subStatusCode\":\t\"SubpicAnalysisModelingError\",\n\t\"errorCode\":\t1610612791,\n\t\"errorMsg\":\t\"SubpicAnalysisModelingError\"\n}"
+			}
+		],
+		"data": {
+			"idInscripcion": 291,
+			"idCliente": 64,
+			"docCliente": "22222",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6614d736282f81712641846.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-09T22:53:28.781Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T22:55:51.279Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T22:55:52.225Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T23:00:35.230Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T23:00:36.161Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T23:02:09.938Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T23:02:10.882Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T23:02:39.240Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T23:02:40.171Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T23:04:17.510Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T23:04:18.487Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T23:29:41.215Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T23:29:42.164Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T23:29:50.836Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T23:29:53.572Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T23:35:45.350Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T23:35:46.289Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T23:38:02.771Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T23:38:03.641Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T23:38:59.486Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T23:39:00.354Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T23:41:36.753Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T23:41:37.737Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T23:41:45.280Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T23:41:46.120Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T23:43:27.394Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T23:43:28.316Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T23:48:07.635Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T23:48:08.521Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T23:49:20.049Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T23:49:20.972Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T23:58:08.216Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-09T23:58:09.474Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-09T23:59:01.938Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-09T23:59:01.940Z [info]: insertInscripcion channel:web data: {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [],
+		"res": [],
+		"data": {
+			"idInscripcion": 292,
+			"idCliente": 64,
+			"docCliente": "22222",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6615d5aa0aa461712706986.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T23:59:01.943Z [info]: Cliente desconectado "web" ip:::1
+2024-04-09T23:59:08.544Z [info]: insertInscripcion salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"data": {
+					"UserInfo": {
+						"employeeNo": "22222",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 292,
+			"idCliente": 64,
+			"docCliente": "22222",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6615d5aa0aa461712706986.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-09T23:59:08.685Z [info]: insertFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"UserInfo": {
+						"employeeNo": "22222",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": "OK",
+				"statusCode": 200,
+				"data": "{\n\t\"statusCode\":\t1,\n\t\"statusString\":\t\"OK\",\n\t\"subStatusCode\":\t\"ok\"\n}"
+			}
+		],
+		"data": {
+			"idInscripcion": 292,
+			"idCliente": 64,
+			"docCliente": "22222",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6615d5aa0aa461712706986.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-09T23:59:08.687Z [info]: insertFotoInscripcion Proceso de modificacion [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfo": {
+				"employeeNo": "22222",
+				"name": "andres",
+				"userType": "normal",
+				"Valid": {
+					"beginTime": "2024-04-09T04:00:00Z",
+					"endTime": "2024-05-10T03:59:00Z",
+					"enable": true
+				}
+			}
+		}
+	}
+]
+2024-04-09T23:59:08.963Z [info]: insertFotoInscripcion inscripcion modificado 1
+2024-04-09T23:59:09.237Z [info]: insertFotoInscripcion foto cliente {
+	"idInscripcion": 292,
+	"idCliente": 64,
+	"docCliente": "22222",
+	"fechaInicio": "2024-04-09 00:00:00",
+	"fechaFin": "2024-05-09 23:59:59",
+	"nomCliente": "andres",
+	"fotoCliente": "image6615d5aa0aa461712706986.jpg"
+}
+2024-04-09T23:59:09.237Z [info]: insertFotoInscripcion salida  {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertFotoInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "PUT",
+				"endpoint": "/ISAPI/Intelligent/FDLib/FDSetUp?format=json",
+				"data": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image6615d5aa0aa461712706986.jpg",
+					"FDID": "1",
+					"FPID": "22222"
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 292,
+			"idCliente": 64,
+			"docCliente": "22222",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6615d5aa0aa461712706986.jpg"
+		},
+		"auth": 1,
+		"notificacion": {
+			"heading": "NOTIFICACION",
+			"text": "Cliente sincronizado correctamente",
+			"icon": "info",
+			"hideAfter": false,
+			"bgColor": "#6658dd"
+		}
+	}
+}
+2024-04-09T23:59:09.489Z [info]: notificarFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertFotoInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "PUT",
+				"endpoint": "/ISAPI/Intelligent/FDLib/FDSetUp?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image6615d5aa0aa461712706986.jpg",
+					"FDID": "1",
+					"FPID": "22222"
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": "Bad Request",
+				"statusCode": 400,
+				"data": "{\n\t\"statusCode\":\t6,\n\t\"statusString\":\t\"Invalid Content\",\n\t\"subStatusCode\":\t\"SubpicAnalysisModelingError\",\n\t\"errorCode\":\t1610612791,\n\t\"errorMsg\":\t\"SubpicAnalysisModelingError\"\n}"
+			}
+		],
+		"data": {
+			"idInscripcion": 292,
+			"idCliente": 64,
+			"docCliente": "22222",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6615d5aa0aa461712706986.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-10T00:02:26.252Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-10T00:02:27.348Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-10T00:02:29.678Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-10T00:02:31.045Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-10T00:03:47.130Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-10T00:03:47.132Z [info]: insertInscripcion channel:web data: {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [],
+		"res": [],
+		"data": {
+			"idInscripcion": 293,
+			"idCliente": 64,
+			"docCliente": "22222",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6615d7014fb131712707329.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-10T00:03:47.133Z [info]: Cliente desconectado "web" ip:::1
+2024-04-10T00:03:48.553Z [info]: insertInscripcion salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"data": {
+					"UserInfo": {
+						"employeeNo": "22222",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 293,
+			"idCliente": 64,
+			"docCliente": "22222",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6615d7014fb131712707329.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-10T00:03:48.725Z [info]: insertFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"UserInfo": {
+						"employeeNo": "22222",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": "OK",
+				"statusCode": 200,
+				"data": "{\n\t\"statusCode\":\t1,\n\t\"statusString\":\t\"OK\",\n\t\"subStatusCode\":\t\"ok\"\n}"
+			}
+		],
+		"data": {
+			"idInscripcion": 293,
+			"idCliente": 64,
+			"docCliente": "22222",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6615d7014fb131712707329.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-10T00:03:48.726Z [info]: insertFotoInscripcion Proceso de modificacion [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfo": {
+				"employeeNo": "22222",
+				"name": "andres",
+				"userType": "normal",
+				"Valid": {
+					"beginTime": "2024-04-09T04:00:00Z",
+					"endTime": "2024-05-10T03:59:00Z",
+					"enable": true
+				}
+			}
+		}
+	}
+]
+2024-04-10T00:03:48.982Z [info]: insertFotoInscripcion inscripcion modificado 1
+2024-04-10T00:03:49.238Z [info]: insertFotoInscripcion foto cliente {
+	"idInscripcion": 293,
+	"idCliente": 64,
+	"docCliente": "22222",
+	"fechaInicio": "2024-04-09 00:00:00",
+	"fechaFin": "2024-05-09 23:59:59",
+	"nomCliente": "andres",
+	"fotoCliente": "image6615d7014fb131712707329.jpg"
+}
+2024-04-10T00:03:49.239Z [info]: insertFotoInscripcion salida  {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertFotoInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "PUT",
+				"endpoint": "/ISAPI/Intelligent/FDLib/FDSetUp?format=json",
+				"data": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image6615d7014fb131712707329.jpg",
+					"FDID": "1",
+					"FPID": "22222"
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 293,
+			"idCliente": 64,
+			"docCliente": "22222",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6615d7014fb131712707329.jpg"
+		},
+		"auth": 1,
+		"notificacion": {
+			"heading": "NOTIFICACION",
+			"text": "Cliente sincronizado correctamente",
+			"icon": "info",
+			"hideAfter": false,
+			"bgColor": "#6658dd"
+		}
+	}
+}
+2024-04-10T00:03:49.597Z [info]: notificarFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertFotoInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "PUT",
+				"endpoint": "/ISAPI/Intelligent/FDLib/FDSetUp?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image6615d7014fb131712707329.jpg",
+					"FDID": "1",
+					"FPID": "22222"
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": "OK",
+				"statusCode": 200,
+				"data": "{\n\t\"statusCode\":\t1,\n\t\"statusString\":\t\"OK\",\n\t\"subStatusCode\":\t\"ok\"\n}"
+			}
+		],
+		"data": {
+			"idInscripcion": 293,
+			"idCliente": 64,
+			"docCliente": "22222",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6615d7014fb131712707329.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-10T00:21:49.171Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-10T00:21:50.574Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-10T00:48:23.269Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-10T00:48:23.270Z [info]: insertInscripcion channel:web data: {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [],
+		"res": [],
+		"data": {
+			"idInscripcion": 294,
+			"idCliente": 64,
+			"docCliente": "22222",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6615d7014fb131712707329.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-10T00:48:23.272Z [info]: Cliente desconectado "web" ip:::1
+2024-04-10T00:48:24.810Z [info]: insertInscripcion salida  {
+	"request": "PUBLISH",
+	"message": {
+		"event": "insertInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"data": {
+					"UserInfo": {
+						"employeeNo": "22222",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 294,
+			"idCliente": 64,
+			"docCliente": "22222",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6615d7014fb131712707329.jpg"
+		},
+		"auth": 1
+	},
+	"channel": "web"
+}
+2024-04-10T00:48:24.909Z [info]: insertFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "POST",
+				"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"UserInfo": {
+						"employeeNo": "22222",
+						"name": "andres",
+						"userType": "normal",
+						"Valid": {
+							"beginTime": "2024-04-09T04:00:00Z",
+							"endTime": "2024-05-10T03:59:00Z",
+							"enable": true
+						}
+					}
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": "OK",
+				"statusCode": 200,
+				"data": "{\n\t\"statusCode\":\t1,\n\t\"statusString\":\t\"OK\",\n\t\"subStatusCode\":\t\"ok\"\n}"
+			}
+		],
+		"data": {
+			"idInscripcion": 294,
+			"idCliente": 64,
+			"docCliente": "22222",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6615d7014fb131712707329.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-10T00:48:24.911Z [info]: insertFotoInscripcion Proceso de modificacion [
+	{
+		"idLector": 2,
+		"create_time": null,
+		"nomLector": "Facial Ingreso -stiven",
+		"ipLector": "192.168.1.246",
+		"method": "POST",
+		"endpoint": "/ISAPI/AccessControl/UserInfo/Record?format=json",
+		"portLector": 80,
+		"userLector": "admin",
+		"passLector": "molomix654",
+		"condicionLector": 1,
+		"data": {
+			"UserInfo": {
+				"employeeNo": "22222",
+				"name": "andres",
+				"userType": "normal",
+				"Valid": {
+					"beginTime": "2024-04-09T04:00:00Z",
+					"endTime": "2024-05-10T03:59:00Z",
+					"enable": true
+				}
+			}
+		}
+	}
+]
+2024-04-10T00:48:25.188Z [info]: insertFotoInscripcion inscripcion modificado 1
+2024-04-10T00:48:25.476Z [info]: insertFotoInscripcion foto cliente {
+	"idInscripcion": 294,
+	"idCliente": 64,
+	"docCliente": "22222",
+	"fechaInicio": "2024-04-09 00:00:00",
+	"fechaFin": "2024-05-09 23:59:59",
+	"nomCliente": "andres",
+	"fotoCliente": "image6615d7014fb131712707329.jpg"
+}
+2024-04-10T00:48:25.477Z [info]: insertFotoInscripcion salida  {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertFotoInscripcion:init",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"sucursal_id": 1,
+				"method": "PUT",
+				"endpoint": "/ISAPI/Intelligent/FDLib/FDSetUp?format=json",
+				"data": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image6615d7014fb131712707329.jpg",
+					"FDID": "1",
+					"FPID": "22222"
+				}
+			}
+		],
+		"res": [],
+		"data": {
+			"idInscripcion": 294,
+			"idCliente": 64,
+			"docCliente": "22222",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6615d7014fb131712707329.jpg"
+		},
+		"auth": 1,
+		"notificacion": {
+			"heading": "NOTIFICACION",
+			"text": "Cliente sincronizado correctamente",
+			"icon": "info",
+			"hideAfter": false,
+			"bgColor": "#6658dd"
+		}
+	}
+}
+2024-04-10T00:48:25.696Z [info]: notificarFotoInscripcion channel:server data: {
+	"request": "PUBLISH",
+	"channel": "server",
+	"message": {
+		"event": "insertFotoInscripcion:finalize",
+		"req": [
+			{
+				"idLector": 2,
+				"create_time": null,
+				"nomLector": "Facial Ingreso -stiven",
+				"ipLector": "192.168.1.246",
+				"method": "PUT",
+				"endpoint": "/ISAPI/Intelligent/FDLib/FDSetUp?format=json",
+				"portLector": 80,
+				"userLector": "admin",
+				"passLector": "molomix654",
+				"condicionLector": 1,
+				"data": {
+					"faceLibType": "blackFD",
+					"faceURL": "http://192.168.1.240/erp/public/imagenes/clientes/image6615d7014fb131712707329.jpg",
+					"FDID": "1",
+					"FPID": "22222"
+				}
+			}
+		],
+		"res": [
+			{
+				"statusDescription": "OK",
+				"statusCode": 200,
+				"data": "{\n\t\"statusCode\":\t1,\n\t\"statusString\":\t\"OK\",\n\t\"subStatusCode\":\t\"ok\"\n}"
+			}
+		],
+		"data": {
+			"idInscripcion": 294,
+			"idCliente": 64,
+			"docCliente": "22222",
+			"fechaInicio": "2024-04-09 00:00:00",
+			"fechaFin": "2024-05-09 23:59:59",
+			"nomCliente": "andres",
+			"fotoCliente": "image6615d7014fb131712707329.jpg"
+		},
+		"auth": 1
+	}
+}
+2024-04-10T00:50:24.466Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-10T00:50:26.128Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1

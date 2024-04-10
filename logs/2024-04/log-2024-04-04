@@ -1,0 +1,792 @@
+2024-04-04T04:01:04.783Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T04:01:04.785Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T04:01:04.786Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T04:31:05.865Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T04:31:05.884Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T04:31:05.890Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T04:35:04.163Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T04:35:04.165Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T04:35:04.166Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T04:36:04.114Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T04:36:04.115Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T04:36:04.117Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T04:38:04.195Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T04:38:04.196Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T04:38:04.197Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T04:41:04.222Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T04:41:04.223Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T04:41:04.225Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T04:42:04.155Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T04:42:04.155Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T04:42:04.156Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T04:43:04.125Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T04:43:04.126Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T04:43:04.128Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T04:45:04.126Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T04:45:04.127Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T04:45:04.128Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T04:46:04.627Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T04:46:04.627Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T04:46:04.628Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T04:47:04.316Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T04:47:04.317Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T04:47:04.318Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T04:48:04.416Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T04:48:04.417Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T04:48:04.418Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T04:49:04.243Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T04:49:04.243Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T04:49:04.244Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T04:50:04.537Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T04:50:04.538Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T04:50:04.540Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T04:51:04.947Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T04:51:04.948Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T04:51:04.949Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T04:52:04.238Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T04:52:04.239Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T04:52:04.245Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T04:53:04.468Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T04:53:04.469Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T04:53:04.470Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T04:54:04.283Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T04:54:04.284Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T04:54:04.285Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T04:55:04.280Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T04:55:04.280Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T04:55:04.282Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T04:56:04.119Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T04:56:04.120Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T04:56:04.121Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T04:57:04.158Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T04:57:04.160Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T04:57:04.161Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T04:58:04.150Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T04:58:04.150Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T04:58:04.152Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T04:59:04.190Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T04:59:04.191Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T04:59:04.192Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T05:00:04.247Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T05:00:04.249Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T05:00:04.250Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T05:01:04.740Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T05:01:04.741Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T05:01:04.742Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T05:02:04.172Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T05:02:04.172Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T05:02:04.174Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T05:03:04.101Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T05:03:04.102Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T05:03:04.104Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T05:06:04.381Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T05:06:04.382Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T05:06:04.383Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T05:08:04.093Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T05:08:04.094Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T05:08:04.096Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T05:10:04.294Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T05:10:04.295Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T05:10:04.296Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T05:26:04.907Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T05:26:04.908Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T05:26:04.910Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T05:27:04.157Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T05:27:04.158Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T05:27:04.159Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T05:28:04.098Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T05:28:04.099Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T05:28:04.100Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T05:29:04.207Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T05:29:04.208Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T05:29:04.214Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T05:35:04.631Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T05:35:04.631Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T05:35:04.632Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T05:42:04.491Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T05:42:04.492Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T05:42:04.493Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T05:49:03.911Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T05:49:03.912Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [
+			{
+				"idDetalleInscripcion": 136,
+				"idInscripcion": 191,
+				"idCliente": 39,
+				"idPaquete": 1,
+				"fechaInicio": "2024-03-04 00:00:00",
+				"fechaFin": "2024-04-03 23:59:59",
+				"costoPaquete": 150,
+				"nomCliente": "Oscar Olmos",
+				"docCliente": 3910133,
+				"tel1Cliente": 78454216,
+				"tel2Cliente": 78451699,
+				"dirCliente": "Barrio El Pariqwer",
+				"mailCliente": "asd6xqwe@gmail.com",
+				"CondicionCliente": 0,
+				"fotoCliente": "image65ed0797eceb11710032791.jpg",
+				"create_at": "2024-04-01 21:29:01",
+				"create_time": null,
+				"idTipoPago": 1,
+				"idTipoComprobante": 1,
+				"fechaInscripcion": "2024-03-31",
+				"impuestoInscripcion": "0.00",
+				"estadoInscripcion": 1,
+				"idUsuario": 1,
+				"sincronizacion": "no",
+				"estado": "vig"
+			}
+		],
+		"anadir": []
+	}
+}
+2024-04-04T05:49:03.914Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T05:50:03.782Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T05:50:03.783Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [
+			{
+				"idDetalleInscripcion": 136,
+				"idInscripcion": 191,
+				"idCliente": 39,
+				"idPaquete": 1,
+				"fechaInicio": "2024-03-04 00:00:00",
+				"fechaFin": "2024-04-03 23:59:59",
+				"costoPaquete": 150,
+				"nomCliente": "Oscar Olmos",
+				"docCliente": 3910133,
+				"tel1Cliente": 78454216,
+				"tel2Cliente": 78451699,
+				"dirCliente": "Barrio El Pariqwer",
+				"mailCliente": "asd6xqwe@gmail.com",
+				"CondicionCliente": 0,
+				"fotoCliente": "image65ed0797eceb11710032791.jpg",
+				"create_at": "2024-04-01 21:29:01",
+				"create_time": null,
+				"idTipoPago": 1,
+				"idTipoComprobante": 1,
+				"fechaInscripcion": "2024-03-31",
+				"impuestoInscripcion": "0.00",
+				"estadoInscripcion": 1,
+				"idUsuario": 1,
+				"sincronizacion": "no",
+				"estado": "vig"
+			}
+		],
+		"anadir": []
+	}
+}
+2024-04-04T05:50:03.785Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T05:51:03.579Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T05:51:03.580Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [
+			{
+				"idDetalleInscripcion": 136,
+				"idInscripcion": 191,
+				"idCliente": 39,
+				"idPaquete": 1,
+				"fechaInicio": "2024-03-04 00:00:00",
+				"fechaFin": "2024-04-03 23:59:59",
+				"costoPaquete": 150,
+				"nomCliente": "Oscar Olmos",
+				"docCliente": 3910133,
+				"tel1Cliente": 78454216,
+				"tel2Cliente": 78451699,
+				"dirCliente": "Barrio El Pariqwer",
+				"mailCliente": "asd6xqwe@gmail.com",
+				"CondicionCliente": 0,
+				"fotoCliente": "image65ed0797eceb11710032791.jpg",
+				"create_at": "2024-04-01 21:29:01",
+				"create_time": null,
+				"idTipoPago": 1,
+				"idTipoComprobante": 1,
+				"fechaInscripcion": "2024-03-31",
+				"impuestoInscripcion": "0.00",
+				"estadoInscripcion": 1,
+				"idUsuario": 1,
+				"sincronizacion": "no",
+				"estado": "vig"
+			}
+		],
+		"anadir": [
+			{
+				"idDetalleInscripcion": 137,
+				"idInscripcion": 192,
+				"idCliente": 49,
+				"idPaquete": 1,
+				"fechaInicio": "2024-04-04 00:00:00",
+				"fechaFin": "2024-05-04 23:59:59",
+				"costoPaquete": 160,
+				"nomCliente": "Pedro Vela",
+				"docCliente": 4949,
+				"tel1Cliente": 494949,
+				"tel2Cliente": 49494949,
+				"dirCliente": "vela street",
+				"mailCliente": "vela@gmail.com",
+				"CondicionCliente": 1,
+				"fotoCliente": "image660a410f643f81711948047.jpg",
+				"create_at": "2024-04-01 21:29:01",
+				"create_time": null,
+				"idTipoPago": 1,
+				"idTipoComprobante": 1,
+				"fechaInscripcion": "2024-04-01",
+				"impuestoInscripcion": "0.00",
+				"estadoInscripcion": 1,
+				"idUsuario": 1,
+				"sincronizacion": "no",
+				"estado": "ant"
+			}
+		]
+	}
+}
+2024-04-04T05:51:03.582Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T05:52:03.638Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T05:52:03.639Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [
+			{
+				"idDetalleInscripcion": 136,
+				"idInscripcion": 191,
+				"idCliente": 39,
+				"idPaquete": 1,
+				"fechaInicio": "2024-03-04 00:00:00",
+				"fechaFin": "2024-04-03 23:59:59",
+				"costoPaquete": 150,
+				"nomCliente": "Oscar Olmos",
+				"docCliente": 3910133,
+				"tel1Cliente": 78454216,
+				"tel2Cliente": 78451699,
+				"dirCliente": "Barrio El Pariqwer",
+				"mailCliente": "asd6xqwe@gmail.com",
+				"CondicionCliente": 0,
+				"fotoCliente": "image65ed0797eceb11710032791.jpg",
+				"create_at": "2024-04-01 21:29:01",
+				"create_time": null,
+				"idTipoPago": 1,
+				"idTipoComprobante": 1,
+				"fechaInscripcion": "2024-03-31",
+				"impuestoInscripcion": "0.00",
+				"estadoInscripcion": 1,
+				"idUsuario": 1,
+				"sincronizacion": "no",
+				"estado": "vig"
+			}
+		],
+		"anadir": [
+			{
+				"idDetalleInscripcion": 137,
+				"idInscripcion": 192,
+				"idCliente": 49,
+				"idPaquete": 1,
+				"fechaInicio": "2024-04-04 00:00:00",
+				"fechaFin": "2024-05-04 23:59:59",
+				"costoPaquete": 160,
+				"nomCliente": "Pedro Vela",
+				"docCliente": 4949,
+				"tel1Cliente": 494949,
+				"tel2Cliente": 49494949,
+				"dirCliente": "vela street",
+				"mailCliente": "vela@gmail.com",
+				"CondicionCliente": 1,
+				"fotoCliente": "image660a410f643f81711948047.jpg",
+				"create_at": "2024-04-01 21:29:01",
+				"create_time": null,
+				"idTipoPago": 1,
+				"idTipoComprobante": 1,
+				"fechaInscripcion": "2024-04-01",
+				"impuestoInscripcion": "0.00",
+				"estadoInscripcion": 1,
+				"idUsuario": 1,
+				"sincronizacion": "no",
+				"estado": "ant"
+			}
+		]
+	}
+}
+2024-04-04T05:52:03.642Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T05:53:03.699Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T05:53:03.700Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [
+			{
+				"idDetalleInscripcion": 136,
+				"idInscripcion": 191,
+				"idCliente": 39,
+				"idPaquete": 1,
+				"fechaInicio": "2024-03-04 00:00:00",
+				"fechaFin": "2024-04-03 23:59:59",
+				"costoPaquete": 150,
+				"nomCliente": "Oscar Olmos",
+				"docCliente": 3910133,
+				"tel1Cliente": 78454216,
+				"tel2Cliente": 78451699,
+				"dirCliente": "Barrio El Pariqwer",
+				"mailCliente": "asd6xqwe@gmail.com",
+				"CondicionCliente": 0,
+				"fotoCliente": "image65ed0797eceb11710032791.jpg",
+				"create_at": "2024-04-01 21:29:01",
+				"create_time": null,
+				"idTipoPago": 1,
+				"idTipoComprobante": 1,
+				"fechaInscripcion": "2024-03-31",
+				"impuestoInscripcion": "0.00",
+				"estadoInscripcion": 1,
+				"idUsuario": 1,
+				"sincronizacion": "no",
+				"estado": "vig"
+			}
+		],
+		"anadir": [
+			{
+				"idDetalleInscripcion": 137,
+				"idInscripcion": 192,
+				"idCliente": 49,
+				"idPaquete": 1,
+				"fechaInicio": "2024-04-04 00:00:00",
+				"fechaFin": "2024-05-04 23:59:59",
+				"costoPaquete": 160,
+				"nomCliente": "Pedro Vela",
+				"docCliente": 4949,
+				"tel1Cliente": 494949,
+				"tel2Cliente": 49494949,
+				"dirCliente": "vela street",
+				"mailCliente": "vela@gmail.com",
+				"CondicionCliente": 1,
+				"fotoCliente": "image660a410f643f81711948047.jpg",
+				"create_at": "2024-04-01 21:29:01",
+				"create_time": null,
+				"idTipoPago": 1,
+				"idTipoComprobante": 1,
+				"fechaInscripcion": "2024-04-01",
+				"impuestoInscripcion": "0.00",
+				"estadoInscripcion": 1,
+				"idUsuario": 1,
+				"sincronizacion": "no",
+				"estado": "ant"
+			}
+		]
+	}
+}
+2024-04-04T05:53:03.703Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T06:04:04.989Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T06:04:04.990Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [
+			{
+				"idDetalleInscripcion": 136,
+				"idInscripcion": 191,
+				"idCliente": 39,
+				"idPaquete": 1,
+				"fechaInicio": "2024-03-04 00:00:00",
+				"fechaFin": "2024-04-03 23:59:59",
+				"costoPaquete": 150,
+				"nomCliente": "Oscar Olmos",
+				"docCliente": 3910133,
+				"tel1Cliente": 78454216,
+				"tel2Cliente": 78451699,
+				"dirCliente": "Barrio El Pariqwer",
+				"mailCliente": "asd6xqwe@gmail.com",
+				"CondicionCliente": 0,
+				"fotoCliente": "image65ed0797eceb11710032791.jpg",
+				"create_at": "2024-04-01 21:29:01",
+				"create_time": null,
+				"idTipoPago": 1,
+				"idTipoComprobante": 1,
+				"fechaInscripcion": "2024-03-31",
+				"impuestoInscripcion": "0.00",
+				"estadoInscripcion": 1,
+				"idUsuario": 1,
+				"sincronizacion": "no",
+				"estado": "vig"
+			}
+		],
+		"anadir": [
+			{
+				"idDetalleInscripcion": 137,
+				"idInscripcion": 192,
+				"idCliente": 49,
+				"idPaquete": 1,
+				"fechaInicio": "2024-04-04 00:00:00",
+				"fechaFin": "2024-05-04 23:59:59",
+				"costoPaquete": 160,
+				"nomCliente": "Pedro Vela",
+				"docCliente": 4949,
+				"tel1Cliente": 494949,
+				"tel2Cliente": 49494949,
+				"dirCliente": "vela street",
+				"mailCliente": "vela@gmail.com",
+				"CondicionCliente": 1,
+				"fotoCliente": "image660a410f643f81711948047.jpg",
+				"create_at": "2024-04-01 21:29:01",
+				"create_time": null,
+				"idTipoPago": 1,
+				"idTipoComprobante": 1,
+				"fechaInscripcion": "2024-04-01",
+				"impuestoInscripcion": "0.00",
+				"estadoInscripcion": 1,
+				"idUsuario": 1,
+				"sincronizacion": "no",
+				"estado": "ant"
+			}
+		]
+	}
+}
+2024-04-04T06:04:04.993Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T06:08:04.100Z [info]: Nuevo cliente detectado tipo: "web" ip:::1
+2024-04-04T06:08:04.101Z [info]: obtenerObtenerInfo channel:server event: {
+	"event": "deleteProgramada:init",
+	"req": [],
+	"res": [],
+	"data": {
+		"eliminar": [],
+		"anadir": []
+	}
+}
+2024-04-04T06:08:04.102Z [info]: Cliente desconectado "web" ip:::1
+2024-04-04T09:53:02.561Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-04T16:01:21.364Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-04T16:01:59.825Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-04T16:02:15.998Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-04T16:02:29.153Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-04T16:02:29.264Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-04T16:02:49.041Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-04T16:02:49.185Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-04T16:11:20.531Z [info]: Cliente desconectado "front-end" ip:::1
+2024-04-04T16:11:21.340Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-04T16:38:09.969Z [info]: Iniciando server en el puerto :3000
+2024-04-04T16:38:12.811Z [info]: canales detectados:{
+	"cliente-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"cliente-3": {
+		"message": "",
+		"subscribers": []
+	},
+	"worker-1": {
+		"message": "",
+		"subscribers": []
+	},
+	"worker-2": {
+		"message": "",
+		"subscribers": []
+	},
+	"server": {
+		"message": "",
+		"subscribers": []
+	}
+}
+2024-04-04T16:39:05.568Z [info]: Nuevo cliente detectado tipo: "worker" ip:::1
+2024-04-04T17:30:54.103Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
