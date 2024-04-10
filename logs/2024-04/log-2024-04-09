@@ -4869,3 +4869,4 @@
 }
 2024-04-10T00:50:24.466Z [info]: Cliente desconectado "front-end" ip:::1
 2024-04-10T00:50:26.128Z [info]: Nuevo cliente detectado tipo: "front-end" ip:::1
+2024-04-10T01:00:04.486Z [info]: Cliente desconectado "worker" ip:::1
